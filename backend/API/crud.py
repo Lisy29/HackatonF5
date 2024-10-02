@@ -1,5 +1,6 @@
 from sqlalchemy.orm import Session
 from . import models, schemas
+import models_db, schemas_db
 from fastapi import HTTPException
 
 
@@ -76,3 +77,15 @@ def delete_route(db: Session, route_id: int):
         raise HTTPException(status_code=404, detail="Route not found")
     db.delete(db_route)
     db.commit()
+
+
+def create_route_prediction(db: Session, route: schemas_db.RouteCreate, predicted_transport: str):
+    db_route = models_db.Route(
+        start_point=route.start_point,
+        destination=route.destination,
+        predicted_transport=predicted_transport
+    )
+    db.add(db_route)
+    db.commit()
+    db.refresh(db_route)
+    return db_route

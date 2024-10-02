@@ -12,6 +12,7 @@ Thumbs.db
 *.sln.docstates
 
 # Archivos de entorno virtual
+hackatonF5env/
 venv/
 env/
 ENV/
