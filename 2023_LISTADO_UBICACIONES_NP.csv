@@ -1,0 +1,1082 @@
+﻿codigo;nombre_cruce;tramo;sentido;desde;hasta;latitud;longitud
+2023_283;Calle cerro negro;Entre gandia y jativa;Gandia;11/02/2023;17/02/2023;40.398.019;-3.670.395
+2023_284;calle cerro negro;Entre gandia y jativa;Jativa;11/02/2023;17/02/2023;40.398.427;-3.670.189
+2023_418;Calle estafeta;Entre mezquita y taconera;Mezquita;01/02/2023;07/02/2023;40.373.115;-3.692.294
+2023_419;Calle estafeta;Entre mezquita y taconera;Taconera;01/02/2023;07/02/2023;40.373.356;-3.692.440
+2023_771;avenida orovilla;Entre dulzura y alianza;Dulzura;28/01/2023;03/02/2023;40.357.738;-3.689.529
+2023_772;avenida orovilla;Entre dulzura y alianza;Alianza;28/01/2023;03/02/2023;40.358.183;-3.689.628
+2023_875;Avenida Rafael Ybarra;Entre Leiza y Deva;Leiza;02/02/2023;08/02/2023;40.370.271;-3.712.285
+2023_876;Avenida Rafael Ybarra;Entre Leiza y Deva;Deva;02/02/2023;08/02/2023;40.370.639;-3.712.413
+2023_917;Avda los rosales;Entre zafiro y A4;Zafiro;25/01/2023;31/01/2023;40.348.737;-3.675.202
+2023_939;calle san jenaro;Entre alcocer y arroyo bueno;Alcocer;26/01/2023;01/02/2023;40.349.043;-3.704.318
+2023_p257;Avda san luis;Entre calle mesena y Eladio Lopez;Calle mesena;18/02/2023;24/02/2023;40.474.599;-3.664.430
+2023_p257;Avda san luis;Entre calle mesena y Eladio Lopez;Calle Eladio Lopez;18/02/2023;24/02/2023;40.474.677;-3.665.095
+2023_9; C. AGUSTIN DE FOXA;Pº Castellana-Enrique Larreta;Pº Castellana;28/02/2023;06/03/2023;40.468.540;-3.687.340
+2023_10;Tunel C. AGUSTIN DE FOXA;San Benito-Enrique Larreta;Mauricio Legendre;28/02/2023;06/03/2023;40.468.540;-3.687.340
+2023_13;C. ALBASANZ;Santa Leonor-Alfonso Gomez;Santa Leonor;20/06/2023;26/06/2023;40.437.180;-3.628.460
+2023_14;C. ALBASANZ;Santa Leonor-Alfonso Gomez;Alfonso Gomez;20/06/2023;26/06/2023;40.437.180;-3.628.460
+2023_17; Av. ALBUFERA;M-30-Avenida del Monte Igueldo;Avenida del Monte Igueldo;14/02/2023;21/02/2023;40.397.650;-3.668.140
+2023_18; Av. ALBUFERA;M-30-Avenida del Monte Igueldo;M-30;14/02/2023;21/02/2023;40.397.630;-3.668.100
+2023_19; Av. ALBUFERA;M-40-Avenida de La Democracia;Avenida de La Democracia;10/03/2023;16/03/2023;40.383.850;-3.632.200
+2023_20; Av. ALBUFERA;Avenida Rafael Alberti-M-40;M-40;10/03/2023;16/03/2023;40.385.990;-3.637.280
+2023_23; C. ALCALA;Alcalde Luis Silvela-Avenida septima;Alcalde Luis Silvela;07/09/2023;13/09/2023;40.449.840;-3.598.690
+2023_24; C. ALCALA;Alcalde Luis Silvela-Avenida septima;Avenida septima;07/09/2023;13/09/2023;40.449.800;-3.598.690
+2023_27; Av. ALBUFERA;Teniente Munoz Diaz-Avenida de Buenos Aires;Avenida de Buenos Aires;21/06/2023;27/06/2023;40.391.520;-3.654.790
+2023_28; Av. ALBUFERA;Teniente Munoz Diaz-Avenida de Buenos Aires;Teniente Munoz Diaz;21/06/2023;27/06/2023;40.391.590;-3.654.880
+2023_37; C. ALCALDE GARRIDO JUARISTI;Arroyo Media Legua-Eje O'Donnell;Eje O'Donnell;21/09/2023;27/09/2023;40.414.130;-3.651.080
+2023_38; C. ALCALDE GARRIDO JUARISTI;Arroyo Media Legua-Eje O'Donnell;Arroyo Media Legua;21/09/2023;27/09/2023;40.414.130;-3.651.190
+2023_45;C. ALDONZA LORENZO;C Cueva De Montesinos - Ronda Del Caballero De La Mancha;Ronda Del Caballero De La Mancha;18/01/2023;24/01/2023;40.499.230;-3.690.120
+2023_46;C. ALDONZA LORENZO;C Cueva De Montesinos - Ronda Del Caballero De La Mancha;C Cueva De Montesinos;18/01/2023;24/01/2023;40.499.231;-3.689.906
+2023_64;C. ALTO DEL RETIRO;Cañada del santisimo-Acesso parking centro comercial;Acceso parking centro comercial;22/02/2023;28/02/2023;40.367.806;-3.589.642
+2023_65;C. ALTO DEL RETIRO;Cañada del Santísimo-Acceso parking centro comercial;Cañada del Santísimo;22/02/2023;28/02/2023;40.369.193;-3.592.496
+2023_66; C. AMPOSTA;Arcos de Jalon-Guadalajara;Arcos de Jalon;18/05/2023;24/05/2023;40.422.030;-3.618.280
+2023_67; C. AMPOSTA;Guadalajara(AV)-Arcos de Jalon;Guadalajara (AV);18/05/2023;24/05/2023;40.421.970;-3.618.450
+2023_70;C. ANA TERESA;Ardales - Pleyades;Pleyades;07/02/2023;13/02/2023;40.460.799;-3.783.353
+2023_71;C. ANA TERESA;Ardales - Pleyades;Ardales;08/02/2023;14/02/2023;40.460.758;-3.783.388
+2023_73; Av. ANDALUCIA;M-40-Lillo;M-40;27/01/2023;03/02/2023;40.362.580;-3.693.920
+2023_74; Av. ANDALUCIA;M-40-Lillo;La Corte de Faraon;18/09/2023;24/09/2023;40.362.580;-3.693.920
+2023_77;Pte. Puente Andalucía;Legazpi(Pz.)-Cadiz (Gt¦.);Legazpi(Pz.);07/02/2023;14/02/2023;40.389.420;-3.697.550
+2023_78; Pte. Puente Andalucía;Legazpi(Pz.)-Cadiz (Gt¦.);Cadiz (Gt¦.);18/09/2023;24/09/2023;40.389.498;-3.697.613
+2023_81;C. ANOETA;La Dolorosa - Alegria De La Huerta;La Dolorosa;26/01/2023;01/02/2023;40.352.699;-3.694.670
+2023_82;C. ANOETA;La Dolorosa - Alegria De La Huerta;Alegria De La Huerta;26/01/2023;01/02/2023;40.352.816;-3.694.677
+2023_83;ANTONIO GADES;ENTRE JOSE ANTONIO REBOLLEDO Y PALMA Y CARDENAL VICENTE ENRIQUE Y TARANCON;JOSE ANTONIO REBOLLEDO Y PALMA;14/09/2023;20/09/2023;40.367.253;-3.591.757
+2023_84;ANTONIO GADES;ENTRE JOSE ANTONIO REBOLLEDO Y PALMA Y CARDENAL VICENTE ENRIQUE Y TARANCON;CARDENAL VICENTE ENRIQUE Y TARANCON;14/09/2023;20/09/2023;40.367.498;-3.591.567
+2023_87;C. ANTONIO LOPEZ;Simon Gonzalez - Virgen De La Encina;Simon Gonzalez;03/02/2023;09/02/2023;40.378.660;-3.695.310
+2023_88;C. ANTONIO LOPEZ;Cadiz (Gta) - Camino De Perales;Camino De Perales;08/02/2023;14/02/2023;40.386.978;-3.697.916
+2023_89;C. ANTONIO LOPEZ;Cadiz (Gta) - Camino De Perales;Cadiz (Gta);08/02/2023;14/02/2023;40.386.915;-3.698.030
+2023_90; C. AQUITANIA;Capri-Bulgaria;Bulgaria;17/07/2023;23/07/2023;40.418.217;-3.619.300
+2023_92; Av. ARCENTALES;Plaza de Grecia-M40;Plaza de Grecia;08/06/2023;14/06/2023;40.434.280;-3.605.350
+2023_93; Av. ARCENTALES;Plaza de Grecia-M40;M40;08/06/2023;14/06/2023;40.434.600;-3.605.480
+2023_94; Av. ARCENTALES;Glorieta de Arcentales-San Romualdo;San Romualdo;09/06/2023;15/06/2023;40.433.420;-3.620.420
+2023_95; Av. ARCENTALES;Glorieta de Arcentales-San Romualdo;Glorieta de Arcentales;09/06/2023;15/06/2023;40.433.420;-3.620.420
+2023_96; Av. ARCENTALES;Avenida de Canillejas a Vicalvaro-Plaza de Grecia;Plaza de Grecia;09/06/2023;15/06/2023;40.434.780;-3.611.150
+2023_97; Av. ARCENTALES;Avenida de Canillejas a Vicalvaro-Plaza de Grecia;Avenida de Canillejas a Vicalvaro;09/06/2023;15/06/2023;40.434.780;-3.611.150
+2023_101;#¿NOMBRE?;Avenida de Séneca-Plaza del Cardenal Cisneros;Avenida de Séneca;08/02/2023;14/02/2023;40.438.350;-3.724.880
+2023_102;Avenida DE LA MEMORIA (CENTRAL);Avenida de Séneca-Plaza del Cardenal Cisneros;Plaza del Cardenal Cisneros;08/02/2023;14/02/2023;40.438.533;-3.724.620
+2023_108; C. ARROYO DE LA MEDIA LEGUA;Camino Vinateros-Avenida Doctor Garcia Tapia;Camino Vinateros;31/05/2023;06/06/2023;40.411.390;-3.655.000
+2023_109; C. ARROYO DE LA MEDIA LEGUA;Camino Vinateros-Avenida Doctor Garcia Tapia;Avenida Doctor Garcia Tapia;31/05/2023;06/06/2023;40.411.540;-3.654.840
+2023_110; C. ARROYO DE LA MEDIA LEGUA;Corregidor Alonso de Aguilar (Pz.)-Camino Vinateros;Corregidor Alonso de Aguilar (Pz.);30/05/2023;05/06/2023;40.407.990;-3.658.060
+2023_111; C. ARROYO DE LA MEDIA LEGUA;Corregidor Alonso de Aguilar (Pz.)-Camino Vinateros;Camino Vinateros;30/05/2023;05/06/2023;40.407.990;-3.658.060
+2023_112;AV. ARROYO DEL MONTE;C Del Valle De Pinares Llanos - C De La Senda Del Infante;C De La Senda Del Infante;25/01/2023;31/01/2023;40.488.070;-3.728.500
+2023_113;AV. ARROYO DEL MONTE;C Del Valle De Pinares Llanos - C De La Senda Del Infante;C Del Valle De Pinares Llanos;25/01/2023;31/01/2023;40.488.070;-3.728.500
+2023_114;C. ARROYO DEL OLIVAR;Alcalde Alfonso Vazquez - Sierra Carbonera;Alcalde Alfonso Vazquez;21/04/2023;27/04/2023;40.393.263;-3.664.231
+2023_119;Lateral C. ARROYO FONTARRON;Plaza del Encuentro-Corregidor Juan Francisco de Lujan;Plaza del Encuentro;25/05/2023;31/05/2023;40.405.150;-3.651.500
+2023_120;Lateral C. ARROYO FONTARRON;Plaza del Encuentro-Corregidor Juan Francisco de Lujan;Corregidor Juan Francisco de Lujan;25/05/2023;31/05/2023;40.405.150;-3.651.500
+2023_121;Tunel C. ARROYO FONTARRON;Plaza del Encuentro-Corregidor Juan Francisco de Lujan;Corregidor Juan Francisco de Lujan;25/05/2023;31/05/2023;40.405.130;-3.651.530
+2023_122;C. ARROYO FONTARRON;Pio Felipe - Fuente Carrantona;Fuente Carrantona;21/04/2023;27/04/2023;40.398.450;-3.645.800
+2023_123;C. ARROYO FONTARRON;Pio Felipe - Fuente Carrantona;Pio Felipe;21/04/2023;27/04/2023;40.398.440;-3.645.850
+2023_124;C. ARROYO POZUELO;Aragonito - Cinabrio;Aragonito;21/03/2023;27/03/2023;40.452.550;-3.719.847
+2023_126;C. ARROYOFRESNO;Avenida Cardenal Herrera Oria - Los Gavilanes;Avenida Cardenal Herrera Oria;01/02/2023;07/02/2023;40.477.250;-3.741.183
+2023_127;C. ARROYOFRESNO;Avenida Cardenal Herrera Oria - Los Gavilanes;Los Gavilanes;02/02/2023;08/02/2023;40.477.250;-3.741.183
+2023_128; Paseo. ARTILLEROS;Calahorra-La Vicalvarada (Pz.);La Vicalvarada (Pz.);16/05/2023;22/05/2023;40.408.890;-3.609.720
+2023_129; Paseo. ARTILLEROS;Calahorra-La Vicalvarada (Pz.);Calahorra;16/05/2023;22/05/2023;40.408.850;-3.609.650
+2023_130; C. ARTURO SORIA;Alcala-Jose del Hierro;Jose del Hierro;22/06/2023;28/06/2023;40.439.280;-3.639.170
+2023_131; C. ARTURO SORIA;Alcala-Jose del Hierro;Alcala;22/06/2023;28/06/2023;40.439.430;-3.639.390
+2023_132; C. ARTURO SORIA;Pilar Cavero-Angelita Cavero;Angelita Cavero;01/09/2023;07/09/2023;40.445.760;-3.647.210
+2023_133; C. ARTURO SORIA;Pilar Cavero-Angelita Cavero;Angelita Cavero;01/09/2023;07/09/2023;40.445.760;-3.647.210
+2023_140;C. ARZOBISPO MORCILLO;Julio Palacios - Antonio Lopez Aguado;Julio Palacios;28/01/2023;03/02/2023;40.482.250;-3.698.282
+2023_141;C. ARZOBISPO MORCILLO;Julio Palacios - Antonio Lopez Aguado;Antonio Lopez Aguado;28/01/2023;03/02/2023;40.482.340;-3.698.170
+2023_142; C. ASCAO;Emilio Ferrari-Berastegui;Berastegui;15/06/2023;21/06/2023;40.429.750;-3.642.090
+2023_143; C. ASCAO;Emilio Ferrari-Berastegui;Emilio Ferrari;15/06/2023;21/06/2023;40.429.750;-3.642.090
+2023_144; Av. ASTURIAS;Via Limite-Sinesio Delgado;Sinesio Delgado;21/02/2023;27/02/2023;40.473.080;-3.700.560
+2023_145; Av. ASTURIAS;Via Limite-Sinesio Delgado;Via Limite;21/02/2023;27/02/2023;40.473.080;-3.700.560
+2023_147; Av. AURORA BOREAL;Dehesa de Vicalvaro-Minerva;Minerva;07/03/2023;13/03/2023;40.399.280;-3.604.420
+2023_148; Av. AURORA BOREAL;Dehesa de Vicalvaro-Minerva;Dehesa de Vicalvaro;07/03/2023;13/03/2023;40.399.260;-3.604.370
+2023_156; Av. BADAJOZ;Martinez Villergas-Torrelaguna;Torrelaguna;23/06/2023;29/06/2023;40.442.150;-3.654.200
+2023_157; Av. BADAJOZ;Martinez Villergas-Torrelaguna;Martinez Villergas;23/06/2023;29/06/2023;40.442.150;-3.654.200
+2023_162;CMO. BARRIAL, EL;Ana Teresa - Avenida De La Osa Mayor;Avenida De La Osa Mayor;03/02/2023;09/02/2023;40.460.657;-3.790.433
+2023_168; Pte. BEGONA;Pedro Rico-San Modesto;San Modesto;17/01/2023;23/01/2023;40.483.730;-3.689.280
+2023_169; Pte. BEGONA;Pedro Rico-San Modesto;Pedro Rico;17/01/2023;23/01/2023;40.483.730;-3.689.280
+2023_170;C. BENJAMIN PALENCIA;Calle Pio Felipe - Calle Ramon Perez Ayala;Calle Pio Felipe;21/04/2023;27/04/2023;40.396.130;-3.653.100
+2023_171;C. BENJAMIN PALENCIA;Calle Pio Felipe - Calle Ramon Perez Ayala;Calle Ramon Perez Ayala;21/04/2023;27/04/2023;40.396.172;-3.653.084
+2023_172;C. BENJAMIN PALENCIA;El Bosco - Pablo Neruda;El Bosco;21/04/2023;27/04/2023;40.394.300;-3.642.800
+2023_173;C. BENJAMIN PALENCIA;El Bosco - Pablo Neruda;Pablo Neruda;21/04/2023;27/04/2023;40.394.475;-3.642.984
+2023_174;C. BERROCAL;Bario - Canchal;Canchal;21/01/2023;27/01/2023;40.347.320;-3.677.450
+2023_175;C. BERROCAL;Bario - Canchal;Bario;21/01/2023;27/01/2023;40.347.356;-3.677.175
+2023_179;AVDA BLAS DE LEZO;ENTRE M-45 Y MAYORAZGO DE DUARTE;MAYORAZGO DE DUARTE;14/09/2023;20/09/2023;40.409.472;-3.552.919
+2023_184; C. BOSCO;Maruja Garcia Romero-Ramon Perez de Ayala;Ramon Perez de Ayala;30/05/2023;05/06/2023;40.403.060;-3.653.010
+2023_185; C. BOSCO;Maruja Garcia Romero-Ramon Perez de Ayala;Maruja Garcia Romero;30/05/2023;05/06/2023;40.403.060;-3.653.010
+2023_186;C. BOSCO, EL;Pio Felipe - Benjamin Palencia;Pio Felipe;21/04/2023;27/04/2023;40.396.890;-3.645.950
+2023_187;C. BOSCO, EL;Pio Felipe - Benjamin Palencia;Benjamin Palencia;21/04/2023;27/04/2023;40.396.849;-3.646.002
+2023_188; C. BOYER;Rivas-Cavilas;Cavilas;02/03/2023;08/03/2023;40.402.130;-3.591.320
+2023_189; C. BOYER;Rivas-Cavilas;Rivas;02/03/2023;08/03/2023;40.402.150;-3.591.310
+2023_196; Av. BUENOS AIRES;Sabrina-Avenida Miguel Hernandez;Sabrina;16/02/2023;23/02/2023;40.376.570;-3.654.150
+2023_197; Av. BUENOS AIRES;Sabrina-Avenida Miguel Hernandez;Avenida Miguel Hernandez;16/02/2023;23/02/2023;40.376.570;-3.654.150
+2023_198; Av. BURGOS;Bambu-Avenida San Luis;Bambu;15/02/2023;21/02/2023;40.479.900;-3.675.740
+2023_199; Av. BURGOS;Bambu-Avenida San Luis;San Luis;15/02/2023;21/02/2023;40.479.720;-3.675.690
+2023_200; Av. BURGOS;Buganvilla-Marques de Torroja;Buganvilla;15/02/2023;21/02/2023;40.470.510;-3.676.210
+2023_201; Av. BURGOS;Buganvilla-Marques de Torroja;Marques de Torroja;15/02/2023;21/02/2023;40.470.690;-3.676.330
+2023_208; C. CAMINO DE LOS VINATEROS;Arroyo Belincoso-Corregidor Senor de la Elipa;Corregidor Senor de la Elipa;21/09/2023;27/09/2023;40.410.290;-3.651.810
+2023_209; C. CAMINO DE LOS VINATEROS;Arroyo Belincoso-Corregidor Senor de la Elipa;Arroyo Belincoso;21/09/2023;27/09/2023;40.410.290;-3.651.810
+2023_212;AV CAMINO DE SANTIAGO;LATERAL, ENTRE PZA OBRADOIRO Y M-40;PLAZA OBRADOIRO;13/09/2023;19/09/2023;40.512.261;-3.664.699
+2023_213;AV CAMINO DE SANTIAGO;ENTRE PZA OBRADOIRO Y M-40;PLAZA OBRADOIRO;13/09/2023;19/09/2023;40.512.573;-3.665.117
+2023_214;AV CAMINO DE SANTIAGO;ENTRE PZA OBRADOIRO Y M-40;M40;13/09/2023;19/09/2023;40.512.890;-3.664.902
+2023_215;AV CAMINO DE SANTIAGO;LATERAL, ENTRE PZA OBRADOIRO Y M-40;M-40;13/09/2023;19/09/2023;40.512.871;-3.665.293
+2023_216; C. CAMPEZO;Zambrana-Laguardia;Zambrana;07/09/2023;13/09/2023;40.446.330;-3.582.460
+2023_217; C. CAMPEZO;Zambrana-Laguardia;Laguardia;07/09/2023;13/09/2023;40.446.330;-3.582.460
+2023_218;C. CANDILEJAS;Asamblea De Madrid  (Pza) - Avenida Parque Palomeras Bajas;Asamblea De Madrid  (Pza);13/04/2023;19/04/2023;40.381.869;-3.663.996
+2023_219;calle candilejas;Entre asamblea de madrid y avda parque de palomeras bajas;avda parque de palomeras bajas;13/04/2023;19/04/2023;40.382.171;-3.663.891
+2023_222; Av. CANILLEJAS A VICALVARO M-602;Aquitania-Versalles;Aquitania;17/05/2023;23/05/2023;40.420.640;-3.611.280
+2023_223; Av. CANILLEJAS A VICALVARO M-602;Aquitania-Versalles;Versalles;17/05/2023;23/05/2023;40.420.640;-3.611.280
+2023_224; Av. CANILLEJAS A VICALVARO M-602;M-40-Plaza de La Vicalvarada;Plaza de La Vicalvarada;17/05/2023;23/05/2023;40.410.520;-3.609.750
+2023_225; Av. CANILLEJAS A VICALVARO M-602;M-40-Plaza de La Vicalvarada;M-40;17/05/2023;23/05/2023;40.410.500;-3.609.770
+2023_226;Avenida CANTABRIA;San Severo-Bergantín;Bergantín;08/09/2023;14/09/2023;40.458.100;-3.584.220
+2023_227;#¿NOMBRE?;San Severo-Bergantín;Bergantín;08/09/2023;14/09/2023;40.458.100;-3.584.220
+2023_228;C. CANTALEJO;Chapinería - Arroyofresno;Chapinería;03/02/2023;09/02/2023;40.475.213;-3.741.325
+2023_229;C. CANTALEJO;Chapinería - Arroyofresno;Arroyofresno;03/02/2023;09/02/2023;40.475.259;-3.741.309
+2023_233;CTRA. CARABANCHEL A VILLAVERDE M-602;Rafaela Ybarra - Glorieta De Butarque;Glorieta De Butarque;28/01/2023;03/02/2023;40.357.520;-3.714.290
+2023_234; C CARABANCHEL A VILLAVERDE M-602;Rafaela Ybarra-Glorieta de Butarque;Rafaela Ybarra;28/01/2023;03/02/2023;40.357.437;-3.714.075
+2023_239;AV. CARDENAL HERRERA ORIA;Gavilanes - Arroyofresno;Arroyofresno;01/02/2023;07/02/2023;40.477.000;-3.739.460
+2023_240;AV. CARDENAL HERRERA ORIA;Gavilanes - Arroyofresno;Gavilanes;01/02/2023;07/02/2023;40.477.000;-3.739.460
+2023_243; C. CARLOS MARTIN ALVAREZ;Sierra Bermeja-Martinez de la Riva;Sierra Bermeja;14/04/2023;20/04/2023;40.388.630;-3.664.250
+2023_244; C. CARLOS MARTIN ALVAREZ;Sierra Bermeja-Martinez de la Riva;Martinez de la Riva;14/04/2023;20/04/2023;40.388.630;-3.664.250
+2023_255; C. CASALARREINA;Alosno (Pz.)-Daroca;Alosno (Pz.);16/05/2023;22/05/2023;40.407.230;-3.616.030
+2023_256; C. CASALARREINA;Alosno (Pz.)-Daroca;Daroca;16/04/2023;22/04/2023;40.407.250;-3.616.000
+2023_259;Central Paseo. CASTELLANA;Doctor Huertas-Luis Esteban;Luis Esteban;22/02/2023;28/02/2023;40.472.340;-3.687.590
+2023_260;Central Paseo. CASTELLANA;Doctor Huertas-Luis Esteban;Doctor Huertas;22/02/2023;28/02/2023;40.472.390;-3.687.830
+2023_261;Lateral Paseo. CASTELLANA;Doctor Huertas-Luis Esteban;Doctor Huertas;22/02/2023;28/02/2023;40.472.440;-3.688.060
+2023_262;Lateral Paseo. CASTELLANA;Doctor Huertas-Luis Esteban;Luis Esteban;22/02/2023;28/02/2023;40.472.290;-3.687.240
+2023_267;Central Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Plaza de Cuzco;02/03/2023;08/03/2023;40.459.260;-3.689.950
+2023_268;Central Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Francisco Gervas;02/03/2023;08/03/2023;40.459.840;-3.689.700
+2023_269;Lateral Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Plaza de Cuzco;02/03/2023;08/03/2023;40.460.280;-3.690.230
+2023_270;Lateral Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Francisco Gervas;02/03/2023;08/03/2023;40.460.020;-3.689.420
+2023_271;Carril bus Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Francisco Gervas;02/03/2023;08/03/2023;40.460.580;-3.689.590
+2023_272;Carril bus Paseo. CASTELLANA;Plaza de Cuzco-Francisco Gervas;Plaza de Cuzco;02/03/2023;08/03/2023;40.459.230;-3.689.800
+2023_275; C. CASTILLO DEL MADRIGAL DE LAS ALTAS TORRES;Castillo de Arevalo-Castillo de Simancas;Castillo de Simancas;15/06/2023;21/06/2023;40.428.570;-3.628.070
+2023_276; C. CASTILLO DEL MADRIGAL DE LAS ALTAS TORRES;Castillo de Arevalo-Castillo de Simancas;Castillo de Arevalo;15/06/2023;21/06/2023;40.428.570;-3.628.020
+2023_287;PSO. CHOPERA;Fernando Poo - Plaza General Maroto;Fernando Poo;10/02/2023;16/02/2023;40.394.150;-3.699.190
+2023_288;PSO. CHOPERA;Fernando Poo - Plaza General Maroto;Plaza General Maroto;10/02/2023;16/02/2023;40.394.087;-3.699.303
+2023_291;C.COCHERÓN DE LA VILLA;San Toribio -Tranvía Blanco;Tranvía Blanco;10/03/2023;16/03/2023;40.382.384;-3.635.069
+2023_297; Avenida COMUNIDADES;Avenida de la Democracia-Minerva;Minerva;07/03/2023;13/03/2023;40.395.567;-3.614.270
+2023_298; Avenida COMUNIDADES;Avenida de la Democracia-Minerva;Avenida de la Democracia;07/03/2023;13/03/2023;40.395.567;-3.614.270
+2023_305; C. CONDESA DE VENADITO;Agastia-Torrelaguna;Torrelaguna;01/09/2023;07/09/2023;40.445.201;-3.652.407
+2023_306; C. CONDESA DE VENADITO;Agastia-Torrelaguna;Agastia;01/09/2023;07/09/2023;40.445.201;-3.652.407
+2023_309;C. CONVENIO;M-30 - Monte Igueldo;M-30;16/02/2023;22/02/2023;40.390.400;-3.671.830
+2023_310;C. CONVENIO;M-30 - Monte Igueldo;Monte Igueldo;16/02/2023;22/02/2023;40.390.386;-3.671.930
+2023_311;AV. CORDOBA;Glorieta De Cadiz - Hijas De Jesus;Glorieta De Cadiz;04/02/2023;10/02/2023;40.387.160;-3.698.900
+2023_312;AV. CORDOBA;Glorieta De Cadiz - Hijas De Jesus;Hijas De Jesus;04/02/2023;10/02/2023;40.387.102;-3.699.176
+2023_313;CARRIL BUS AV. CORDOBA;Glorieta De Cadiz - Hijas De Jesus;Hijas De Jesus;04/02/2023;10/02/2023;40.387.130;-3.699.098
+2023_314;CARRIL BUS AV. CORDOBA;Glorieta De Cadiz - Hijas De Jesus;Glorieta De Cadiz;04/02/2023;10/02/2023;40.387.144;-3.698.994
+2023_317; C. CORREGIDOR DIEGO VALDERRABANO;Camino Vinateros-Doctor Garcia Tapia;Doctor Garcia Tapia;02/06/2023;08/06/2023;40.412.830;-3.658.030
+2023_318; C. CORREGIDOR DIEGO VALDERRABANO;Camino Vinateros-Doctor Garcia Tapia;Camino Vinateros;02/07/2023;08/07/2023;40.412.820;-3.657.980
+2023_319; C. COSTA BRAVA;Moralzarzal-Glorieta Pradera del Saceral;Moralzarzal;20/01/2023;26/01/2023;40.495.860;-3.718.120
+2023_320;C. COSTA BRAVA;Moralzarzal - Glorieta Pradera Del Saceral;Glorieta Pradera Del Saceral;21/01/2023;27/01/2023;40.495.920;-3.717.990
+2023_323;Lateral C. COSTA RICA;Avenida de Alfonso XIII-Arturo Soria;Avenida de Alfonso XIII;08/03/2023;14/03/2023;40.459.750;-3.666.330
+2023_324;Tunel C. COSTA RICA;Avenida de Alfonso XIII-Arturo Soria;Arturo Soria;08/03/2023;14/03/2023;40.459.580;-3.666.280
+2023_325;CRISTO DE LA VICTORIA;Rafaela Ybarra-Primitiva Gañán;Primitiva Gañán;02/02/2023;09/02/2023;40.378.844;-3.710.069
+2023_326; C. CRISTO DE LA VICTORIA;Primitiva Ganan-Avenida Rafaela Ybarra;Avenida Rafaela Ybarra;18/09/2023;24/09/2023;40.378.800;-3.711.030
+2023_327; C. CRONOS;Julian Camarillo-Cronos (Pz.);Julian Camarillo;21/06/2023;27/06/2023;40.438.830;-3.619.120
+2023_328; C. CRONOS;Julian Camarillo-Cronos (Pz.);Cronos (Pz.);21/06/2023;27/06/2023;40.438.830;-3.619.120
+2023_332; Av. DAROCA;Mateo Garcia-Altamira;Mateo Garcia;13/06/2023;19/06/2023;40.429.110;-3.652.520
+2023_333; Av. DAROCA;Mateo Garcia-Altamira;Altamira;13/06/2023;19/06/2023;40.429.110;-3.652.520
+2023_334; Av. DAROCA;Casalarreina-Calahorra;Casalarreina;16/05/2023;22/05/2023;40.407.450;-3.614.560
+2023_335; Av. DAROCA;Casalarreina-Calahorra;Calahorra;16/05/2023;22/05/2023;40.407.410;-3.614.580
+2023_340; Paseo. DELICIAS;Murcia-Tortosa;Tortosa;18/09/2023;24/09/2023;40.405.370;-3.693.500
+2023_341; Paseo. DELICIAS;Plaza Beata M¦ Ana de Jesus-Plaza Legazpi;Plaza Legazpi;09/02/2023;16/02/2023;40.392.920;-3.694.900
+2023_342; Av. DEMOCRACIA;Bulevar Jose Prats-Avenida del Mediterraneo;Bulevar Jose Prats;07/03/2023;13/03/2023;40.393.290;-3.618.150
+2023_343; Av. DEMOCRACIA;Avenida del Mediterraneo-Avenida Gran Via del Este;Avenida del Mediterraneo;07/03/2023;13/03/2023;40.384.250;-3.624.540
+2023_344; Av. DEMOCRACIA;Avenida del Mediterraneo-Avenida Gran Via del Este;Avenida del Mediterraneo;08/03/2023;14/03/2023;40.384.250;-3.624.540
+2023_345; Av. DEMOCRACIA;Avenida del Mediterraneo-Avenida Gran Via del Este;Avenida Gran Via del Este;08/03/2023;14/03/2023;40.384.290;-3.624.510
+2023_346; C. DEYANIRA;Aracne-Arrastraia;Aracne;07/09/2023;13/09/2023;40.443.030;-3.587.420
+2023_347; C. DEYANIRA;Aracne-Arrastraia;Aracne;07/09/2023;13/09/2023;40.443.030;-3.587.420
+2023_351; Paseo. DIRECCION;Villaamil-Panizo;Villaamil;07/03/2023;13/03/2023;40.462.500;-3.707.960
+2023_352; Paseo. DIRECCION;Villaamil-Panizo;Panizo;07/03/2023;13/03/2023;40.462.530;-3.707.870
+2023_353;Pº DE LA DIRECCIÓN;Manuela Mínguez-Los Jamargos;Los Jamargos;23/02/2023;01/03/2023;40.470.330;-3.703.690
+2023_354;Pº DE LA DIRECCIÓN;Manuela Mínguez-Los Jamargos;Manuela Mínguez;23/02/2023;01/03/2023;40.470.325;-3.703.689
+2023_365;AV. DOCTOR FEDERICO RUBIO Y GALI;Avenida Pablo Iglesias - Numancia;Avenida Pablo Iglesias;21/03/2023;27/03/2023;40.452.671;-3.712.615
+2023_366;AV. DOCTOR FEDERICO RUBIO Y GALI;Avenida Pablo Iglesias - Numancia;Numancia;21/03/2023;27/03/2023;40.452.702;-3.712.471
+2023_369; Av. DOCTOR GARCIA TAPIA;Costa Blanca-Rabat;Rabat;24/05/2023;30/05/2023;40.407.090;-3.628.230
+2023_370; Av. DOCTOR GARCIA TAPIA;Costa Blanca-Rabat;Costa Blanca;24/05/2023;30/05/2023;40.407.090;-3.628.230
+2023_371; Av. DOCTOR GARCIA TAPIA;Arroyo Media Legua-Correg Diego Valderrabano;Arroyo Media Legua;21/09/2023;27/09/2023;40.413.070;-3.656.420
+2023_372; Av. DOCTOR GARCIA TAPIA;Arroyo Media Legua-Correg Diego Valderrabano;Correg Diego Valderrabano;21/09/2023;27/09/2023;40.413.000;-3.656.210
+2023_375; C. DOCTOR RAMON CASTROVIEJO;San Martin de Porres-Glorieta Isaac Rabin;Glorieta Isaac Rabin;14/02/2023;20/02/2023;40.472.550;-3.728.880
+2023_376;C. DOCTOR TOLOSA LATOUR;Ciudad Sanitaria 12 Octubre - Avenida De Los Poblados;Avenida De Los Poblados;02/02/2023;08/02/2023;40.371.896;-3.703.288
+2023_377;C. DOCTOR TOLOSA LATOUR;Ciudad Sanitaria 12 Octubre - Avenida De Los Poblados;Ciudad Sanitaria 12 Octubre;02/02/2023;08/02/2023;40.371.890;-3.703.090
+2023_378; C. DOMINGO PARRAGA;Villastar-Alberto Palacios;Villastar;18/01/2023;25/01/2023;40.341.969;-3.712.096
+2023_379;C. DOMINGO PARRAGA;Villastar - Alberto Palacios;Villastar;18/01/2023;24/01/2023;40.341.940;-3.712.080
+2023_380;C. DOMINGO PARRAGA;Princesa Juada De Austria - Piñuecar;Piñuecar;18/01/2023;24/01/2023;40.341.071;-3.719.023
+2023_381;C. DOMINGO PARRAGA;Princesa Juada De Austria - Piñuecar;Princesa Juada De Austria;18/01/2023;24/01/2023;40.341.157;-3.719.051
+2023_382; Av. DONOSTIARRA;Virgen de la Roca-Jose Banus (Pz.);Virgen de la Roca;14/06/2023;20/06/2023;40.434.970;-3.657.360
+2023_383; Av. DONOSTIARRA;Virgen de la Roca-Jose Banus (Pz.);Jose Banus (Pz.);14/06/2023;20/06/2023;40.434.970;-3.657.360
+2023_388;CTRA. EL PARDO A FUENCARRAL;Avenida Del Palacio - M-40;M-40;24/01/2023;30/01/2023;40.517.317;-3.770.267
+2023_389;CTRA. EL PARDO A FUENCARRAL;Avenida Del Palacio - M-40;Avenida Del Palacio;24/01/2023;30/01/2023;40.517.317;-3.770.267
+2023_390;LATERAL C. EMBAJADORES;Avenida Del Planetario - M-30;M-30;09/02/2023;15/02/2023;40.384.761;-3.688.066
+2023_393;TUNEL C. EMBAJADORES;Manuel Aleixandre - Rodio;Manuel Aleixandre;09/02/2023;15/02/2023;40.390.640;-3.692.560
+2023_394;Lateral C. EMBAJADORES;Manuel Aleixandre-Rodio;Manuel Aleixandre;08/02/2023;14/02/2023;40.390.760;-3.692.520
+2023_395;LATERAL C. EMBAJADORES;Manuel Aleixandre - Rodio;Rodio;09/02/2023;15/02/2023;40.390.880;-3.692.610
+2023_396;C. EMBAJADORES;M30 - Puerto Serrano;Puerto Serrano;09/02/2023;15/02/2023;40.384.996;-3.688.292
+2023_397;C. EMBAJADORES;M30 - Puerto Serrano;M30;09/02/2023;15/02/2023;40.384.929;-3.688.405
+2023_401; C. EMILIO MUNOZ;Santa Leonor-Alfonso Gomez;Santa Leonor;16/06/2023;22/06/2023;40.433.130;-3.626.260
+2023_402; C. EMILIO MUNOZ;Santa Leonor-Alfonso Gomez;Alfonso Gomez;16/06/2023;22/06/2023;40.432.920;-3.626.420
+2023_404;C. ENCOMIENDA DE PALACIOS, LA;Fuente Carrantona, La - Valdebernardo;Fuente Carrantona, La;21/04/2023;27/04/2023;40.397.470;-3.635.430
+2023_405;C. ENCOMIENDA DE PALACIOS, LA;Fuente Carrantona, La - Valdebernardo;Valdebernardo;21/04/2023;27/04/2023;40.397.391;-3.635.480
+2023_406; Av. ENSANCHE DE VALLECAS;Real de Arganda-Avenida de La Gavia;Avenida de La Gavia;24/02/2023;02/03/2023;40.376.170;-3.614.860
+2023_407; Av. ENSANCHE DE VALLECAS;Real de Arganda-Avenida de La Gavia;Real de Arganda;24/02/2023;02/03/2023;40.376.210;-3.614.800
+2023_408; Av. ENTREVIAS;Vedra-Villacarrillo;Villacarrillo;16/02/2023;23/02/2023;40.377.340;-3.662.380
+2023_409;AV. ENTREVIAS;Vedra - Villacarrillo;Vedra;17/02/2023;23/02/2023;40.377.401;-3.662.318
+2023_422; Pte. ESTRELLA;Estrella Polar-Camino de Los Vinateros;Estrella Polar;02/06/2023;08/06/2023;40.410.900;-3.662.930
+2023_423; Pte. ESTRELLA;Estrella Polar-Camino de Los Vinateros;Los Vinateros;02/06/2023;08/06/2023;40.410.840;-3.662.970
+2023_429; C. FELIPE ALVAREZ;Manuel Pavia-Francisco Fatou;Francisco Fatou;09/03/2023;15/03/2023;40.382.230;-3.622.890
+2023_430; C. FELIPE ALVAREZ;Manuel Pavia-Francisco Fatou;Manuel Pavia;09/03/2023;15/03/2023;40.382.230;-3.622.890
+2023_431; C. FELIX RODRIGUEZ DE LA FUENTE;O Donnell-Jose Luis de Arrese;O Donnell;06/06/2023;12/06/2023;40.420.992;-3.656.347
+2023_432;#¿NOMBRE?;O Donnell-Jose Luis de Arrese;Jose Luis de Arrese;06/06/2023;12/06/2023;40.421.070;-3.656.380
+2023_433;C. FERMIN CABALLERO;Isla De Arosa - Avenida De Betanzos;Isla De Arosa;28/01/2023;03/02/2023;40.481.383;-3.715.050
+2023_434;C. FERMIN CABALLERO;Isla De Arosa - Avenida De Betanzos;Avenida De Betanzos;31/01/2023;06/02/2023;40.481.383;-3.715.050
+2023_438;PSO. FERROVIARIOS, LOS;Puerto Lápice - Sulfato;Puerto Lápice;27/01/2023;02/02/2023;40.347.690;-3.715.520
+2023_439;PSO. FERROVIARIOS, LOS;Puerto Lápice - Sulfato;Sulfato;27/01/2023;02/02/2023;40.347.690;-3.715.520
+2023_441;#¿NOMBRE?;Villa de Marín-Melchor Fernández Almagro;Melchor Fernández Almagro;17/02/2023;23/02/2023;40.476.117;-3.700.730
+2023_442;#¿NOMBRE?;Villa de Marín-Melchor Fernández Almagro;Villa de Marín;17/02/2023;23/02/2023;40.476.117;-3.700.730
+2023_445; C. FRANCISCO GERVAS;Orense-Infanta Mercedes;Orense;01/02/2023;07/02/2023;40.461.117;-3.695.233
+2023_446; C. FRANCISCO GERVAS;Orense-Infanta Mercedes;Infanta Mercedes;01/03/2023;07/03/2023;40.461.117;-3.695.233
+2023_447; Av. FRANCISCO LARGO CABALLERO;Avenida Daroca-Nicolas Salmeron;Avenida Daroca;06/06/2023;12/06/2023;40.423.060;-3.638.510
+2023_448; Av. FRANCISCO LARGO CABALLERO;Avenida Daroca-Nicolas Salmeron;Nicolas Salmeron;06/06/2023;12/06/2023;40.423.130;-3.638.490
+2023_459; C. FUENTE CARRANTONA;Avenida del Doctor Garcia Tapia-Eje O'Donnell;Avenida del Doctor Garcia Tapia;23/07/2023;29/07/2023;40.412.540;-3.628.720
+2023_460; C. FUENTE CARRANTONA;Avenida del Doctor Garcia Tapia-Eje O'Donnell;Eje O'Donnell;23/05/2023;29/05/2023;40.412.540;-3.628.720
+2023_461; C. Fuente Carrantona;Encomienda de Palacios-Hacienda de Pavones;Hacienda de Pavones;23/05/2023;29/05/2023;40.400.120;-3.636.850
+2023_462; C. FUENTE CARRANTONA;Avenida del Doctor Garcia Tapia-Eje O'Donnell;Avenida del Doctor Garcia Tapia;23/05/2023;29/05/2023;40.412.540;-3.628.720
+2023_463;Puente C. FUENTE CARRANTONA;Avenida Pablo Neruda-Arroyo Fontarron;Avenida Pablo Neruda;20/04/2023;26/04/2023;40.395.150;-3.640.000
+2023_464;Puente C. FUENTE CARRANTONA;Avenida Pablo Neruda-Arroyo Fontarron;Arroyo Fontarron;20/04/2023;26/04/2023;40.395.150;-3.640.000
+2023_465; C. FUENTE CARRANTONA;Eje O'Donnell-Avenida de Daroca;Avenida de Daroca;23/05/2023;29/05/2023;40.415.280;-3.627.080
+2023_466; C. FUENTE CARRANTONA;Eje O'Donnell-Avenida de Daroca;Eje O'Donnell;23/05/2023;29/05/2023;40.415.150;-3.627.350
+2023_469; Av. GAVIA;Puentedey-Ensanche de Vallecas;Puentedey;28/02/2023;06/03/2023;40.369.550;-3.614.850
+2023_470; Av. GAVIA;Puentedey-Ensanche de Vallecas;Ensanche de Vallecas;28/02/2023;06/03/2023;40.369.430;-3.614.650
+2023_476;C. GENERAL LOPEZ POZAS;Francisco Suarez-Joaquin Bau;Francisco Suarez;01/03/2023;07/03/2023;40.464.440;-3.685.440
+2023_477;C. GENERAL LOPEZ POZAS;Francisco Suarez-Felix Bois;Felix Bois;01/02/2023;07/02/2023;40.464.440;-3.685.440
+2023_486;C. GINZO DE LIMIA;Fermin Caballero - Avenida Cardenal Herrera Oria;Avenida Cardenal Herrera Oria;28/01/2023;03/02/2023;40.484.684;-3.707.810
+2023_487; C. GINZO DE LIMIA;Sangenjo-Fermin Caballero;Fermin Caballero;26/01/2023;01/02/2023;40.483.460;-3.706.360
+2023_489;C. GOBELAS;Zugazarte - Vascongadas (Av);Zugazarte;03/02/2023;09/02/2023;40.472.348;-3.821.964
+2023_490;C. GOLONDRINA;Andromeda - La Veleta;Andromeda;08/02/2023;14/02/2023;40.455.783;-3.783.350
+2023_491;C. GOLONDRINA;Andromeda - La Veleta;La Veleta;08/02/2023;14/02/2023;40.455.883;-3.783.433
+2023_492;C. GOLONDRINA;Río Arlanzon - Rosas De Aravaca;Rosas De Aravaca;08/02/2023;14/02/2023;40.449.300;-3.785.133
+2023_493;C. GOLONDRINA;Río Arlanzon - Rosas De Aravaca;Río Arlanzon;08/02/2023;14/02/2023;40.449.233;-3.785.017
+2023_504;C. GRAN VIA DE VILLAVERDE;San Eustaquio - Avenida Laboral;Avenida Laboral;20/01/2023;26/01/2023;40.342.330;-3.699.850
+2023_505;C. GRAN VIA DE VILLAVERDE;San Eustaquio - Avenida Laboral;San Eustaquio;20/01/2023;26/01/2023;40.342.330;-3.699.850
+2023_506; C. GRAN VIA DE VILLAVERDE;AV. ANDALUCIA-C LEONOR GONGORA;AV. ANDALUCIA;18/09/2023;24/09/2023;40.346.150;-3.691.630
+2023_507; C. GRAN VIA DE VILLAVERDE;AV. ANDALUCIA-C LEONOR GONGORA;C LEONOR GONGORA;18/09/2023;24/09/2023;40.346.150;-3.691.630
+2023_508; Av. AVENIDA GRAN VIA DEL ESTE;Titanio-Los Asteroides;Titanio;03/03/2023;09/03/2023;40.400.831;-3.598.299
+2023_509; Av. AVENIDA GRAN VIA DEL ESTE;Titanio-Los Asteroides;Los Asteroides;03/03/2023;09/03/2023;40.400.831;-3.598.299
+2023_512; Av. GRAN VIA SURESTE;Arte Pop-Avenida Cerro Milano;Avenida Cerro Milano;22/02/2023;28/02/2023;40.364.220;-3.587.780
+2023_513; Av. GRAN VIA SURESTE;Arte Pop-Avenida Cerro Milano;Arte Pop;22/02/2023;28/02/2023;40.364.220;-3.587.780
+2023_520; Av. GUADALAJARA;Avenida Canillejas a Vicalvaro-Paseo Ginebra;Avenida Canillejas a Vicalvaro;18/05/2023;24/05/2023;40.423.610;-3.608.530
+2023_521; Av. GUADALAJARA;Avenida Canillejas a Vicalvaro-Paseo Ginebra;Paseo Ginebra;18/05/2023;24/05/2023;40.423.720;-3.608.380
+2023_524;AV. GUARDIA, LA;Colegio Monte Del Pardo - Esquina Calle Brunete;Esquina Calle Brunete;24/01/2023;30/01/2023;40.517.310;-3.774.200
+2023_536; C. HACIENDA DE PAVONES, LA;Valdebernardo-Luis de Hoyos Sainz;Valdebernardo;19/05/2023;25/05/2023;40.399.630;-3.631.040
+2023_537; C. HACIENDA DE PAVONES, LA;Valdebernardo-Luis de Hoyos Sainz;Luis de Hoyos Sainz;19/05/2023;25/05/2023;40.399.520;-3.631.000
+2023_539;#¿NOMBRE?;Casas de Miravete-Torre de Don Miguel;Casas de Miravete;17/02/2023;24/02/2023;40.374.500;-3.644.030
+2023_540; C. CAMINO DE HORMIGUERAS;Casas de Miravete-Gonzalez Davila;Gonzalez Davila;17/02/2023;24/02/2023;40.375.230;-3.641.150
+2023_543;CTRA. HUMERA;Altozano - Riaza;Riaza;08/02/2023;14/02/2023;40.456.910;-3.779.915
+2023_544;CTRA. HUMERA;Altozano - Riaza;Altozano;05/02/2023;11/02/2023;40.456.883;-3.779.783
+2023_549;  Bulevar Indalecio Prieto;C MOCETES-C DE LOS PINILLAS;C DE LOS PINILLAS;21/04/2023;27/04/2023;40.398.580;-3.621.950
+2023_550;  Bulevar Indalecio Prieto;C MOCETES-C DE LOS PINILLAS;Mocetes;21/04/2023;27/04/2023;40.398.580;-3.621.950
+2023_551; C. INFANTA MERCEDES;Alonso Castrillo-Pensamiento;Pensamiento;03/03/2023;09/03/2023;40.458.690;-3.697.170
+2023_552; C. INFANTA MERCEDES;Alonso Castrillo-Pensamiento;Huesca;03/03/2023;09/03/2023;40.458.690;-3.697.170
+2023_555; C. HERMANOS GARCIA NOBLEJAS;Emilio Munoz-Miguel Fleta;Emilio Munoz;15/06/2023;21/06/2023;40.430.610;-3.632.880
+2023_556; C. HERMANOS GARCIA NOBLEJAS;Emilio Munoz-Miguel Fleta;Miguel Fleta;15/06/2023;21/06/2023;40.430.610;-3.632.880
+2023_563; C. ISLA DE AROSA;Fermin Caballero-Avenida del Cardenal Herrera Oria;Fermin Caballero;27/01/2023;02/02/2023;40.481.760;-3.717.020
+2023_564; C. ISLA DE AROSA;Fermin Caballero-Avenida del Cardenal Herrera Oria;Avenida del Cardenal Herrera Oria;27/01/2023;02/02/2023;40.481.760;-3.717.020
+2023_565; C. ISLA DE OZA;Isidro Dompablo-Isla de Nelson;Isidro Dompablo;24/02/2023;02/03/2023;40.464.460;-3.723.370
+2023_566; C. ISLA DE OZA;Isidro Dompablo-Isla de Nelson;Isla de Nelson;24/02/2023;02/03/2023;40.464.460;-3.723.370
+2023_567;Calle la Isla de Tabarca, Madrid;JOAQUIN JORGE ALARCON-OTERO Y DELAGE;OTERO Y DELAGE;10/02/2023;16/02/2023;40.476.671;-3.722.713
+2023_568; C. ISLA DE TABARCA;Joaquin Jorge Alarcon-Otero y Delage;Joaquin Jorge Alarcon;10/02/2023;16/02/2023;40.476.860;-3.721.760
+2023_569;C. JAIME EL CONQUISTADOR;Eugenio Selles - Divino Valles;Eugenio Selles;10/02/2023;16/02/2023;40.396.200;-3.698.230
+2023_570;C. JAIME EL CONQUISTADOR;Eugenio Selles - Divino Valles;Divino Valles;10/02/2023;16/02/2023;40.396.195;-3.698.187
+2023_575; C. JESUS DEL PINO;San Jaime-Avenida de La Democracia;Avenida de La Democracia;09/03/2023;15/03/2023;40.382.840;-3.625.000
+2023_576; C. JESUS DEL PINO;San Jaime-Avenida de La Democracia;San Jaime;09/03/2023;15/03/2023;40.382.700;-3.624.870
+2023_577; C. JOAQUIN LORENZO;Glorieta Isaac Rabin-Islas Bikini;Glorieta Isaac Rabin;09/02/2023;15/02/2023;40.473.250;-3.727.880
+2023_582; C. JOSE DEL HIERRO;Angel Larra-Florencio Garcia;Florencio Garcia;22/06/2023;28/06/2023;40.440.590;-3.642.750
+2023_583; C. JOSE DEL HIERRO;Angel Larra-Florencio Garcia;Angel Larra;22/06/2023;28/06/2023;40.440.650;-3.642.780
+2023_589; C. JOSEFA VALCARCEL;Arturo Soria-General Aranaz;General Aranaz;01/09/2023;07/09/2023;40.448.410;-3.647.980
+2023_590; C. JOSEFA VALCARCEL;Arturo Soria-General Aranaz;Arturo Soria;01/09/2023;07/09/2023;40.448.610;-3.647.910
+2023_597; C. JUAN IGNACIO LUCA DE TENA;Miami-Dona Juana I de Castilla;Miami;05/09/2023;11/09/2023;40.447.600;-3.633.050
+2023_598; C. JUAN IGNACIO LUCA DE TENA;Miami-Dona Juana I de Castilla;Dona Juana I de Castilla;05/09/2023;11/09/2023;40.447.600;-3.633.050
+2023_599; C. JULIAN CAMARILLO;Santa Leonor-Alfonso Gomez;Santa Leonor;20/06/2023;26/06/2023;40.434.980;-3.627.430
+2023_600; C. JULIAN CAMARILLO;Santa Leonor-Alfonso Gomez;Alfonso Gomez;20/06/2023;26/06/2023;40.435.070;-3.627.540
+2023_601; C. JULIAN CAMARILLO;Albadalejo-Jose Cubero Yiyo;Cronos;21/06/2023;27/06/2023;40.438.680;-3.616.720
+2023_602; C. JULIAN CAMARILLO;Albadalejo-Jose Cubero Yiyo;Avenida Canillejas a Vicalvaro;21/06/2023;27/06/2023;40.438.770;-3.616.860
+2023_606;C. LA MASO;Nuria - Marbella;Nuria;21/01/2023;27/01/2023;40.494.951;-3.708.240
+2023_607;C. LA MASO;Nuria - Marbella;Marbella;21/01/2023;27/01/2023;40.494.891;-3.708.025
+2023_608;C. LAGARTERA;Ruidera - Plaza De Las Regiones;Ruidera;16/02/2023;22/02/2023;40.381.542;-3.672.597
+2023_609;C. LAGARTERA;Ruidera - Plaza De Las Regiones;Plaza De Las Regiones;16/02/2023;22/02/2023;40.381.500;-3.672.633
+2023_616; Av. LOGRONO M-110;Glorieta Ermita Virgen de la Soledad-Avenida General;Avenida General;08/09/2023;14/09/2023;40.468.750;-3.581.540
+2023_617; Av. LOGRONO M-110;Glorieta Ermita Virgen de la Soledad-Avenida General;Glorieta Ermita Virgen de la Soledad;08/09/2023;14/09/2023;40.468.750;-3.581.740
+2023_632;Av. LUIS ARAGONES(Arcentales);Mequinenza-Plaza Grecia;Plaza Grecia;09/06/2023;15/06/2023;40.438.100;-3.603.450
+2023_633;Av. LUIS ARAGONES(Arcentales);Mequinenza-Plaza Grecia;Mequinenza;09/06/2023;15/06/2023;40.438.100;-3.603.450
+2023_634; C. LUIS DE HOYOS SAINZ;Valdebernardo-Cairo;Cairo;19/05/2023;25/05/2023;40.403.830;-3.628.550
+2023_635; C. LUIS DE HOYOS SAINZ;Valdebernardo-Cairo;Valdebernardo;19/05/2023;25/05/2023;40.403.910;-3.628.600
+2023_636; C. LUIS DE HOYOS SAINZ;Templo-Tunez;Templo;19/05/2023;25/05/2023;40.400.720;-3.629.020
+2023_637; C. LUIS DE HOYOS SAINZ;Templo-Tunez;Tunez;19/05/2023;25/05/2023;40.400.720;-3.629.020
+2023_638;M-203;ENTRE REAL DE ARGANDA Y A-3;REAL DE ARGANDA;15/09/2023;21/09/2023;40.376.344;-3.601.830
+2023_639;M-203;ENTRE REAL DE ARGANDA Y A-3;A3;15/09/2023;21/09/2023;40.376.031;-3.602.994
+2023_641;ACC. M-40;Torcuato Fernandez-Miranda (Plz) - M-40;M-40;25/01/2023;31/01/2023;40.496.377;-3.719.695
+2023_642;ACC. M-40;Torcuato Fernandez-Miranda (Plz) - M-40;Torcuato Fernandez-Miranda (Plz);25/01/2023;31/01/2023;40.496.312;-3.719.924
+2023_649;C. MAESTRO ARBOS;M-30 Manzanares - Plaza De Legazpi;Plaza De Legazpi;08/02/2023;14/02/2023;40.388.900;-3.695.267
+2023_652;AVDA MANUEL FRAGA IRIBARNE;ENTRE MARIA REICHE Y ESTANISLAO PEREZ PITA;ESTANISLAO PEREZ PITA;13/09/2023;19/09/2023;40.488.087;-3.608.228
+2023_653;AVDA MANUEL FRAGA IRIBARNE;ENTRE MARIA REICHE Y ESTANISLAO PEREZ PITA;MARIA REICHE;13/09/2023;19/09/2023;40.488.508;-3.608.592
+2023_654;C. MANUEL NOYA;Juan Espanol - San Nicomedes;San Nicomedes;04/02/2023;10/02/2023;40.386.673;-3.712.452
+2023_655;C. MANUEL NOYA;Juan Espanol - San Nicomedes;Juan Espanol;04/02/2023;10/02/2023;40.386.660;-3.712.590
+2023_667;#¿NOMBRE?;Costa Brava-La Masó;La Masó;19/01/2023;25/01/2023;40.496.280;-3.708.280
+2023_668;C. MARBELLA;Costa Brava - La Maso;Costa Brava;20/01/2023;26/01/2023;40.496.280;-3.708.280
+2023_681; C. MARQUESADO DE SANTA MARTA;Ricardo Velazquez Bosco (Gt¦.)-Fernando Mijares;Fernando Mijares;05/09/2023;11/09/2023;40.447.750;-3.623.130
+2023_682; C. MARQUESADO DE SANTA MARTA;Ricardo Velazquez Bosco (Gt¦.)-Fernando Mijares;Ricardo Velazquez Bosco (Gt¦.);05/09/2023;11/09/2023;40.447.710;-3.623.290
+2023_683;#¿NOMBRE?;Avenida de Séneca-Obispo Trejo;Obispo Trejo;08/02/2023;14/02/2023;40.435.967;-3.731.470
+2023_684;#¿NOMBRE?;Avenida de Séneca-Obispo Trejo;Avenida de Séneca;08/02/2023;14/02/2023;40.435.883;-3.731.483
+2023_685;C. MARTINEZ DE LA RIVA;Carlos Martin Alvarez - Puerto De La Bonaigua;Puerto De La Bonaigua;15/04/2023;21/04/2023;40.387.760;-3.664.350
+2023_686; C. MARTINEZ DE LA RIVA;Carlos Martin Alvarez-Puerto de la Bonaigua;Carlos Martin Alvarez;14/04/2023;20/04/2023;40.387.760;-3.664.350
+2023_689;MATAPOZUELOS;ENTRE SOMOSIERRA Y RIO ESGUEVA;RIO ESGUEVA;15/09/2023;21/09/2023;40.462.095;-3.650.789
+2023_690; C. MAURICIO LEGENDRE;Doctor Huertas-Jose Vasconcelos;Jose Vasconcelos;22/02/2023;28/02/2023;40.471.060;-3.686.260
+2023_691; C. MAURICIO LEGENDRE;Doctor Huertas-Jose Vasconcelos;Doctor Huertas;22/02/2023;28/02/2023;40.471.250;-3.686.120
+2023_692; Av. MAYORAZGO;Avenida de la Gavia-Alto de la Sartenilla;Alto de la Sartenilla;21/02/2023;27/02/2023;40.363.240;-3.618.420
+2023_693; Av. MAYORAZGO;Avenida de la Gavia-Alto de la Sartenilla;Avenida de la Gavia;21/02/2023;27/02/2023;40.363.240;-3.618.420
+2023_710; C. MINERVA;Titanio-Omega;Titanio;03/03/2023;09/03/2023;40.401.350;-3.601.110
+2023_711; C. MINERVA;Titanio-Omega;Omega;03/03/2023;09/03/2023;40.401.380;-3.601.120
+2023_713;Avenida Monforte de Lemos;CANDIDO MATEOS-CAMINO DE GANAPANES;CAMINO DE GANAPANES;10/02/2023;16/02/2023;40.476.573;-3.717.138
+2023_714;Avenida Monforte de Lemos;CANDIDO MATEOS-CAMINO DE GANAPANES;CANDIDO MATEOS;10/02/2023;16/02/2023;40.476.718;-3.717.206
+2023_717;AV. MONASTERIO DE SILOS;Costa Brava - Monasterio El Paular;Costa Brava;24/01/2023;30/01/2023;40.500.100;-3.715.540
+2023_718;Avenida del Monasterio de Silos;MONASTERIO DE CAAVEIRO-MONASTERIO DE SAMOS;MONASTERIO DE SAMOS;19/01/2023;25/01/2023;40.504.989;-3.696.203
+2023_719;AV. MONASTERIO DE SILOS;Costa Brava - Monasterio El Paular;Monasterio El Paular;24/01/2023;30/01/2023;40.499.993;-3.715.432
+2023_720;Avenida del Monasterio del Escorial;MONASTERIO DE MONTESCLAROS-PONASTERIO DE EL PAULAR;MONASTERIO DE MONTESCLAROS;19/01/2023;25/01/2023;40.504.228;-3.701.716
+2023_724;Lateral Av. MONFORTE DE LEMOS;Las Magnolias-Melchor Fernandez Almagro;Las Magnolias;17/02/2023;23/02/2023;40.476.840;-3.690.540
+2023_725;Lateral Av. MONFORTE DE LEMOS;Las Magnolias-Melchor Fernandez Almagro;Pedro Rico;17/02/2023;23/02/2023;40.476.950;-3.690.340
+2023_726; Av. MONTE IGUELDO;Antonia Calas-Maria Bosch;Maria Bosch;18/09/2023;24/09/2023;40.396.880;-3.667.930
+2023_727;AV. MONTECARMELO;Avenida Del Monasterio De El Escorial - Avenida Monasterio De Silos;Avenida Monasterio De Silos;20/01/2023;26/01/2023;40.503.900;-3.698.700
+2023_728;AV. MONTECARMELO;Avenida Del Monasterio De El Escorial - Avenida Monasterio De Silos;Avenida Del Monasterio De El Escorial;20/01/2023;26/01/2023;40.504.070;-3.698.180
+2023_729; C. MONTES DE LA BARBANZA, LOS;La Suerte-Real de Arganda;La Suerte;28/02/2023;06/03/2023;40.377.320;-3.619.480
+2023_730; C. MONTES DE LA BARBANZA, LOS;La Suerte-Real de Arganda;Real de Arganda;28/02/2023;06/03/2023;40.377.320;-3.619.480
+2023_731; Av. MORATALAZ;Plaza Corregidor Alonso de Tobar-Plaza Corr. Licenciado Antonio de Mena;Plaza Corr. Licenciado Antonio de Mena;25/05/2023;31/05/2023;40.408.740;-3.643.400
+2023_732; Av. MORATALAZ;Plaza Corregidor Alonso de Tobar-Plaza Corr. Licenciado Antonio de Mena;Plaza Corregidor Alonso de Tobar;25/05/2023;31/05/2023;40.408.900;-3.643.330
+2023_733; Av. MORATALAZ;Avenida de Moratalaz-Plaza Corregidor Alonso de Tobar;Plaza Corregidor Alonso de Tobar;25/05/2023;31/05/2023;40.407.420;-3.646.830
+2023_734; Av. MORATALAZ;Avenida de Moratalaz-Plaza Corregidor Alonso de Tobar;Avenida de Moratalaz;25/07/2023;31/07/2023;40.407.420;-3.646.830
+2023_735; Av. MORATALAZ;Corregidor Diego Valderrabano-Plaza Corregidor Alonso de Aguilar;Corregidor Diego Valderrabano;31/05/2023;06/06/2023;40.407.810;-3.661.300
+2023_736; Av. MORATALAZ;Corregidor Diego Valderrabano-Plaza Corregidor Alonso de Aguilar;Plaza Corregidor Alonso de Aguilar;31/05/2023;06/06/2023;40.407.770;-3.661.410
+2023_745; Av. NIZA;Manchester-Belgica;Manchester;07/06/2023;13/06/2023;40.429.020;-3.606.830
+2023_746; Av. NIZA;Manchester-Belgica;Belgica;08/06/2023;14/06/2023;40.428.910;-3.606.940
+2023_758;C. NUESTRA SENORA DE VALVERDE;Avenida Del Cardenal Herrera Oria - Isla De Java;Isla De Java;18/01/2023;24/01/2023;40.491.547;-3.686.341
+2023_759;C. NUESTRA SENORA DE VALVERDE;Avenida Del Cardenal Herrera Oria - Isla De Java;Avenida Del Cardenal Herrera Oria;18/01/2023;24/01/2023;40.491.530;-3.686.410
+2023_760;C. NURIA;Costa Brava - La Maso;Costa Brava;21/01/2023;27/01/2023;40.496.117;-3.713.233
+2023_761;C. NURIA;Costa Brava - La Maso;La Maso;21/01/2023;27/01/2023;40.496.117;-3.713.233
+2023_770; C. ORENSE;Huesca-Sor Angela de la Cruz;Huesca;03/03/2023;09/03/2023;40.458.140;-3.694.370
+2023_773; Av. OROVILLA;Silvina-Del Circulo;Silvina;18/09/2023;24/09/2023;40.364.540;-3.691.490
+2023_774;Av. OROVILLA;Silvina-Del Circulo;Del Circulo;18/09/2023;24/09/2023;40.364.540;-3.691.490
+2023_778;AV. PABLO NERUDA;Asamblea De Madrid  (Pza) - El Padrino;El Padrino;13/04/2023;19/04/2023;40.381.250;-3.661.120
+2023_779;AV. PABLO NERUDA;Asamblea De Madrid  (Pza) - El Padrino;Asamblea De Madrid  (Pza);13/04/2023;19/04/2023;40.381.530;-3.661.340
+2023_780; Av. PABLO NERUDA;Palomeras (Av)-Lago Calafate;Lago Calafate;11/04/2023;17/04/2023;40.384.750;-3.647.300
+2023_781; Av. PABLO NERUDA;Palomeras (Av)-Lago Calafate;Palomeras (Av);11/04/2023;17/04/2023;40.384.150;-3.647.430
+2023_788;AV. PALACIO, EL;Avenida De La Guardia - Carretera Del Pardo A Fuencarral;Carretera Del Pardo A Fuencarral;24/01/2023;30/01/2023;40.516.133;-3.772.367
+2023_792; C. PAYASO FOFO;Sierra Bermeja-Javier de Miguel;Sierra Bermeja;14/04/2023;20/04/2023;40.388.430;-3.660.090
+2023_793; C. PAYASO FOFO;Sierra Bermeja-Javier de Miguel;Javier de Miguel;14/04/2023;20/04/2023;40.388.560;-3.660.120
+2023_796; C. PEDRO BOSCH;Puente Pedro Bosch-Mendez Alvaro;Puente Pedro Bosch;10/02/2023;16/02/2023;40.399.570;-3.676.260
+2023_797; C. PEDRO BOSCH;Puente Pedro Bosch-Mendez Alvaro;Mendez Alvaro;10/02/2023;16/02/2023;40.399.700;-3.676.350
+2023_802; C. PEDRO RICO;Monforte de Lemos-Arzobispo Morcillo;Arzobispo Morcillo;16/02/2023;22/02/2023;40.479.480;-3.689.930
+2023_803;Lateral C. PEDRO RICO;Monforte de Lemos-Arzobispo Morcillo;Arzobispo Morcillo;16/02/2023;22/02/2023;40.479.130;-3.690.160
+2023_804;Tunel C. PEDRO RICO;Monforte de Lemos-Arzobispo Morcillo;Arzobispo Morcillo;16/02/2023;22/02/2023;40.479.130;-3.690.160
+2023_805; C. PEÑARANDA DE BRACAMONTE;Villamayor de Santiago-Fresno de Cantespino;Fresno de Cantespino;22/02/2023;28/02/2023;40.373.980;-3.605.190
+2023_806; C. PEÑARANDA DE BRACAMONTE;Villamayor de Santiago-Fresno de Cantespino;Villamayor de Santiago;23/02/2023;01/03/2023;40.374.010;-3.605.170
+2023_809; C. PICO DE LOS ARTILLEROS;Plaza Corr. Licenciado Antonio de Mena-Mario Cabre;Plaza Corr. Licenciado Antonio de Mena;24/05/2023;30/05/2023;40.406.660;-3.639.480
+2023_810; C. PICO DE LOS ARTILLEROS;Plaza Corr. Licenciado Antonio de Mena-Mario Cabre;Mario Cabre;24/05/2023;30/05/2023;40.406.660;-3.639.480
+2023_811; C. PICO DE LOS ARTILLEROS;Plaza Corregidor Conde Maceda Taboada-Encomienda de Palacios;Encomienda de Palacios;24/05/2023;30/05/2023;40.402.130;-3.643.220
+2023_812; C. PICO DE LOS ARTILLEROS;Plaza Corregidor Conde Maceda Taboada-Encomienda de Palacios;Plaza Corregidor Conde Maceda Taboada;24/05/2023;30/05/2023;40.402.130;-3.643.220
+2023_814; C. PIO FELIPE;Jose Paulete-Benjamin Palencia;Benjamin Palencia;18/04/2023;24/04/2023;40.394.830;-3.652.290
+2023_815; C. PIO FELIPE;Jose Paulete-Benjamin Palencia;La Albufera;18/04/2023;24/04/2023;40.394.830;-3.652.290
+2023_816;Av. PIO XII;Jerez - Comandante Franco;C Jerez;28/02/2023;06/03/2023;40.465.277;-3.675.609
+2023_817;Av. PIO XII;Jerez - Comandante Franco;Av. Comandante Franco;28/02/2023;06/03/2023;40.402.127;-3.734.129
+2023_818;AVDA PIO XII;ENTRE BAMBU Y LA HIEDRA;LA HIEDRA;15/09/2023;21/09/2023;40.473.627;-3.677.689
+2023_819;AVDA PIO XII;ENTRE BAMBU Y LA HIEDRA;BAMBU;15/09/2023;21/09/2023;40.473.609;-3.678.352
+2023_820; C Pirotecnia;Gran V¡a del Este-Calle Ahumaos;Calle Ahumaos;03/03/2023;09/03/2023;40.398.150;-3.598.370
+2023_821; C Pirotecnia;Gran V¡a del Este-Calle Ahumaos;Gran V¡a del Este;03/03/2023;09/03/2023;40.398.150;-3.598.370
+2023_822;Pº PLATA Y CASTAÑAR;ENTRE PRINCESA JUANA DE AUSTRIA (A-42) Y VERDE VIENTO;VERDE VIENTO;15/09/2023;21/09/2023;40.352.109;-3.718.832
+2023_823;Pº PLATA Y CASTAÑAR;ENTRE PRINCESA JUANA DE AUSTRIA (A-42) Y VERDE VIENTO;PRINCESA JUANA DE AUSTRIA (A-42);10/09/2023;16/09/2023;40.351.999;-3.718.258
+2023_824; C. PLEYADES;Estudio-Arcos de la Frontera;Arcos de la Frontera;03/02/2023;09/02/2023;40.460.000;-3.784.000
+2023_825; C. PLEYADES;Estudio-Arcos de la Frontera;Estudio;03/02/2023;09/02/2023;40.460.000;-3.784.000
+2023_832; C. POBLADURA DEL VALLE;Ajofrin-Amposta;Ajofrin;07/06/2023;13/06/2023;40.424.360;-3.621.260
+2023_833; C. POBLADURA DEL VALLE;Ajofrin-Amposta;Amposta;07/06/2023;13/06/2023;40.424.360;-3.621.260
+2023_834; C. POBLADURA DEL VALLE;Alconera-Avenida de Hellin;Avenida de Hellin;07/06/2023;13/06/2023;40.427.410;-3.616.650
+2023_835; C. POBLADURA DEL VALLE;Alconera-Avenida de Hellin;Alconera;07/06/2023;13/06/2023;40.427.410;-3.616.650
+2023_836;Poeta Joan Maragall;Francisco Gervas-Rosario Pino;Rosario Pino;01/03/2023;07/03/2023;40.461.090;-3.692.020
+2023_837;Poeta Joan Margall;Pedro Teixeira-General Yagüe;General Yagüe;03/03/2023;09/03/2023;40.455.220;-3.692.480
+2023_838; Av. POETA MIGUEL HERNANDEZ;Andaluces-Leon Felipe;Andaluces;11/04/2023;17/04/2023;40.387.650;-3.635.300
+2023_839; Av. POETA MIGUEL HERNANDEZ;Andaluces-Leon Felipe;Leon Felipe;10/04/2023;16/04/2023;40.387.650;-3.635.300
+2023_840; Av. POETA MIGUEL HERNANDEZ;Torremolinos-Asturianos;Torremolinos;10/03/2023;16/03/2023;40.381.880;-3.640.900
+2023_841; Av. POETA MIGUEL HERNANDEZ;Torremolinos-Asturianos;Asturianos;10/03/2023;16/03/2023;40.381.880;-3.640.900
+2023_845;C. CAMINO DEL POZO DEL TIO RAIMUNDO;Luis I-Viridiana;Viridiana;17/02/2023;24/02/2023;40.373.580;-3.650.680
+2023_846; C. CAMINO DEL POZO DEL TIO RAIMUNDO;Luis I-Viridiana;Viridiana;17/02/2023;24/02/2023;40.373.580;-3.650.680
+2023_861; C. PUERTO DE BALBARAN;Candilejas-El Graduado;Candilejas;15/02/2023;22/02/2023;40.379.600;-3.664.910
+2023_862; C. PUERTO DE BALBARAN;Manuel Laguna-Candilejas;Manuel Laguna;18/09/2023;24/09/2023;40.380.520;-3.666.350
+2023_863; C. PUERTO DE CANFRANC;Francisco Iglesias-Camino Valderribas;Francisco Iglesias;26/05/2023;01/06/2023;40.398.690;-3.662.210
+2023_864; C. PUERTO DE CANFRANC;Francisco Iglesias-Camino Valderribas;Camino Valderribas;26/05/2023;01/06/2023;40.398.690;-3.662.210
+2023_877; C. RAMIREZ DE PRADO;General Lacy-Vara del Rey;Vara del Rey;09/02/2023;16/02/2023;40.399.650;-3.690.860
+2023_878;C. RAMIRO DE MAEZTU;Don Ramon Menendez Pidal - Avenida Moreras;Avenida Moreras;21/03/2023;27/03/2023;40.448.661;-3.720.945
+2023_879; C. RAMON GOMEZ DE LA SERNA;Ramon Camarero-Alejandro Casona;Ramon Camarero;31/01/2023;06/02/2023;40.483.150;-3.729.290
+2023_880;C. RAMON GOMEZ DE LA SERNA;Ramon Camarero - Alejandro Casona;Alejandro Casona;02/02/2023;08/02/2023;40.483.150;-3.729.290
+2023_881; C. RAMON GOMEZ DE LA SERNA;Maria Isidra-Eusebio Isidro;Maria Isidra;27/01/2023;02/02/2023;40.481.920;-3.723.070
+2023_887; C. RAMIREZ DE PRADO;General Lacy-Vara del Rey;Vara del Rey;18/09/2023;24/09/2023;40.399.650;-3.690.860
+2023_888;Av. REAL DE PINTO;La Plata-Asfalto;La Plata;25/01/2023;01/09/2023;40.348.310;-3.706.290
+2023_889;Av. REAL DE PINTO;La Plata-Asfalto;Asfalto;18/09/2023;24/09/2023;40.348.310;-3.706.290
+2023_890;AV. REAL DE PINTO;Domingo Parraga - Lozares (Gta);Lozares (Gta);18/01/2023;24/01/2023;40.341.999;-3.706.912
+2023_895;C. RESINA, LA;Andalucia - San Dalmacio;Andalucia;20/01/2023;26/01/2023;40.336.090;-3.693.130
+2023_896;C. RESINA, LA;Andalucia - San Dalmacio;San Dalmacio;20/01/2023;26/01/2023;40.336.180;-3.693.280
+2023_903; C. RICARDO ORTIZ;San Marcelo-San Emilio;San Maximiliano;13/06/2023;19/06/2023;40.426.540;-3.658.010
+2023_904; C. RICARDO ORTIZ;San Marcelo-San Emilio;San Marcelo;13/06/2023;19/06/2023;40.426.540;-3.658.010
+2023_906; C. RIVAS;Avenida Gran Via del Este-Boyer;Avenida Gran Via del Este;02/03/2023;08/03/2023;40.403.220;-3.594.450
+2023_907; C. RIVAS;Avenida Gran Via del Este-Boyer;Boyer;02/03/2023;08/03/2023;40.403.060;-3.594.360
+2023_908;RIVAS;ENTRE PIROTECNIA Y VICALVARO A RIVAS DEL JARAMA (CRTA);VICALVARO A RIVAS DEL JARAMA (CRTA);14/09/2023;20/09/2023;40.392.975;-3.578.209
+2023_909;RIVAS;ENTRE PIROTECNIA Y VICALVARO A RIVAS DEL JARAMA (CRTA);PIROTECNIA;14/09/2023;20/09/2023;40.393.081;-3.577.925
+2023_918;AV. ROSALES, LOS;Zafiro - A-4;A-4;25/01/2023;31/01/2023;40.348.429;-3.674.919
+2023_919;AV. ROSALES, LOS M-301;M-40 - Carretera Villaverde Vallecas;Carretera Villaverde Vallecas;25/01/2023;31/01/2023;40.360.520;-3.682.850
+2023_920;AV. ROSALES, LOS M-301;M-40 - Carretera Villaverde Vallecas;M-40;25/01/2023;31/01/2023;40.360.640;-3.682.880
+2023_923; C. CUESTA DEL SAGRADO CORAZON;Arturo Soria-Caidos de la Division Azul;Arturo Soria;28/02/2023;06/03/2023;40.466.620;-3.669.700
+2023_924; C. CUESTA DEL SAGRADO CORAZON;Arturo Soria-Caidos de la Division Azul;Caidos de la Division Azul;28/02/2023;06/03/2023;40.466.600;-3.669.730
+2023_925;CSTA SAGRADO CORAZON;ENTRE ARTURO SORIA Y M-30;M-30;15/09/2023;21/09/2023;40.467.014;-3.666.896
+2023_926;CSTA SAGRADO CORAZON;ENTRE ARTURO SORIA Y M-30;ARTURO SORIA;15/09/2023;21/09/2023;40.466.586;-3.667.577
+2023_927; C. SAMANIEGO;Nanclares-Campezo;Campezo;05/09/2023;11/09/2023;40.444.060;-3.582.030
+2023_928; C. SAMANIEGO;Nanclares-Campezo;Nanclares;05/09/2023;11/09/2023;40.444.090;-3.582.070
+2023_933;C. SAN DALMACIO;Andalucia - San Norberto;Andalucia;21/01/2023;27/01/2023;40.343.550;-3.695.300
+2023_934;C. SAN DALMACIO;Andalucia - San Norberto;San Norberto;21/01/2023;27/01/2023;40.343.550;-3.695.300
+2023_935;AV. SAN DIEGO;Carlos Martin Alvarez - Puerto De La Bonaigua;Carlos Martin Alvarez;13/04/2023;19/04/2023;40.385.298;-3.666.321
+2023_949;C. SAN NORBERTO;San Tarsicio - San Eustaquio;San Eustaquio;18/01/2023;24/01/2023;40.339.670;-3.703.820
+2023_950;C. SAN NORBERTO;San Tarsicio-San Eustaquio;San Tarsicio;18/01/2023;25/01/2023;40.339.670;-3.703.820
+2023_955;#¿NOMBRE?;Narcis Monturiol-Fermín Caballero;Fermín Caballero;26/01/2023;01/02/2023;40.485.633;-3.700.020
+2023_957; Av. SANTA EUGENIA;Fuenteespina-Poza de la Sal;Fuenteespina;24/02/2023;02/03/2023;40.378.510;-3.608.460
+2023_958; Av. SANTA EUGENIA;Fuenteespina-Poza de la Sal;Poza de la Sal;24/02/2023;02/03/2023;40.378.510;-3.608.460
+2023_959; C. SANTA PRISCA;Avenida Marques de Corbera-Avenida Daroca;Avenida Marques de Corbera;13/06/2023;19/06/2023;40.427.330;-3.648.770
+2023_960; C. SANTA PRISCA;Avenida Marques de Corbera-Avenida Daroca;Avenida Daroca;13/06/2023;19/06/2023;40.427.080;-3.648.790
+2023_961; C. SANTIAGO DE COMPOSTELA;Glorieta de las Reales Academias-Pintor Francisco Llorents;Pintor Francisco Llorents;26/01/2023;01/02/2023;40.482.183;-3.706.433
+2023_962; Av. SANTO ANGEL DE LA GUARDA;Sánchez Preciados-Aguilafuente;Sánchez Preciados;07/03/2023;13/03/2023;40.460.983;-3.712.283
+2023_963;#¿NOMBRE?;Sánchez Preciados-Aguilafuente;Aguilafuente;07/03/2023;13/03/2023;40.460.983;-3.712.283
+2023_964;AVDA DE NICETO ALCALA ZAMORA;ENTRE SAUCEDA Y MARIA DE PORTUGAL;MARIA DE PORTUGAL;13/09/2023;19/09/2023;40.502.476;-3.662.042
+2023_966;AVDA DE NICETO ALCALA ZAMORA;LATERAL ENTRE SAUCEDA Y ACCESO A-1;ACCESO A-1;13/09/2023;19/09/2023;40.502.393;-3.662.050
+2023_967;AVDA DE NICETO ALCALA ZAMORA;LATERAL ENTRE SAUCEDA Y ACCESO A-1;SAUCEDA;13/09/2023;19/09/2023;40.502.317;-3.661.112
+2023_968;C. SANTUARIO;Evangelios-Hijas de Jesus;Evangelios;02/02/2023;09/02/2023;40.383.980;-3.699.880
+2023_969;C. SANTUARIO;Evangelios-Hijas de Jesus;Hijas de Jesus;18/09/2023;24/09/2023;40.383.980;-3.699.880
+2023_993; C. SIERRA DE GUADALUPE;Jesus del Pino-Pico Espigete;Siera Gador;09/03/2023;15/03/2023;40.381.090;-3.623.460
+2023_994; C. SIERRA DEL CADI;Arroyo del Olivar-Avenida de La Albufera;Avenida de La Albufera;18/04/2023;24/04/2023;40.393.280;-3.660.350
+2023_995; C. SIERRA DEL CADI;Arroyo del Olivar-Avenida de La Albufera;Arroyo del Olivar;18/04/2023;24/04/2023;40.393.280;-3.660.350
+2023_996; C. SIERRA TOLEDANA;Sierra Elvira-El Bosco;Sierra Elvira;30/05/2023;05/06/2023;40.405.000;-3.659.040
+2023_997; C. SIERRA TOLEDANA;Sierra Elvira-El Bosco;El Bosco;30/05/2023;05/06/2023;40.405.000;-3.659.040
+2023_1002;Tunel C. SINESIO DELGADO;Glorieta Piedrafita del Cebrero-Tunel;Tunel;24/02/2023;02/03/2023;40.466.680;-3.715.690
+2023_1003;Tunel C. SINESIO DELGADO;Glorieta Piedrafita del Cebrero-Tunel;Piedrafita del Cebrero (Gt¦.);24/02/2023;02/03/2023;40.466.510;-3.715.760
+2023_1004;Lateral C. SINESIO DELGADO;Piedrafita del Cebrero (Gt¦.)-Tunel;Tunel;24/02/2023;02/03/2023;40.466.670;-3.715.690
+2023_1005;Lateral C. SINESIO DELGADO;Piedrafita del Cebrero (Gt¦.)-Tunel;Piedrafita del Cebrero (Gt¦.);24/02/2023;02/03/2023;40.466.510;-3.715.760
+2023_1006;Tunel C. SINESIO DELGADO;Las Magnolias-Finisterre;Finisterre;21/02/2023;27/02/2023;40.474.570;-3.691.330
+2023_1007;Tunel C. SINESIO DELGADO;Las Magnolias-Finisterre;Las Magnolias;21/02/2023;27/02/2023;40.474.570;-3.691.330
+2023_1008;Lateral C. SINESIO DELGADO;Las Magnolias-Finisterre;Las Magnolias;21/02/2023;27/02/2023;40.474.400;-3.691.250
+2023_1009;Lateral C. SINESIO DELGADO;Las Magnolias-Finisterre;Finisterre;21/02/2023;27/02/2023;40.474.570;-3.691.330
+2023_1010; C. SINESIO DELGADO;Paseo de la CAstellana-Las Magnolias;Paseo de la CAstellana;16/02/2023;22/02/2023;40.474.170;-3.688.080
+2023_1013; C. SOFIA;Estocolmo-Oslo;Estocolmo;17/05/2023;23/05/2023;40.424.870;-3.600.610
+2023_1014;SOFIA;ENTRE ESTOCOLMO Y OSLO;OSLO;14/09/2023;20/09/2023;40.424.781;-3.600.438
+2023_1015; C. SOR ANGELA DE LA CRUZ;Plaza de Cuzco-Poeta Joan Margall;Plaza de Cuzco;03/03/2023;09/03/2023;40.458.850;-3.691.420
+2023_1016; C. SOR ANGELA DE LA CRUZ;Plaza de Cuzco-Poeta Joan Margall;Poeta Joan Margall;03/03/2023;09/03/2023;40.458.850;-3.691.380
+2023_1017 ; C. SUECIA;Belgica-Manchester;Belgica;08/06/2023;14/06/2023;40.429.240;-3.605.160
+2023_1018; C. SUECIA;Belgica-Manchester;Manchester;08/06/2023;14/06/2023;40.429.258;-3.604.991
+2023_1023;RDA. SUR, EL;Cooperativa Electrica - Las Glorietas (Av);Las Glorietas (Av);17/02/2023;23/02/2023;40.374.664;-3.661.770
+2023_1024;RDA. SUR, EL;Cooperativa Electrica - Las Glorietas (Av);Cooperativa Electrica;17/02/2023;23/02/2023;40.374.634;-3.661.708
+2023_1025;Avd.TALGO;Cerro de Valdecahonde-Golondrina;Cerro de Valdecahonde;08/02/2023;14/02/2023;40.447.524;-3.787.598
+2023_1026;Avd.TALGO;Golondrina-Avd. del Talgo;Golondrina;08/02/2023;14/02/2023;40.447.162;-3.784.410
+2023_1027; C. TAMPICO;Tumaco-Plaza Barbados;Tumaco;05/09/2023;11/09/2023;40.444.630;-3.635.350
+2023_1028; C. TAMPICO;Tumaco-Plaza Barbados;Plaza Barbados;05/09/2023;11/09/2023;40.444.720;-3.635.510
+2023_1031;C. TIMOTEO PEREZ RUBIO;Entrevias - Lagartera;Entrevias;16/02/2023;22/02/2023;40.385.887;-3.674.236
+2023_1032;C. TIMOTEO PEREZ RUBIO;Entrevias - Lagartera;Lagartera;16/02/2023;22/02/2023;40.385.930;-3.674.330
+2023_1038; C. TORRELAGUNA;Condesa de Venadito-Emilio Vargas;Condesa de Venadito;23/06/2023;29/06/2023;40.445.830;-3.655.680
+2023_1039; C. TORRELAGUNA;Condesa de Venadito-Emilio Vargas;Emilio Vargas;23/06/2023;29/06/2023;40.445.830;-3.656.280
+2023_1042;Av. de las Trece Rosas;SANTA GENOVA-SANTA IRENE;SANTA GENOVA;06/06/2023;12/06/2023;40.420.880;-3.648.530
+2023_1043;Av. de las Trece Rosas;SANTA GENOVA-SANTA IRENE;SANTA IRENE;06/06/2023;12/06/2023;40.420.880;-3.648.530
+2023_1046;#¿NOMBRE?;Avenida de Betanzos-Ginzo de Limia;Ginzo de Limia;09/02/2023;15/02/2023;40.480.767;-3.709.130
+2023_1047; Av. VALDEMARIN;La Salle-Camino de la Zarzuela;La Salle;02/02/2023;08/02/2023;40.467.760;-3.787.280
+2023_1048; Av. VALDEMARIN;La Salle-Camino de la Zarzuela;Camino de la Zarzuela;02/02/2023;08/02/2023;40.467.760;-3.787.280
+2023_1049; C. CAMINO VALDERRIBAS;Lopez Grass-Puerto Canfranc;Puerto Canfranc;26/05/2023;01/06/2023;40.398.950;-3.660.200
+2023_1050; C. CAMINO VALDERRIBAS;Lopez Grass-Puerto Canfranc;Lopez Grass;26/05/2023;01/06/2023;40.398.950;-3.660.200
+2023_1051; Avenida VALLE DE MENA (Avenida);Buitrago Lozoya (calle) -Camino de Ganapanes;Buitrago Lozoya (calle) ;14/02/2023;20/02/2023;40.470.161;-3.716.210
+2023_1052; Av. VALLE DE MENA (Avenida);Buitrago Lozoya (calle) -Camino de Ganapanes;Camino de Ganapanes;14/02/2023;20/02/2023;40.470.161;-3.716.212
+2023_1053;Calle Valle de Mena (LATERAL);BUITRAGO DEL LOZOYA-CAMINO DE GANAPANES;BUITRAGO DEL LOZOYA;14/02/2023;20/02/2023;40.470.269;-3.715.849
+2023_1054; Avenida VALLE DE MENA (Avenida) LATERAL;Buitrago Lozoya (calle) -Camino de Ganapanes;Camino de Ganapanes;14/02/2023;20/02/2023;40.469.949;-3.716.350
+2023_1057;C. VALLE DE PINARES LLANOS;Pena Del Aguila - Mirador De La Reina;Mirador De La Reina;26/01/2023;01/02/2023;40.485.417;-3.726.283
+2023_1058;C. VALLE DE PINARES LLANOS;Pena Del Aguila - Mirador De La Reina;Pena Del Aguila;26/01/2023;01/02/2023;40.485.417;-3.726.283
+2023_1059;C. VALLE DE TOBALINA;Ciudad De Frías - Bascunuelos;Ciudad De Frías;18/01/2023;24/01/2023;40.340.886;-3.711.347
+2023_1068;  VEINTICINCO DE SEPTIEMBRE;Alcala-Glorieta Ricardo Velazquez Bosco;Glorieta Ricardo Velazquez Bosco;21/06/2023;27/06/2023;40.444.280;-3.624.960
+2023_1069; Av. VEINTICINCO DE SEPTIEMBRE;Alcala-Glorieta Ricardo Velazquez Bosco;Alcala;21/06/2023;27/06/2023;40.444.280;-3.624.960
+2023_1072; Pte. VENTAS;M-30-Daroca (Av);Daroca (Av);14/06/2023;20/06/2023;40.431.558;-3.659.865
+2023_1073; Pte. VENTAS;M-30-Daroca (Av);M-30;14/06/2023;20/06/2023;40.431.510;-3.659.710
+2023_1074; Av. VENTISQUERO DE LA CONDESA (TUNEL);Avenida Cardenal Herrera Oria-Valle Pillares Llanos;Avenida Cardenal Herrera Oria;25/01/2023;31/01/2023;40.485.017;-3.716.483
+2023_1075; Av. VENTISQUERO DE LA CONDESA (TUNEL);Avenida Cardenal Herrera Oria-Valle Pillares Llanos;Valle Pillares Llanos;25/01/2023;31/01/2023;40.485.300;-3.716.367
+2023_1076;#¿NOMBRE?;Avenida Cardenal Herrera Oria-Valle Pinares Llanos;Avenida Cardenal Herrera Oria;25/01/2023;31/01/2023;40.485.017;-3.716.480
+2023_1077;#¿NOMBRE?;Avenida Cardenal Herrera Oria-Valle Pinares Llanos;Valle Pinares Llanos;25/01/2023;31/01/2023;40.485.300;-3.716.370
+2023_1081;VIA DE DUBLIN;ENTRE GTA SINTRA Y AVDA PARTENON;AVDA PARTENON;15/09/2023;21/09/2023;40.468.075;-3.612.197
+2023_1082;VIA DE DUBLIN;ENTRE GTA SINTRA Y AVDA PARTENON;GTA SINTRA;15/09/2023;21/09/2023;40.466.238;-3.611.542
+2023_1084;CTRA. DE VICALVARO A LA ESTACION DE O DONNELL;FRANCISCA DE TORRES CATALAN-ABAD JUAN CATALAN;FRANCISCA DE TORRES CATALAN;19/09/2023;25/09/2023;40.404.212;-3.592.031
+2023_1092;CMO VIEJO DE VICALVARO;M-40-Plaza Alosno;M40;21/04/2023;27/04/2023;40.365.550;-3.687.750
+2023_1093; C§ VIEJO DE VICALVARO;Plaza Alosno-Calahorra;Calahorra;21/04/2023;27/04/2023;40.405.170;-3.615.970
+2023_1094; C§ VIEJO DE VICALVARO;Plaza Alosno-Calahorra;Plaza Alosno;21/04/2023;27/04/2023;40.405.150;-3.615.980
+2023_1095;Lateral C. VILLAAMIL;Camino del Chorrillo-Valle de Mena;Camino del Chorrillo;23/02/2023;01/03/2023;40.466.830;-3.711.850
+2023_1096;Tunel C. VILLAAMIL;Camino del Chorrillo-Valle de Mena;Camino del Chorrillo;23/02/2023;01/03/2023;40.466.920;-3.711.680
+2023_1097;Tunel C. VILLAAMIL;Camino del Chorrillo-Valle de Mena;Valle de Mena;23/02/2023;01/03/2023;40.466.920;-3.711.680
+2023_1098;Lateral C. VILLAAMIL;Camino del Chorrillo-Valle de Mena;Valle de Mena;23/02/2023;01/03/2023;40.467.090;-3.711.480
+2023_1099; C. VILLAAMIL;Ofelia Nieto-Isla de la Gomera;Ofelia Nieto;07/03/2023;13/03/2023;40.461.530;-3.708.280
+2023_1100; C. VILLAAMIL;Ofelia Nieto-Isla de la Gomera;Isla de la Gomera;07/03/2023;13/03/2023;40.461.530;-3.708.280
+2023_1101; C. VILLALOBOS;Fuengirola-Los Aragoneses;Los Aragoneses;11/04/2023;17/04/2023;40.382.270;-3.646.510
+2023_1102; C. VILLALOBOS;Fuengirola-Los Aragoneses;Fuengirola;10/04/2023;16/04/2023;40.382.270;-3.646.510
+2023_1103;C. VILLALONSO;Potes - Puebla De Sanabria;Puebla De Sanabria;27/01/2023;02/02/2023;40.349.350;-3.712.400
+2023_1104; C. VILLALONSO;Potes-Puebla de Sanabria;Potes;26/01/2023;02/02/2023;40.349.350;-3.712.400
+2023_1107;CTRA. VILLAVERDE A VALLECAS M-602;Villafuerte - Villarrosa;Villafuerte;25/01/2023;31/01/2023;40.353.440;-3.689.830
+2023_1108;CTRA. VILLAVERDE A VALLECAS M-602;Villafuerte - Villarrosa;Villarrosa;25/01/2023;31/01/2023;40.353.430;-3.689.890
+2023_1109; C. VIRGEN DE LORETO;Plaza Jose Banus-Virgen del Portillo;Virgen del Portillo;14/06/2023;20/06/2023;40.434.830;-3.655.800
+2023_1110; C. VIRGEN DE LORETO;Plaza Jose Banus-Virgen del Portillo;Plaza Jose Banus;14/06/2023;20/06/2023;40.434.830;-3.655.800
+2023_1111; C. VIRGEN DEL PORTILLO, LA;Jose del Hierro-Virgen del Sagrario;Virgen del Sagrario;23/06/2023;29/06/2023;40.438.200;-3.649.230
+2023_1118; C. YECORA;Nanclares de Oca-Arcaute;Nanclares de Oca;06/09/2023;12/09/2023;40.444.510;-3.575.120
+2023_1119; C. YECORA;Nanclares de Oca-Arcaute;Arcaute;06/09/2023;12/09/2023;40.444.510;-3.575.120
+2023_1123;CMO. ZARZUELA, LA;Blanca De Castilla - Valdemarin;Blanca De Castilla;03/02/2023;09/02/2023;40.464.813;-3.785.397
+2023_1124;CMO. ZARZUELA, LA;Blanca De Castilla - Valdemarin;Valdemarin;03/02/2023;09/02/2023;40.464.885;-3.785.347
+2023_5; C. ACONCAGUA;Arequipa-Avenida de Manuel Azana;Arequipa;26/09/2023;02/10/2023;40.468.640;-3.630.300
+2023_6; C. ACONCAGUA;Arequipa-Avenida de Manuel Azana;Avenida de Manuel Azana;26/09/2023;02/10/2023;40.468.610;-3.630.330
+2023_11;Pso.ALAMEDA DE OSUNA;Jardines Aranjuez-Rambla;Rambla;12/09/2023;18/09/2023;40.455.311;-3.595.384
+2023_12;Pso. ALAMEDA DE OSUNA;Jardines de Aranjuez-Rambla;Jardines de Aranjuez;12/09/2023;18/09/2023;40.455.311;-3.595.384
+2023_36; C. ALCALA;Cardenal Belluga-Julio Camba;Julio Camba;30/05/2023;05/06/2023;40.429.970;-3.664.230
+2023_47; Av DE ALEJANDRO DE LA SOTA;Valdefuentes-M11;M11;26/09/2023;02/10/2023;40.474.520;-3.617.830
+2023_55; Av. ALFONSO XIII;Carlos Pereyra-Avenida Ramon y Cajal;Carlos Pereyra;30/03/2023;05/04/2023;40.451.800;-3.667.700
+2023_56; Av. ALFONSO XIII;Carlos Pereyra-Avenida Ramon y Cajal;Avenida Ramon y Cajal;30/03/2023;05/04/2023;40.451.680;-3.667.590
+2023_57; Av. ALFONSO XIII;Plaza Jose Maria Soler-Santa Maria Magdalena;Plaza Jose Maria Soler;08/03/2023;14/03/2023;40.459.510;-3.668.730
+2023_58; Av. ALFONSO XIII;Plaza Jose Maria Soler-Santa Maria Magdalena;Santa Maria Magdalena;08/03/2023;14/03/2023;40.459.670;-3.668.850
+2023_117; Av. ARROYO DEL SANTO;Mar Caribe (Gt¦.)-Avenida Azaleas;Mar Caribe (Gt¦.);13/09/2023;19/09/2023;40.452.630;-3.622.010
+2023_118; Av. ARROYO DEL SANTO;Mar Caribe (Gt¦.)-Avenida Azaleas;Las Azaleas;13/09/2023;19/09/2023;40.452.980;-3.622.100
+2023_134; C. ARTURO SORIA;Aleixandre-Manuel Uribe;Manuel Uribe;21/09/2023;27/09/2023;40.463.460;-3.665.140
+2023_135; C. ARTURO SORIA;Aleixandre-Manuel Uribe;Aleixandre;21/09/2023;27/09/2023;40.463.460;-3.665.140
+2023_138; C. ARTURO SORIA;Lopez de Hoyos-Navarro Amandi;Navarro Amandi;20/09/2023;26/09/2023;40.459.750;-3.660.530
+2023_139; C. ARTURO SORIA;Lopez de Hoyos-Navarro Amandi;Lopez de Hoyos;20/09/2023;26/09/2023;40.459.750;-3.660.530
+2023_154;#¿NOMBRE?;Purchena-Vélez Blanco;Vélez Blanco;29/09/2023;05/10/2023;40.477.470;-3.663.680
+2023_155;#¿NOMBRE?;Purchena-Vélez Blanco;Purchena;29/09/2023;05/10/2023;40.477.470;-3.663.680
+2023_167; C. BEATRIZ DE BOBADILLA;Pedro Justo Dorado Dellmans-Paseo Juan XXIII;Paseo Juan XXIII;21/03/2023;27/03/2023;40.448.410;-3.715.410
+2023_176; Av. BETANZOS;Melchor Fernandez Almagro-La Baneza;La Baneza;09/02/2023;15/02/2023;40.476.090;-3.711.590
+2023_177; Av. BETANZOS;Melchor Fernandez Almagro-La Baneza;Melchor Fernandez Almagro;09/02/2023;15/02/2023;40.476.090;-3.711.590
+2023_183; C. BOJ;Avenida de los Andes-Avenida de los Arces;Avenida de los Arces;13/09/2023;19/09/2023;40.455.910;-3.618.170
+2023_190; C. BRAVO MURILLO;Alvarado-Juan Pantoja;Juan Pantoja;22/03/2023;28/03/2023;40.450.150;-3.703.570
+2023_191; C. BRAVO MURILLO;Alvarado-Juan Pantoja;Alvarado;22/03/2023;28/03/2023;40.450.170;-3.703.630
+2023_192; C. BRAVO MURILLO;Anastasio Herrero-San Enrique;San Enrique;10/03/2023;16/03/2023;40.456.680;-3.702.080
+2023_193; C. BRAVO MURILLO;Anastasio Herrero-San Enrique;Anastasio Herrero;10/03/2023;16/03/2023;40.456.620;-3.702.150
+2023_204; Av. CAMILO JOSE CELA;C MARQUES DE AHUMADA-C FRANCISCO REMIRO;C MARQUES DE AHUMADA;05/04/2023;11/04/2023;40.437.250;-3.667.500
+2023_205; Av. CAMILO JOSE CELA;C MARQUES DE AHUMADA-C FRANCISCO REMIRO;C FRANCISCO REMIRO;05/04/2023;11/04/2023;40.437.250;-3.667.500
+2023_206;CMO. CAMINO DE GANAPANES;Calle De Chantada - Calle De La Bañeza;Calle De Chantada;02/03/2023;08/03/2023;40.473.670;-3.715.180
+2023_207;CMO. CAMINO DE GANAPANES;Calle De Chantada - Calle De La Bañeza;Calle De La Bañeza;02/03/2023;08/03/2023;40.473.670;-3.715.180
+2023_220; Crt¦. CARRETERA DE CANILLAS;Pegaso-Alejandro Villegas;Alejandro Villegas;22/09/2023;28/09/2023;40.463.060;-3.648.710
+2023_221; Crt¦. CARRETERA DE CANILLAS;Pegaso-Alejandro Villegas;Pegaso;22/09/2023;28/09/2023;40.463.060;-3.648.710
+2023_252; C. CARTAGENA;Avenida de Los Toreros-Martinez Izquierdo;Avenida de Los Toreros;26/05/2023;01/06/2023;40.432.390;-3.670.490
+2023_253; C. CARTAGENA;Avenida de Los Toreros-Martinez Izquierdo;Martinez Izquierdo;26/05/2023;01/06/2023;40.432.460;-3.670.570
+2023_254; C. CARTAGENA;Avenida de America-Clara del Rey;Avenida de America;04/04/2023;10/04/2023;40.439.520;-3.673.710
+2023_285; C. CESAR MANRIQUE;Juan Sanchez-Glorieta Mariano Salvador Maella;Glorieta Mariano Salvador Maella;10/02/2023;16/02/2023;40.474.800;-3.721.030
+2023_286; C. CESAR MANRIQUE;Juan Sanchez-Glorieta Mariano Salvador Maella;Juan Sanchez;10/02/2023;16/02/2023;40.474.950;-3.721.110
+2023_295; Av. COMPLUTENSE;Profesor Jose Garcia Santesmases-Carretera Dehesa de la Villa;Profesor Jose Garcia Santesmases;09/03/2023;15/03/2023;40.453.880;-3.729.000
+2023_296; Av. COMPLUTENSE;Profesor Jose Garcia Santesmases-Carretera Dehesa de la Villa;Carretera Dehesa de la Villa;09/03/2023;15/03/2023;40.453.880;-3.729.000
+2023_301; Av. CONCHA ESPINA;Marceliano Santa Maria-Plaza de los Sagrados Corazones;Plaza de los Sagrados Corazones;03/04/2023;09/04/2023;40.452.260;-3.688.050
+2023_302; Av. CONCHA ESPINA;Marceliano Santa Maria-Plaza de los Sagrados Corazones;Plaza de Lima;03/04/2023;09/04/2023;40.452.140;-3.688.350
+2023_307; Av. CONSEJO DE EUROPA;M-40-Ribera del Loira;M-40;14/09/2023;20/09/2023;40.459.120;-3.616.610
+2023_308; Av. CONSEJO DE EUROPA;M-40-Ribera del Loira;Ribera del Loira;14/09/2023;20/09/2023;40.459.140;-3.616.550
+2023_321;Tunel C. COSTA RICA;Avenida de Alfonso XIII-Arturo Soria;Arturo Soria;08/03/2023;14/03/2023;40.459.580;-3.666.280
+2023_322;Tunel C. COSTA RICA;Avenida de Alfonso XIII-Arturo Soria;Avenida de Alfonso XIII;08/03/2023;14/03/2023;40.459.680;-3.666.390
+2023_348; C. DIEGO AYLLON;Asura-Arturo Soria;Arturo Soria;19/09/2023;25/09/2023;40.451.750;-3.650.700
+2023_361;Tunel C. DOCTOR ESQUERDO;Manuel Becerra (Pz.)-Hermosilla;Hermosilla;01/06/2023;07/06/2023;40.425.890;-3.668.800
+2023_362;Tunel C. DOCTOR ESQUERDO;Manuel Becerra (Pz.)-Hermosilla;Manuel Becerra (Pz.);01/06/2023;07/06/2023;40.425.930;-3.668.510
+2023_399; C. EMIGRANTES, LOS;Trefacio-Tribaldos;Tribaldos;22/09/2023;28/09/2023;40.466.410;-3.636.580
+2023_400; C. EMIGRANTES, LOS;Trefacio-Tribaldos;Trefacio;22/09/2023;28/09/2023;40.466.480;-3.636.630
+2023_403; C. EMILIO VARGAS;Arturo Soria-Agastia;Agastia;19/09/2023;25/09/2023;40.449.050;-3.651.720
+2023_453; C. FRANCOS RODRIGUEZ;Lorenzana-Guadalix;Pamplona;10/03/2023;16/03/2023;40.456.960;-3.709.160
+2023_454; C. FRANCOS RODRIGUEZ;Lorenzana-Guadalix;Numancia;10/03/2023;16/03/2023;40.456.960;-3.709.160
+2023_479; C. GENERAL ORAA;Emilio Castelar (Gt¦.)-Hermanos Becquer;Emilio Castelar (Gt¦.);02/06/2023;08/06/2023;40.435.900;-3.687.860
+2023_494; C. GOYA;Fuente del Berro-Doctor Esquerdo;Fuente del Berro;31/05/2023;06/06/2023;40.424.480;-3.669.270
+2023_495; C. GOYA;Fuente del Berro-Doctor Esquerdo;Doctor Esquerdo;31/05/2023;06/06/2023;40.424.500;-3.669.330
+2023_498;Tunel C. GRAN VIA DE HORTALEZA;Emetario Castano-Luis Rosales (Gt¦.);Luis Rosales (Gt¦.);28/09/2023;04/10/2023;40.466.030;-3.657.180
+2023_499;Tunel C. GRAN VIA DE HORTALEZA;Emetario Castano-Luis Rosales (Gt¦.);Emetario Castano;28/09/2023;04/10/2023;40.465.830;-3.657.430
+2023_500;Lateral C. GRAN VIA DE HORTALEZA;Emetario Castano-Luis Rosales (Gt¦.);Emetario Castano;28/09/2023;04/10/2023;40.465.830;-3.657.430
+2023_501;Lateral C. GRAN VIA DE HORTALEZA;Emetario Castano-Luis Rosales (Gt¦.);Luis Rosales (Gt¦.);28/09/2023;04/10/2023;40.466.050;-3.657.180
+2023_502; AV de la Gran V¡a de Hortaleza;Av de San Luis-Calle Pinar del Rey;Av de San Luis;28/09/2023;04/10/2023;40.469.270;-3.657.420
+2023_503; Av. de la Gran V¡a de Hortaleza;Av de San Luis-Calle Pinar del Rey;Calle Pinar del Rey;28/09/2023;04/10/2023;40.469.270;-3.657.420
+2023_514; C. GREGORIO BENITEZ;Avenida de America-Asura;Asura;19/09/2023;25/09/2023;40.450.340;-3.646.510
+2023_515; C. GREGORIO BENITEZ;Avenida de America-Asura;Avenida de America;19/09/2023;25/09/2023;40.450.280;-3.646.620
+2023_516; Av. GREGORIO DEL AMO;José Antonio Nováis-Doctor Severo Ochoa;Doctor Severo Ochoa;21/03/2023;27/03/2023;40.446.367;-3.723.617
+2023_522; C. GUADALAJARA;Vizconde de Uzqueta-Eolo (Gt¦.);Eolo (Gt¦.);13/09/2023;19/09/2023;40.450.490;-3.614.730
+2023_523; C. GUADALAJARA;Vizconde de Uzqueta-Eolo (Gt¦.);Vizconde de Uzqueta;13/09/2023;19/09/2023;40.450.490;-3.614.730
+2023_525; Av. GUINDALERA;Avenida de Bruselas-Avenida de Camilo Jose Cela;Avenida de Camilo Jose Cela;05/04/2023;11/04/2023;40.441.250;-3.664.180
+2023_526; Av. GUINDALERA;Avenida de Bruselas-Avenida de Camilo Jose Cela;Avenida de Bruselas;05/04/2023;11/04/2023;40.441.250;-3.664.180
+2023_532; Paseo. HABANA;Gutierrez Solana-Plaza de los Sagrados Corazones;Plaza de los Sagrados Corazones;03/04/2023;09/04/2023;40.450.900;-3.686.850
+2023_533; Paseo. HABANA;Gutierrez Solana-Plaza de los Sagrados Corazones;Gutierrez Solana;04/03/2023;10/03/2023;40.451.150;-3.686.530
+2023_534; Paseo. HABANA;Infanta Maria Teresa-Herreros de Tejada;Herreros de Tejada;23/03/2023;29/03/2023;40.455.070;-3.682.740
+2023_535; Paseo. HABANA;Infanta Maria Teresa-Herreros de Tejada;Infanta Maria Teresa;23/03/2023;29/03/2023;40.455.070;-3.682.740
+2023_573;#¿NOMBRE?;María Ignacia-Pedro Rogel;María Ignacia;22/03/2023;28/03/2023;40.452.650;-3.708.750
+2023_574;#¿NOMBRE?;María Ignacia-Pedro Rogel;Pedro Rogel;22/02/2023;28/02/2023;40.452.650;-3.708.750
+2023_587; C. JOSE SILVA;Agastia-Arturo Soria;Agastia;19/09/2023;25/09/2023;40.455.320;-3.657.620
+2023_588; C. JOSE SILVA;Agastia-Arturo Soria;Arturo Soria;20/09/2023;26/09/2023;40.455.250;-3.657.400
+2023_595; C. JUAN BRAVO;Conde Penalver-Alcantara;Alcantara;30/05/2023;05/06/2023;40.432.360;-3.674.000
+2023_618; Av. LOGRONO M-110;Isis-Academos;Academos;12/09/2023;18/09/2023;40.449.820;-3.611.020
+2023_619; Av. LOGRONO M-110;Isis-Academos;Isis;12/09/2023;18/09/2023;40.449.980;-3.611.100
+2023_620; Av. LOGROÑO;Avenida de América-Isis;Avenida de América;12/09/2023;18/09/2023;40.449.917;-3.614.633
+2023_621;AVENIDA DE LOGROÑO;AVENIDA DE AMÉRICA-M-40;M-40;12/09/2023;18/09/2023;40.452.401;-3.606.083
+2023_622; C. LOPEZ DE HOYOS;Angel Luis de la Herran-Solsona;Angel Luis de la Herran;28/09/2023;04/10/2023;40.470.490;-3.651.080
+2023_623; C. LOPEZ DE HOYOS;Angel Luis de la Herran-Solsona;Solsona;28/09/2023;04/10/2023;40.470.630;-3.650.910
+2023_624; C. LOPEZ DE HOYOS;Eugenio Salazar-Marcenado;Eugenio Salazar;29/03/2023;04/04/2023;40.444.980;-3.672.820
+2023_625; C. LOPEZ DE HOYOS;Eugenio Salazar-Marcenado;Marcenado;29/03/2023;04/04/2023;40.444.980;-3.672.820
+2023_626; C. LOPEZ DE HOYOS;Asura-Zacarias Homs;Zacarias Homs;22/09/2023;28/09/2023;40.462.100;-3.658.620
+2023_627; C. LOPEZ DE HOYOS;Asura-Zacarias Homs;Asura;22/09/2023;28/09/2023;40.462.050;-3.658.730
+2023_628; Av. LOS ANDES;Anil-M-40;Anil;14/09/2023;20/09/2023;40.457.420;-3.618.190
+2023_629; Av. LOS ANDES;Anil-M-40;M-40;14/09/2023;20/09/2023;40.457.540;-3.618.320
+2023_643; Av. DE MACHUPICHU;RONDA MANUEL GRANERO-FLORENCIO CASTILLO;RONDA MANUEL GRANERO;15/09/2023;21/09/2023;40.460.070;-3.628.030
+2023_644; Av. DE MACHUPICHU;RONDA MANUEL GRANERO-FLORENCIO CASTILLO;FLORENCIO CASTILLO;15/09/2023;21/09/2023;40.460.070;-3.628.030
+2023_645; Av. MADRONOS;Andarrios-Machaquito;Machaquito;15/09/2023;21/09/2023;40.455.980;-3.631.000
+2023_646; Av. MADRONOS;Andarrios-Machaquito;Andarrios;15/09/2023;21/09/2023;40.455.980;-3.631.000
+2023_661; C. MAR ADRIATICO;Chaparral-Chiquinquira;Chiquinquira;27/09/2023;03/10/2023;40.471.850;-3.639.640
+2023_662; C. MAR ADRIATICO;Chaparral-Chiquinquira;Chaparral;27/09/2023;03/10/2023;40.471.850;-3.639.640
+2023_663;#¿NOMBRE?;Plaza Santos de la Humosa-Mar de las Antillas;Mar de las Antillas;27/09/2023;03/10/2023;40.473.683;-3.646.817
+2023_664;#¿NOMBRE?;Plaza Santos de la Humosa-Mar de las Antillas;Plaza Santos de la Humosa;27/09/2023;03/10/2023;40.473.683;-3.646.817
+2023_665; C. MAR DE LAS ANTILLAS;Mar de Aral-Santa Susana;Mar de Aral;27/09/2023;03/10/2023;40.475.130;-3.645.900
+2023_666; C. MAR DE LAS ANTILLAS;Mar de Aral-Santa Susana;Santa Susana;27/09/2023;03/10/2023;40.475.130;-3.645.900
+2023_671; C. MARCENADO;San Ernesto-Avenida Ramon y Cajal;Avenida Ramon y Cajal;28/03/2023;03/04/2023;40.450.800;-3.674.530
+2023_698; C. MELCHOR FERNANDEZ ALMAGRO;Plaza de Tuy-Plaza de la Redondela;Plaza de la Redondela;09/02/2023;15/02/2023;40.475.690;-3.709.410
+2023_699; C. MELCHOR FERNANDEZ ALMAGRO;Plaza de Tuy-Plaza de la Redondela;Plaza de Tuy;09/02/2023;15/02/2023;40.475.690;-3.709.410
+2023_722;Tunel Av. MONFORTE DE LEMOS;Las Magnolias-Melchor Fernandez Almagro;Melchor Fernandez Almagro;17/02/2023;23/02/2023;40.476.950;-3.690.340
+2023_723;Tunel Av. MONFORTE DE LEMOS;Las Magnolias-Melchor Fernandez Almagro;Las Magnolias;17/02/2023;23/02/2023;40.476.840;-3.690.540
+2023_739; C. MOSCATELAR;Parma-Milan;Parma;20/09/2023;26/09/2023;40.457.150;-3.648.240
+2023_740; C. MOSCATELAR;Parma-Milan;Milan;19/09/2023;25/09/2023;40.457.150;-3.648.240
+2023_766; C. OFELIA NIETO;Glorieta RocIo Durcal-Alonso Nunez;Alonso Nunez;10/03/2023;16/03/2023;40.458.470;-3.710.890
+2023_767; C. OFELIA NIETO;Glorieta Rocio Durcal-Alonso Nunez;Glorieta Rocio Durcal;10/03/2023;16/03/2023;40.458.440;-3.710.920
+2023_768; C. ORENSE;Basilica-Hernani;Basilica;22/03/2023;28/03/2023;40.448.200;-3.695.230
+2023_769; C. ORENSE;Basilica-Hernani;Hernani;22/03/2023;28/03/2023;40.448.350;-3.695.330
+2023_784; C. PADRE CLARET;Acceso M-30-Avenida Ramon y Cajal;Acceso M-30;30/03/2023;05/04/2023;40.452.040;-3.665.630
+2023_785; C. PADRE CLARET;Acceso M-30-Avenida Ramon y Cajal;Avenida Ramon y Cajal;30/03/2023;05/04/2023;40.452.040;-3.665.630
+2023_786; C. PADRE DAMIAN;Juan Ramon Jimenez-Avenida Alberto Alcocer;Juan Ramon Jimenez;23/02/2023;01/03/2023;40.457.060;-3.686.180
+2023_787; C. PADRE DAMIAN;Juan Ramon Jimenez-Avenida Alberto Alcocer;Avenida Alberto Alcocer;23/03/2023;29/03/2023;40.456.900;-3.686.120
+2023_794; Pte. PAZ;Brasilia-Badajoz;Brasilia;05/04/2023;11/04/2023;40.440.830;-3.659.680
+2023_795; Pte. PAZ;Brasilia-Badajoz;Badajoz;05/04/2023;11/04/2023;40.440.780;-3.659.960
+2023_848; C. PRADILLO;Pantoja-Saturnino Calleja;Pantoja;29/03/2023;04/04/2023;40.449.060;-3.671.590
+2023_855; C. PRINCIPE DE VERGARA;Aragon-Cataluna (Pz.);Cataluna (Pz.);29/03/2023;04/04/2023;40.448.270;-3.678.120
+2023_856; C. PRINCIPE DE VERGARA;Aragon-Cataluna (Pz.);Aragon;29/03/2023;04/04/2023;40.448.310;-3.678.140
+2023_857;#¿NOMBRE?;Melchor Fernández Almagro-Villa de Marín;Villa de Marín;16/02/2023;22/02/2023;40.478.200;-3.696.820
+2023_858;#¿NOMBRE?;Melchor Fernández Almagro-Villa de Marín;Melchor Fernández Almagro;16/02/2023;22/02/2023;40.478.200;-3.696.820
+2023_883; Av. RAMON Y CAJAL;Principe de Vergara-Plaza Virgen Guadalupana;Plaza Virgen Guadalupana;28/03/2023;03/04/2023;40.451.640;-3.675.480
+2023_884; Av. RAMON Y CAJAL;Principe de Vergara-Plaza Virgen Guadalupana;Principe de Vergara;28/03/2023;03/04/2023;40.451.530;-3.675.710
+2023_901;C. RIBERA DEL SENA;Glorieta de Edimburgo-Glorieta Rio Urubamba;Glorieta Rio Urubamba;26/09/2023;02/10/2023;40.468.530;-3.626.290
+2023_902;RIBERA DEL SENA;GLORIETA DE EDIMBURGO-GLORIETA DEL RÍO URUBAMBA;GLORIETA DE EDIMBURGO;26/09/2023;02/10/2023;40.468.622;-3.624.938
+2023_943;  SAN LUIS;Julio Danvila-Trinquete;Julio Danvila;29/09/2023;05/10/2023;40.472.200;-3.661.900
+2023_944; Av. SAN LUIS;Julio Danvila-Trinquete;Trinquete;29/09/2023;05/10/2023;40.472.310;-3.661.940
+2023_976; C. SEGRE;Alfonso Rodriguez Santamaria-Serrano;Serrano;03/04/2023;09/04/2023;40.450.920;-3.684.120
+2023_982; C. SERRANO;Republica de El Ecuador (Pz.)-Rodriguez Marin;Rodriguez Marin;28/03/2023;03/04/2023;40.454.500;-3.677.810
+2023_983; C. SERRANO;Republica de El Ecuador (Pz.)-Rodriguez Marin;Republica de El Ecuador (Pz.);28/03/2023;03/04/2023;40.454.290;-3.677.730
+2023_984; C. SERRANO;Turia-Cidacos;Cidacos;04/04/2023;10/04/2023;40.451.030;-3.682.070
+2023_985; C. SERRANO;Turia-Cidacos;Turia;04/04/2023;10/04/2023;40.450.920;-3.681.970
+2023_986; C. SERRANO;Juan de la Cierva-Pablo Aranda;Pablo Aranda;04/04/2023;10/04/2023;40.442.420;-3.685.980
+2023_998; C. SILVANO;M-40-Glorieta Luxemburgo;M-40;15/09/2023;21/09/2023;40.462.950;-3.621.800
+2023_999; C. SILVANO;M-40-Glorieta Luxemburgo;Glorieta Luxemburgo;15/09/2023;21/09/2023;40.462.950;-3.621.800
+2023_1000; C. SILVANO;Liceo (Pz.)-Alcorisa;Alcorisa;19/09/2023;25/09/2023;40.458.040;-3.643.840
+2023_1001; C. SILVANO;Liceo (Pz.)-Alcorisa;Liceo (Pz.);19/09/2023;25/09/2023;40.458.040;-3.643.840
+2023_1037;Av. TOREROS;Cartagena-Pilar de Zaragoza;Pilar de Zaragoza;26/05/2023;01/06/2023;40.431.940;-3.669.510
+2023_1040; C. TORRELAGUNA;Avenida de Ramon y Cajal-Lopez de Hoyos;Lopez de Hoyos;20/09/2023;26/09/2023;40.454.830;-3.660.710
+2023_1041; C. TORRELAGUNA;Avenida de Ramon y Cajal-Lopez de Hoyos;Avenida de Ramon y Cajal;20/09/2023;26/09/2023;40.454.840;-3.660.630
+2023_1044; C. URUGUAY;Puerto Rico-Victor de la Serna;Puerto Rico;30/03/2023;05/04/2023;40.455.370;-3.672.200
+2023_1045; C. URUGUAY;Puerto Rico-Victor de la Serna;Victor de la Serna;30/03/2023;05/04/2023;40.455.370;-3.672.200
+2023_1071; C. VELAZQUEZ;Joaquin Costa-Rodriguez Marin;Rodriguez Marin;03/04/2023;09/04/2023;40.444.010;-3.682.400
+2023_P545;CALLE GUETARIA;Entre cestona y Tolosa;Calle Cestona;13/10/2023;19/10/2023;40.373.109;-3.715.630
+2023_P548;Calle Jose Picon;Entre calle pilar de zaragoza y calle agustin duran;agustin duran;17/10/2023;23/10/2023;40.435.374;-3.671.956
+2023_P549;Calle Jose Picon;Entre calle ardemans y calle agustin duran;Ardemans;17/10/2023;23/10/2023;40.435.282;-3.672.052
+2023_P550;Calle Jose Picon;Entre calle ardemans y calle francisco silvela;Francisco Silvela.;17/10/2023;23/10/2023;40.434.733;-3.672.758
+2023_P551;Calle Agustin Duran;Entre calle Bejar y alonso Heredia;bejar;17/10/2023;23/10/2023;40.435.781;-3.672.625
+2023_P552;Calle Agustin Duran;Entre calle Jose picon y ferrer del rio;Jose picon;17/10/2023;23/10/2023;40.434.949;-3.671.510
+2023_P553;Calle Alonso heredia;Entre agustin duran y ardemans;Agustin duran;17/10/2023;23/10/2023;40.435.508;-3.672.873
+2023_P555;Rufino Blanco;Entre rafael juan y paseo del marques de zafra;Marques de zafra;24/10/2023;30/10/2023;40.426.657;-3.665.397
+2023_P556;Calle vizconde de matamala;Entre Ramin de Aguinaga y Azulejo;Azulejo;24/10/2023;30/10/2023;40.426.585;-3.665.012
+2023_P557;Ramon de aguinaga;Entre Rufino blanco y vizconde de matamala;Vizconde de matamala;24/10/2023;30/10/2023;40.426.925;-3.665.541
+2023_163; Camino BARRIAL;Ana Teresa-N-VI;Ana Teresa;02/02/2023;08/02/2023;40.463.183;-3.795.883
+2023_1; Av. ABRANTES;Pelicano-Argeso;Pelicano;14/11/2023;20/11/2023;40.382.940;-3.725.580
+2023_2; Av. ABRANTES;Pelicano-Argeso;Argeso;14/11/2023;20/11/2023;40.382.940;-3.725.580
+2023_3;PSO. ACACIAS, LAS;Ribera De Curtidores - Gasometro;Gasometro;28/10/2023;03/11/2023;40.403.783;-3.707.383
+2023_4;PSO. ACACIAS, LAS;Ribera de Curtidores-Gasómetro;Ribera de Curtidores;28/10/2023;03/11/2023;40.403.783;-3.707.320
+2023_7;C. AGUSTIN DE BETANCOURT;Maria De Guzman - Maudes;Maudes;24/05/2023;30/05/2023;40.444.494;-3.695.067
+2023_8;C. AGUSTIN DE BETANCOURT;Maria De Guzman - Maudes;Maria De Guzman;24/05/2023;30/05/2023;40.444.574;-3.695.217
+2023_21; Av. ALBUFERA;Teniente Munoz Diaz-Avenida de Buenos Aires;Teniente Munoz Diaz;06/11/2023;12/11/2023;40.391.590;-3.654.880
+2023_29; C. ALCALA;San Mariano-Esparta;Esparta;06/11/2023;12/11/2023;40.445.600;-3.613.780
+2023_30; C. ALCALA;San Mariano-Esparta;San Mariano;06/11/2023;12/11/2023;40.445.680;-3.613.840
+2023_31; C. ALCALA;Villanueva-Principe de Vergara;Villanueva;06/11/2023;12/11/2023;40.422.350;-3.681.270
+2023_32; C. ALCALA;Villanueva-Principe de Vergara;Principe de Vergara;06/11/2023;12/11/2023;40.422.410;-3.681.310
+2023_33; Av. ALBUFERA;Teniente Munoz Diaz-Avenida de Buenos Aires;Teniente Munoz Diaz;22/06/2023;28/06/2023;40.391.590;-3.654.880
+2023_41;ALCALDE SAINZ DE BARANDA;ENTRE AV MENENDEZ PELAYO Y NARVAEZ;AV MENENDEZ PELAYO;21/10/2023;27/10/2023;40.417.080;-3.677.090
+2023_42;ALCALDE SAINZ DE BARANDA;ENTRE AV MENENDEZ PELAYO Y NARVAEZ;NARVAEZ;21/10/2023;27/10/2023;40.416.930;-3.677.080
+2023_43;C. ALCALDE SAINZ DE BARANDA;Marques De Lozoya - Juan Esplandiu;Juan Esplandiu;13/06/2023;19/06/2023;40.417.570;-3.666.830
+2023_44;C. ALCALDE SAINZ DE BARANDA;Marques De Lozoya - Juan Esplandiu;Marques De Lozoya;10/06/2023;16/06/2023;40.417.665;-3.666.910
+2023_49;ALFONSO XII;ENTRE MONTALBAN Y VALENZUELA;MONTALBAN;24/10/2023;30/10/2023;40.418.230;-3.688.900
+2023_50;ALFONSO XII;ENTRE MONTALBAN Y VALENZUELA;VALENZUELA;24/10/2023;30/10/2023;40.418.230;-3.688.750
+2023_51;ALFONSO XII (LATERAL);ENTRE Pº DE LA INFANTA ISABEL Y CLAUDIO MOYANO;Pº DE LA INFANTA ISABEL;21/10/2023;27/10/2023;40.408.490;-3.688.750
+2023_52;ALFONSO XII (LATERAL);ENTRE Pº DE LA INFANTA ISABEL Y CLAUDIO MOYANO;CLAUDIO MOYANO;21/10/2023;27/10/2023;40.408.490;-3.688.560
+2023_53;Calle Alfonso XII;Entre Claudio Moyano y Paseo santa Isabel;claudio moyano;21/10/2023;27/10/2023;40.000.000;40.923.000.000
+2023_54;ALFONSO XII (TUNEL);ENTRE Pº DE LA INFANTA ISABEL Y CLAUDIO MOYANO;Pº DE LA INFANTA ISABEL;21/10/2023;27/10/2023;40.409.500;-3.688.690
+2023_59; C. ALHAMBRA, LA;Concejal F.J.Jimenez Martin-Gregorio Vacas;Concejal F.J.Jimenez Martin;07/11/2023;13/11/2023;40.401.000;-3.744.720
+2023_60; C. ALHAMBRA, LA;Concejal F.J.Jimenez Martin-Gregorio Vacas;Gregorio Vacas;07/11/2023;13/11/2023;40.401.020;-3.744.730
+2023_61;C. ALMAGRO;Fernando El Santo - Calle De Zurbano;Zurbano;03/06/2023;09/06/2023;40.428.900;-3.694.370
+2023_62;C. ALMAGRO;Fernando El Santo - Zurbaran;Fernando El Santo;03/06/2023;09/06/2023;40.428.800;-3.694.470
+2023_63;C. ALONSO CANO;Jose Abascal - Breton De Los Heros;Breton De Los Herreros;24/05/2023;30/05/2023;40.438.950;-3.697.840
+2023_68; C. ANA DE AUSTRIA;Avenida Niceto Alcala Zamora-Padres Dominicos;Padres Dominicos;07/11/2023;13/11/2023;40.499.900;-3.653.470
+2023_69;C. ANA DE AUSTRIA;Niceto Alcala Zamora-Padres Dominicos;Niceto Alcala Zamora;07/11/2023;13/11/2023;40.500.450;-3.654.270
+2023_72;ANCORA;ENTRE VARA DEL REY Y GENERAL LACY;GENERAL LACY;22/09/2023;28/09/2023;40.402.860;-3.690.140
+2023_79;AVENIDA DE ANDALUCIA;ENTRE AVDA LOS ROSALES Y CONIFERAS;CONIFERAS;16/09/2023;22/09/2023;40.367.900;-3.694.420
+2023_80;AVENIDA DE ANDALUCIA;ENTRE AVDA LOS ROSALES Y CONIFERAS;AVDA LOS ROSALES;27/09/2023;03/10/2023;40.367.360;-3.693.990
+2023_85; C. ANTONIO LOPEZ;Fuenlabrada-Baleares;Jacinto Verdaguer;07/11/2023;13/11/2023;40.396.740;-3.713.640
+2023_86; C. ANTONIO LOPEZ;Fuenlabrada-Baleares;Glorita Marques de Vadillo;07/11/2023;13/11/2023;40.397.030;-3.714.200
+2023_91; C. ARAPILES;Quevedo (Gt¦.)-Magallanes;Magallanes;08/11/2023;14/11/2023;40.433.400;-3.705.000
+2023_98; C. ARCIPRESTE DE HITA;Fernandez de los Rios-Fernando el Catolico;Fernando el Catolico;08/11/2023;14/11/2023;40.434.830;-3.718.090
+2023_99; C. ARCIPRESTE DE HITA;Fernandez de los Rios-Fernando el Catolico;Fernandez de los Rios;08/11/2023;14/11/2023;40.434.970;-3.718.270
+2023_100; Avenida ARCO DE LA VICTORIA (TUNEL);Moncloa-Avenida de los Reyes Católicos;Avenida de los Reyes Católicos;08/11/2023;14/11/2023;40.436.133;-3.720.030
+2023_103; Av. ARCO DE LA VICTORIA (CARRIL BUS);Moncloa-Reyes Católicos;Reyes Católicos;08/11/2023;14/11/2023;40.435.700;-3.720.267
+2023_106;Calle Argumosa;Entre Ronda de Atocha y Hospital;Ronda de Atocha;27/10/2023;02/11/2023;40.000.000;40.738.000.000
+2023_107;Calle Argumosa;Entre Ronda de Atocha y Hospital;Hospital;27/10/2023;02/11/2023;40.000.000;40.738.000.000
+2023_115; C. ARROYO DEL OLIVAR;Teniente Munoz Diaz-Alcala de Guadaira;Alcala de Guadaira;08/11/2023;14/11/2023;40.390.250;-3.657.240
+2023_116; C. ARROYO DEL OLIVAR;Teniente Munoz Diaz-Alcala de Guadaira;Teniente Munoz Diaz;08/11/2023;14/11/2023;40.390.250;-3.657.240
+2023_125; C. ARROYO DE POZUELO;Rio Zancara (Glorieta)-Golondrina;Rio Zancara (Glorieta);08/11/2023;14/11/2023;40.452.470;-3.780.190
+2023_136;C. ARTURO SORIA;Avenida Manuel Azana - Dalia;Avenida Manuel Azana;04/10/2023;10/10/2023;40.480.280;-3.666.880
+2023_146; AUGUSTO FIGUEROA;entre BARQUILLO y VÁLGAME DIOS;VALGAME DIOS;13/09/2023;19/09/2023;40.421.964;-3.696.077
+2023_149; Av. LA AVIACION;Medina del Campo-Monroy;Monroy;16/10/2023;22/10/2023;40.378.840;-3.784.120
+2023_150;  LA AVIACION;Medina del Campo-Monroy;Paseo de Extremadura;16/11/2023;22/11/2023;40.378.837;-3.784.124
+2023_151;Av. AVIACION;Jose de Cadalso-General Millan Astray;General Millan Astray;09/11/2023;15/11/2023;40.373.440;-3.767.380
+2023_152; Av. AVIACION;Jose de Cadalso-General Millan Astray;Jose de Cadalso;08/11/2023;14/11/2023;40.373.440;-3.767.380
+2023_153;C. AZCONA;Amoros - Pilar De Zaragoza;Pilar De Zaragoza;29/05/2023;04/06/2023;40.434.448;-3.669.095
+2023_158;C. BAILEN;Mayor - Moreria;Moreria;02/11/2023;08/11/2023;40.414.470;-3.713.510
+2023_159;C. BAILEN;Mayor - Moreria;Mayor;02/11/2023;08/11/2023;40.414.530;-3.713.720
+2023_160; C. BARBARA DE BRAGANZA;Marques de la Ensenada-Recoletos (P§.);Recoletos (P§.);09/11/2023;15/11/2023;40.423.300;-3.692.300
+2023_161; C. BARBARA DE BRAGANZA;Marques de la Ensenada-Recoletos (P§.);Marques de la Ensenada;09/11/2023;15/11/2023;40.423.300;-3.692.300
+2023_164;Carretera BARRIO DE LA FORTUNA (Carretera);Peseta, La (Av);;;;;
+" -M-40 (carretera)""";M-40 (carretera);09/11/2023;15/11/2023;40.365.959;-3.768.178;;
+2023_165;Carretera BARRIO DE LA FORTUNA (Carretera);Peseta, La (Av);;;;;
+" -M-40 (carretera)""";Peseta, La (Av);09/11/2023;15/11/2023;40.365.959;-3.768.178;;
+2023_166;C. BATALLA DEL SALADO, LA;General Palanca - Ferrocarril;General Palanca;27/10/2023;02/11/2023;40.399.750;-3.696.300
+2023_180;C. BLASCO DE GARAY;Fernando El Catolico - Fernandez De Los Rios;Fernandez De Los Rios;20/05/2023;26/05/2023;40.434.890;-3.711.600
+2023_181; Carretera BOADILLA DEL MONTE;Carabias-Mirlo;Carabias;10/11/2023;16/11/2023;40.399.050;-3.767.733
+2023_182;#¿NOMBRE?;Carabias-Mirlo;Mirlo;10/11/2023;16/11/2023;40.399.050;-3.767.730
+2023_202; C. CAMARENA;Los Yébenes-Illescas;Illescas;15/11/2023;21/11/2023;40.392.383;-3.755.817
+2023_203;#¿NOMBRE?;Illescas-Ocaña;Ocaña;15/11/2023;21/11/2023;40.391.683;-3.755.780
+2023_210; Av. CAMINO DE SANTIAGO;Avenida Santo Domingo de la Calzada-Castiello de Jaca;Castiello de Jaca;10/11/2023;16/11/2023;40.507.790;-3.670.750
+2023_211; Av. CAMINO DE SANTIAGO;Avenida Santo Domingo de la Calzada-Castiello de Jaca;Avenida Santo Domingo de la Calzada;10/11/2023;16/11/2023;40.507.640;-3.670.840
+2023_232;CAPITAN BLANCO ARGIBAY;ENTRE MULLER Y SANTA VALENTINA;SANTA VALENTINA;21/09/2023;27/09/2023;40.465.190;-3.697.950
+2023_235; Av. Carabanchel Alto;Calle Enrique Martinez-Calle Allariz;Calle Enrique Martinez;13/11/2023;19/11/2023;40.365.420;-3.753.630
+2023_236; Av. Carabanchel Alto;Calle Enrique Mart¡nez-Calle Allariz;Calle Allariz;13/11/2023;19/11/2023;40.365.420;-3.753.630
+2023_237;C. CARAMUEL;Concejal Francisco Jose Jimenez Martin-Via Carpetana;Concejal Francisco Jose Jimenez Martin;13/11/2023;19/11/2023;40.403.190;-3.729.590
+2023_238;C. CARAMUEL;Concejal Francisco Jose Jimenez Martin-Via Carpetana;Via Carpetana;13/11/2023;19/11/2023;40.403.190;-3.729.590
+2023_241; C. CARLINA;Paseo de Extremadura-Cebreros;Cebreros;13/11/2023;19/11/2023;40.403.920;-3.750.820
+2023_242; C. CARLINA;Paseo de Extremadura-Cebreros;Paseo de Extremadura;13/11/2023;19/11/2023;40.403.920;-3.750.820
+2023_245; C. CARLOS Y GUILLERMO FERNANDEZ SHAW;Plaza de Conde Casal-Luis Mitjans;M-30;13/11/2023;19/11/2023;40.405.850;-3.669.520
+2023_246; C. CARLOS Y GUILLERMO FERNANDEZ SHAW;Plaza de Conde Casal-Luis Mitjans;Plaza de Conde Casal;13/11/2023;19/11/2023;40.405.850;-3.669.520
+2023_247; C. CARRANZA;Monteleon-Ruiz;Ruiz;13/11/2023;19/11/2023;40.429.340;-3.704.260
+2023_248; C. CARRANZA;Monteleon-Ruiz;Monteleon;13/11/2023;19/11/2023;40.429.310;-3.704.280
+2023_249;C. CARRERA DE SAN FRANCISCO;San Isidro Labrador - Aguas;San Isidro Labrador;02/11/2023;08/11/2023;40.410.950;-3.712.780
+2023_250;C. CARRERA DE SAN FRANCISCO;San Isidro Labrador - Aguas;Las Aguas;02/11/2023;08/11/2023;40.410.980;-3.712.780
+2023_1079;C. VIA CARPETANA;Caramuel - Ermita Del Santo;Caramuel;04/11/2023;10/11/2023;40.401.649;-3.730.556
+2023_251; C. CARRERA DE SAN JERONIMO;Victoria-Plaza de Canalejas;Plaza de Canalejas;14/11/2023;20/11/2023;40.416.730;-3.701.090
+2023_257;LATERAL PSO. CASTELLANA;Paseo De Eduardo Dato - Jenner;Jenner;03/06/2023;09/06/2023;40.432.191;-3.689.048
+2023_258;LATERAL PSO. CASTELLANA;Marques De Villamejor - Pza De Emilio Castelar;Pza De Emilio Castelar;03/06/2023;09/06/2023;40.432.070;-3.688.240
+2023_263;PSO. CASTELLANA;Plaza Doctor Maranon - Plaza San Juan De La Cruz;Plaza Doctor Maranon;27/05/2023;02/06/2023;40.439.890;-3.691.470
+2023_264;PSO. CASTELLANA;Plaza Doctor Maranon - Plaza San Juan De La Cruz;Plaza San Juan De La Cruz;27/05/2023;02/06/2023;40.439.860;-3.691.400
+2023_265;LATERAL PSO. CASTELLANA;Plaza Doctor Maranon - Plaza San Juan De La Cruz;Plaza Doctor Maranon;27/05/2023;02/06/2023;40.439.980;-3.691.550
+2023_266;LATERAL PSO. CASTELLANA;Plaza Doctor Maranon - Plaza San Juan De La Cruz;Plaza San Juan De La Cruz;27/05/2023;02/06/2023;40.439.810;-3.691.280
+2023_279; C. CAVANILLES;Juan de Urbieta-Abtao;Abtao;14/11/2023;20/11/2023;40.405.930;-3.675.410
+2023_280;C. CAVANILLES;Juan De Urbieta - Abtao;Juan De Urbieta;10/06/2023;16/06/2023;40.406.030;-3.675.680
+2023_289;Avda.Ciudad de Barcelona;Narciso Serra;NARCISO SERRA;24/10/2023;30/10/2023;40.000.000;4.037.799.999.999.000.000
+2023_290;AV CIUDAD DE BARCELONA;ENTRE NARCISO SERRA Y JUAN DE URBIETA;JUAN DE URBIETA;24/10/2023;30/10/2023;40.403.680;-3.679.510
+2023_292;COCHERON DE LA VILLA;ENTRE GONZALEZ DAVILA Y TRANVIA BLANCO;GONZALEZ DAVILA;15/09/2023;21/09/2023;40.381.115;-3.638.193
+2023_293;COMERCIO;ENTRE AV CIUDAD DE BARCELONA Y TELLEZ;AV CIUDAD DE BARCELONA;24/10/2023;30/10/2023;40.403.870;-3.681.070
+2023_294;C. COMERCIO;Avenida Ciudad De Barcelona - Tellez;Tellez;17/10/2023;23/10/2023;40.403.908;-3.681.187
+2023_299;#¿NOMBRE?;Carboneras-Castroserna;Castroserna;14/11/2023;20/11/2023;40.400.000;-3.749.350
+2023_300;#¿NOMBRE?;Carboneras-Castroserna;Carboneras;14/11/2023;20/11/2023;40.400.217;-3.749.080
+2023_303;C. CONDE DE PENALVER;Ayala - Don Ramon De La Cruz;Don Ramon De La Cruz;02/06/2023;08/06/2023;40.428.170;-3.675.220
+2023_304;C. CONDE DE PENALVER;Ayala - Don Ramon De La Cruz;Ayala;02/06/2023;08/06/2023;40.428.290;-3.675.350
+2023_315; C. CORREGIDOR DIEGO VALDERRABANO;Avenida de Moratalaz-Camino Vinateros;Camino Vinateros;31/05/2023;06/06/2023;40.409.630;-3.659.600
+2023_316; C. CORREGIDOR DIEGO VALDERRABANO;Avenida de Moratalaz-Camino de Vinateros;Avenida de Moratalaz;31/05/2023;06/06/2023;40.408.260;-3.661.790
+2023_329;C. CRUZ;Espoz Y Mina - Victoria;Victoria;28/10/2023;03/11/2023;40.415.333;-3.702.067
+2023_336;PSO. DE LA REINA CRISTINA;Julián Gayarre - Andrés Torrejón;Andrés Torrejón;24/10/2023;30/10/2023;40.406.855;-3.682.705
+2023_337;Pº DE LA REINA CRISTINA;ENTRE JULIÁN GAYARRE Y ANDRÉS TORREJÓN;JULIÁN GAYARRE;24/10/2023;30/10/2023;40.406.910;-3.682.730
+2023_338;CTRA DEHESA DE LA VILLA;ENTRE AVDA COMPLUTENSE Y AVDA PUERTA DE HIERRO;AVDA COMPLUTENSE;23/09/2023;29/09/2023;40.456.330;-3.730.220
+2023_339;CTRA DEHESA DE LA VILLA;ENTRE AVDA COMPLUTENSE Y AVDA PUERTA DE HIERRO;AVDA PUERTA DE HIERRO;16/09/2023;22/09/2023;40.456.480;-3.730.420
+2023_349;C. DIEGO DE LEON;General Pardinas - General Diaz Porlier;General Pardinas;01/06/2023;07/06/2023;40.434.610;-3.676.970
+2023_350;C. DIEGO DE LEON;General Pardinas - General Diaz Porlier;General Diaz Porlier;01/06/2023;07/06/2023;40.434.580;-3.677.240
+2023_357;C. DOCTOR ESQUERDO;Plaza Conde Casal-Cavanilles;Plaza Conde Casal;14/11/2023;20/11/2023;40.405.155;-3.671.167
+2023_358; C. DOCTOR ESQUERDO;Plaza Conde Casal-Cavanilles;Cavanilles;14/11/2023;20/11/2023;40.405.240;-3.671.290
+2023_359;LATERAL C. DOCTOR ESQUERDO;Manuel Becerra (Pza) - Hermosilla;Manuel Becerra (Pza);13/06/2023;19/06/2023;40.425.977;-3.668.435
+2023_360;Lateral C. DOCTOR ESQUERDO;Manuel Becerra (Pz.)-Hermosilla;Hermosilla;10/06/2023;16/06/2023;40.425.890;-3.668.800
+2023_363; C. DOCTOR ESQUERDO;Samaria-Avenida de Nazaret;Avenida de Nazaret;15/11/2023;21/11/2023;40.411.900;-3.669.620
+2023_364; C. DOCTOR ESQUERDO;Samaria-Avenida de Nazaret;Samaria;15/11/2023;21/11/2023;40.411.900;-3.669.620
+2023_367;AVDA DOCTOR GARCIA TAPIA;ENTRE ARROYO BELINCOSO Y CORREGIDOR JOSE DE PASAMONTE;CORREGIDOR JOSE DE PASAMONTE;27/09/2023;03/10/2023;40.412.400;-3.649.620
+2023_368;AVDA DOCTOR GARCIA TAPIA;ENTRE ARROYO BELINCOSO Y CORREGIDOR JOSE DE PASAMONTE;ARROYO BELINCOSO;27/09/2023;03/10/2023;40.412.390;-3.650.370
+2023_373; C. DOCTOR LOZANO;Avenida Pena Prieta-Sierra Toledana;Sierra Toledana;26/05/2023;01/06/2023;40.402.940;-3.660.420
+2023_374; C. DOCTOR LOZANO;Avenida Pena Prieta-Sierra Toledana;Avenida Pena Prieta;26/05/2023;01/06/2023;40.402.940;-3.660.420
+2023_384;C. DUQUESA DE PARCENT;Cuart De Poblet - Glorieta De Los Carmenes;Glorieta De Los Carmenes;08/06/2023;14/06/2023;40.395.295;-3.746.591
+2023_391;C. EMBAJADORES;General Palanca - Caceres;Caceres;27/10/2023;02/11/2023;40.399.217;-3.698.362
+2023_392;C. EMBAJADORES;General Palanca - Caceres;General Palanca;27/10/2023;02/11/2023;40.399.280;-3.698.200
+2023_398;EMBAJADORES;ENTRE MIGUEL SERVET Y PROVISIONES;PROVISIONES;16/09/2023;22/09/2023;40.405.860;-3.702.980
+2023_410; Paseo. ERMITA DEL SANTO;Sepulveda-Via Carpetana;Via Carpetana;15/11/2023;21/11/2023;40.408.730;-3.723.810
+2023_411; Paseo. ERMITA DEL SANTO;Sepulveda-Via Carpetana;Sepulveda;15/11/2023;21/11/2023;40.408.650;-3.723.790
+2023_412;PSO. ERMITA DEL SANTO;San Ambrosio - Ponton San Isidro;Via Carpetana;04/11/2023;10/11/2023;40.404.120;-3.724.910
+2023_413;PSO. ERMITA DEL SANTO;San Ambrosio - Ponton San Isidro;Ponton San Isidro;04/11/2023;10/11/2023;40.404.120;-3.724.910
+2023_414; Paseo. DE LA ERMITA DEL SANTO;Calle Via Carpetana-Paseo del Quince de Mayo;Paseo del Quince de Mayo;15/11/2023;21/11/2023;40.399.180;-3.728.080
+2023_415; Paseo. DE LA ERMITA DEL SANTO;Calle Via Carpetana-Paseo del Quince de Mayo;Calle Via Carpetana;15/11/2023;21/11/2023;40.399.180;-3.728.080
+2023_416;PSO. ESPERANZA, LA;Gargantilla - Banos De Montemayor;Gargantilla;27/10/2023;02/11/2023;40.399.067;-3.703.067
+2023_417;PSO. ESPERANZA, LA;Gargantilla - Banos De Montemayor;Banos De Montemayor;27/10/2023;02/11/2023;40.000.000;398.983.000.000
+2023_420; C. ESTRELLA POLAR;Pez Austral-Sirio;Sirio;15/11/2023;21/11/2023;40.411.100;-3.665.180
+2023_421; C. ESTRELLA POLAR;Pez Austral-Sirio;Pez Austral;15/11/2023;21/11/2023;40.411.100;-3.665.180
+2023_424;C. EUGENIA DE MONTIJO;Emperatriz (Pz.)-Parterre (Pz.);Parterre (Pz.);16/11/2023;22/11/2023;40.375.166;-3.750.848
+2023_425;C. EUGENIA DE MONTIJO;Emperatriz (Pz.)-Parterre (Pz.);Emperatriz (Pz.);16/11/2023;22/11/2023;40.375.159;-3.750.986
+2023_426; Av. EURO;Óbolo-Pepión;Pepión;16/11/2023;22/11/2023;40.370.190;-3.739.370
+2023_427;AVENIDA DEL EURO;PEPION-ÓBOLO;ÓBOLO;16/11/2023;22/11/2023;40.370.412;-3.739.193
+2023_428; C. FEDERICO MOMPOU;Carretera Acceso a la N-I Madrid-Burgos-Maria Tubau;Isabel Collbrand;16/11/2023;22/11/2023;40.512.200;-3.679.690
+2023_436; C. FERRAZ;Marques de Urquijo-Altamirano;Altamirano;16/11/2023;22/11/2023;40.429.550;-3.720.690
+2023_437;C. FERROCARRIL;Santa Maria De La Cabeza (Gta) - Batalla Del Salado;Batalla Del Salado;27/10/2023;02/11/2023;40.400.980;-3.697.680
+2023_440;AV. FILIPINAS;Vallehermoso - Galileo;Galileo;19/05/2023;25/05/2023;40.440.460;-3.708.900
+2023_443;PSO. FLORIDA, LA;Mozart - Ermita Del Santo De La Florida;Ermita Del Santo De La Florida;28/06/2023;04/07/2023;40.424.683;-3.725.300
+2023_444;PSO. FLORIDA, LA;Mozart - Ermita Del Santo De La Florida;Mozart;28/06/2023;04/07/2023;40.424.650;-3.725.183
+2023_450; Av. FRANCISCO PI Y MARGALL;Maria de Portugal-Burgos A-1;Burgos A-1;16/11/2023;22/11/2023;40.494.780;-3.665.900
+2023_451; C. FRANCISCO Y JACINTO ALCANTARA;Paseo de Camoens-Paseo del Pintor Rosales;Paseo de Camoens;17/11/2023;23/11/2023;40.429.150;-3.723.070
+2023_452; C. FRANCISCO Y JACINTO ALCANTARA;Paseo de Camoens-Paseo del Pintor Rosales;Paseo del Pintor Rosales;17/11/2023;23/11/2023;40.429.150;-3.723.070
+2023_455; C. FUENCARRAL;Manuela Malasana-Divino Pastor;Divino Pastor;17/11/2023;23/11/2023;40.428.170;-3.702.150
+2023_456; C. FUENCARRAL;Manuela Malasana-Divino Pastor;Manuela Malasana;17/11/2023;23/11/2023;40.428.170;-3.702.150
+2023_457;#¿NOMBRE?;Ctra. De Fuencarral a Hortaleza-Puerto de Somport;Puerto de Somport;17/11/2023;23/11/2023;40.494.370;-3.674.190
+2023_458;#¿NOMBRE?;Ctra. De Fuencarral a Hortaleza-Puerto de Somport;Ctra. De Fuencarral a Hortaleza;17/11/2023;23/11/2023;40.494.370;-3.674.190
+2023_467; Av. FUERZAS ARMADAS;Alejandro de la Sota-Francisco Umbral;Alejandro de la Sota;17/11/2023;23/11/2023;40.482.100;-3.622.900
+2023_468;Avenida FUERZAS ARMADAS;Alejandro de la Sota-Francisco Umbral;Francisco Umbral;17/11/2023;23/11/2023;40.482.320;-3.629.610
+2023_471; C. GENERAL ARANAZ;Maria Lombillo-Lopez de Aranda;Lopez de Aranda;17/11/2023;23/11/2023;40.442.820;-3.638.600
+2023_472; Av. GENERAL FANJUL;Jose de Cadalso-General Romero Basart;Jose de Cadalso;16/11/2023;22/11/2023;40.382.460;-3.773.960
+2023_473; Av. GENERAL FANJUL;Jose de Cadalso-General Romero Basart;General Romero Basart;16/11/2023;22/11/2023;40.382.620;-3.773.990
+2023_474;C. GENERAL IBANEZ DE IBERO;Reina Victoria (Av) - San Francisco De Sales(Pso);Reina Victoria (Av);18/05/2023;24/05/2023;40.445.051;-3.710.386
+2023_475;C. GENERAL IBANEZ DE IBERO;Reina Victoria (Av) - San Francisco De Sales(Pso);San Francisco De Sales(Pso);18/05/2023;24/05/2023;40.445.050;-3.710.580
+2023_478; C. GENERAL ORAA;Emilio Castelar (Gt¦.)-Hermanos Becquer;Hermanos Becquer;02/06/2023;08/06/2023;40.435.870;-3.687.840
+2023_480; C. GENERAL RICARDOS;Azabache-San Patricio;Azabache;17/11/2023;23/11/2023;40.392.480;-3.725.310
+2023_481; C. GENERAL RICARDOS;Azabache-San Patricio;San Patricio;17/11/2023;23/11/2023;40.392.060;-3.725.460
+2023_482; C. GENERAL RICARDOS;Nuestra Senora de la Luz-Monsenor Oscar Romero;Monsenor Oscar Romero;20/11/2023;26/11/2023;40.382.460;-3.742.900
+2023_483; C. GENERAL RICARDOS;Monsenor Oscar Romero-Eugenia de Montijo;Eugenia de Montijo;20/11/2023;26/11/2023;40.381.350;-3.744.590
+2023_484; C. GENERAL ROMERO BASART;Valle Inclán-Rafael Finat;Rafael Finat;20/11/2023;26/11/2023;40.378.117;-3.772.950
+2023_485; C. GENERAL ROMERO BASART;Valle Inclán-Rafael Finat;Valle Inclán;20/11/2023;26/11/2023;40.378.117;-3.772.950
+2023_488;GOBELAS;ENTRE ZUGAZARTE Y AVDA VASCONGADAS;AVDA VASCONGADAS;23/09/2023;29/09/2023;40.472.320;-3.821.390
+2023_496;C. GOYA;Plaza De Colon - Serrano;Plaza De Colon;07/06/2023;13/06/2023;40.425.450;-3.689.160
+2023_497;C. GOYA;Plaza De Colon - Serrano;Serrano;07/06/2023;13/06/2023;40.425.480;-3.689.200
+2023_517;C. GREGORIO SANCHEZ HERRAEZ;Avenida Barranquilla - Via De Los Poblados;Avenida Barranquilla;29/09/2023;05/10/2023;40.477.241;-3.637.517
+2023_518;C. GREGORIO SANCHEZ HERRAEZ;Avenida Barranquilla - Via De Los Poblados;Via De Los Poblados;29/09/2023;05/10/2023;40.477.120;-3.637.510
+2023_529;C. GUZMAN EL BUENO;General Davila - San Francisco De Sales;San Francisco De Sales;18/05/2023;24/05/2023;40.443.120;-3.712.530
+2023_530;C. GUZMAN EL BUENO;General Davila - San Francisco De Sales;General Davila;18/05/2023;24/05/2023;40.443.440;-3.712.620
+2023_531;C. GUZMAN EL BUENO;Joaquin Maria Lopez - Donoso Cortes;Joaquin Maria Lopez;20/05/2023;26/05/2023;40.437.020;-3.713.080
+2023_538; C. HERNANDEZ DE TEJADA;Avenida de America-Agastia;Agastia;23/06/2023;29/06/2023;40.446.830;-3.652.410
+2023_541; C. HORTALEZA;Fernando VI-Santa Barbara (Pz.);Santa Barbara (Pz.);20/11/2023;26/11/2023;40.426.360;-3.696.730
+2023_542;C. HORTALEZA;Fernando VI-Santa Barbara (Pz.);Fernando VI;20/11/2023;26/11/2023;40.426.371;-3.697.005
+2023_545;IBIZA;ENTRE LOPE DE RUEDA Y NARVAEZ;LOPE DE RUEDA;21/10/2023;27/10/2023;40.417.080;-3.677.090
+2023_546;IBIZA;ENTRE LOPE DE RUEDA Y NARVAEZ;NARVAEZ;21/10/2023;27/10/2023;40.418.270;-3.676.980
+2023_547;C. ILLESCAS;Sesena-Escalona;Sesena;21/11/2023;27/11/2023;40.396.430;-3.765.128
+2023_548; C. ILLESCAS;Sesena-Escalona;Escalona;21/11/2023;27/11/2023;40.396.500;-3.765.160
+2023_553;AV. INGENIERO EMILIO HERRERA;Prínicipe Carlos - Avenida Niceto Alcalá Zamora;Prínicipe Carlos;19/10/2023;25/10/2023;40.492.817;-3.651.750
+2023_559;C. ISAAC PERAL;Plaza De Cristo Rey - Domenico Scarlatti;Domenico Scarlatti;19/05/2023;25/05/2023;40.440.680;-3.717.930
+2023_560;C. ISAAC PERAL;Plaza De Cristo Rey - Domenico Scarlatti;Plaza De Cristo Rey;19/05/2023;25/05/2023;40.440.420;-3.717.890
+2023_561;C. ISABEL COLBRAND;María Tubau-Ctra. De Fuencarral;María Tubau;21/11/2023;27/11/2023;40.515.612;-3.671.573
+2023_562; C. ISABEL COLBRAND;Carretera de Acceso a N-I-Maria Tubau;Carretera de Acceso a N-I;21/11/2023;27/11/2023;40.515.010;-3.671.430
+2023_571;JAVIER DE MIGUEL;ENTRE PAYASO FOFO Y ANTONIO FOLGUERAS;PAYASO FOFO;23/09/2023;29/09/2023;40.387.944;-3.661.312
+2023_572;JAVIER DE MIGUEL;ENTRE PAYASO FOFO Y ANTONIO FOLGUERAS;ANTONIO FOLGUERAS;23/09/2023;29/09/2023;40.387.775;-3.660.482
+2023_578;C. JOAQUIN TURINA;Roa-Avda. Carabanchel Alto;Avenida Carabanchel Alto;22/11/2023;28/11/2023;40.372.830;-3.752.530
+2023_579; C. JOAQUIN TURINA;Roa-Avda. Carabanchel Alto;Roa;22/11/2023;28/11/2023;40.372.830;-3.752.530
+2023_580;C. LA ARMADA ESPAÑOLA;Plaza De Colon - Serrano;Serrano;07/06/2023;13/06/2023;40.424.200;-3.689.110
+2023_584;C. JOSE ORTEGA Y GASSET;La Castellana(Pso) - Serrano;La Castellana(Pso);07/06/2023;13/06/2023;40.430.547;-3.687.634
+2023_585;PARKING C. JOSE ORTEGA Y GASSET;La Castellana(Pso) - Serrano;Serrano;07/06/2023;13/06/2023;40.430.470;-3.687.890
+2023_586;Lateral C. JOSE ORTEGA Y GASSET;La Castellana (P§)-Serrano;Serrano;22/11/2023;28/11/2023;40.430.480;-3.688.230
+2023_591;#¿NOMBRE?;Manuel Gutiérrez Mellado-Fina de Calderón;Manuel Gutiérrez Mellado;22/11/2023;28/11/2023;40.494.160;-3.619.140
+2023_592;Avenida JUAN ANTONIO SAMARANCH (CARRIL BUS);Manuel Gutiérrez Mellado-Fina de Calderón;Fina de Calderón;22/11/2023;28/11/2023;40.494.020;-3.619.060
+2023_593;#¿NOMBRE?;Manuel Gutiérrez Mellado-Fina de Calderón;Manuel Gutiérrez Mellado;22/11/2023;28/11/2023;40.494.230;-3.619.170
+2023_594;Avenida JUAN ANTONIO SAMARANCH (CARRIL BUS);Manuel Gutiérrez Mellado-Fina de Calderón;Fina de Calderón;22/11/2023;28/11/2023;40.494.020;-3.619.060
+2023_610; Crta. LEGANES;Avenida de Los Poblados-Aguacate;Avenida de Los Poblados;13/11/2023;19/11/2023;40.369.810;-3.738.830
+2023_611; Crta. LEGANES;Avenida de Los Poblados-Aguacate;Aguacate;13/11/2023;19/11/2023;40.369.810;-3.738.830
+2023_612; Carretera LEGANES - VIA LUSITANA;M-40-Avenida de la Peseta;M-40;13/11/2023;19/11/2023;40.362.790;-3.744.150
+2023_613; Crta. LEGANES - VIA LUSITANA;M-40-Avenida de la Peseta;Avenida de la Peseta;13/11/2023;19/11/2023;40.362.910;-3.744.000
+2023_614;Lateral Carretera LEGANES - VIA LUSITANA;M-40-Avenida de la Peseta;M-40;13/11/2023;19/11/2023;40.362.790;-3.744.150
+2023_615;Lateral Carretera LEGANES - VIA LUSITANA;M-40-Avenida de la Peseta;Avenida de la Peseta;13/11/2023;19/11/2023;40.362.910;-3.744.000
+2023_630; C. LUCHANA;Covarrubias-Manuel Silvela;Manuel Silvela;13/11/2023;19/11/2023;40.431.700;-3.698.690
+2023_631; C. LUCHANA;Covarrubias-Manuel Silvela;Covarrubias;13/11/2023;19/11/2023;40.432.000;-3.698.800
+2023_650;Av. MANOTERAS;Avenida de Burgos-Ona;Ona;14/11/2023;20/11/2023;40.489.040;-3.671.830
+2023_651;Av. MANOTERAS;Ona-Avenida de Manoteras;Avenida Fuente de la Mora;14/11/2023;20/11/2023;40.488.640;-3.669.860
+2023_656; C. MANUEL POMBO ANGULO;Padres Dominicos-Puente del Encinar;Padres Dominicos;14/11/2023;20/11/2023;40.507.170;-3.653.610
+2023_657; C. MANUEL POMBO ANGULO;Padres Dominicos-Puente del Encinar;Puente del Encinar;14/11/2023;20/11/2023;40.507.123;-3.653.693
+2023_658;C. MANZANARES;Daimiel - San Rufo;San Rufo;04/11/2023;10/11/2023;40.408.110;-3.722.480
+2023_659; C. MAQUEDA;Quero-Valmojado;Quero;15/11/2023;21/11/2023;40.386.680;-3.760.690
+2023_660; C. MAQUEDA;Quero-Valmojado;Valmojado;15/11/2023;21/11/2023;40.386.660;-3.760.700
+2023_669;Pº MARCELINO CAMACHO;ENTRE AVDA NUESTRA SEÑORA DE FATIMA Y GTA EL EJERCITO;GTA EL EJERCITO;12/09/2023;18/09/2023;40.387.260;-3.743.710
+2023_670; C. MARCENADO;San Ernesto-Avenida Ramon y Cajal;San Ernesto;28/03/2023;03/04/2023;40.450.800;-3.674.530
+2023_672;C. MARIA DE MOLINA;Principe De Vergara - Francisco Silvela;Principe De Vergara;27/05/2023;02/06/2023;40.437.450;-3.678.110
+2023_673;C. MARIA DE MOLINA;Principe De Vergara - Francisco Silvela;Francisco Silvela;27/05/2023;02/06/2023;40.437.361;-3.678.122
+2023_675;LATERAL C. MARIA DE MOLINA;Paseo De La Castellana - Serrano;Serrano;27/05/2023;02/06/2023;40.437.850;-3.687.300
+2023_677; C. MARIA DE PORTUGAL;Leonor de Austria-Margarita de Parma;Leonor de Austria;14/11/2023;20/11/2023;40.497.220;-3.663.330
+2023_678; C. MARIA DE PORTUGAL;Leonor de Austria-Margarita de Parma;Margarita de Parma;14/11/2023;20/11/2023;40.497.650;-3.663.190
+2023_679;C. MARQUÉS DE URQUIJO;Tutor - Martín de los Heros;Martín de los Heros;14/11/2023;20/11/2023;40.430.090;-3.717.904
+2023_680; C. MARQUES DE URQUIJO;Tutor-Martin de los Heros;Tutor;15/11/2023;21/11/2023;40.429.820;-3.717.870
+2023_687;C. MARTINEZ IZQUIERDO;Pilar De Zaragoza - Amoros;Amoros;31/05/2023;06/06/2023;40.433.750;-3.669.010
+2023_688; C. MARTIRES DE ALCALA;Seminario de Nobles-Santa Cruz de Marcenado;Santa Cruz de Marcenado;15/11/2023;21/11/2023;40.429.283;-3.712.583
+2023_694;AVENIDA DEL MEDITERRANEO;ENTRE ANTONIO DIAZ CAÑABATE Y WALIA;ANTONIO DIAZ CAÑABATE;22/09/2023;28/09/2023;40.407.040;-3.673.140
+2023_695;AVENIDA DEL MEDITERRANEO;ENTRE ANTONIO DIAZ CAÑABATE Y WALIA;WALIA;05/10/2023;11/10/2023;40.407.080;-3.673.650
+2023_696;PSO. MELANCOLICOS;San Alejandro - Paseo Pontones;Paseo Pontones;02/11/2023;08/11/2023;40.404.350;-3.720.620
+2023_697;PSO. MELANCOLICOS;San Alejandro - Paseo Pontones;San Alejandro;02/11/2023;08/11/2023;40.404.370;-3.720.395
+2023_701;C. MENDEZ ALVARO;Tortosa - Murcia;Tortosa;27/10/2023;02/11/2023;40.405.530;-3.691.130
+2023_702;  MENENDEZ PELAYO;Amado Nervo-Conde de Cartagena;Amado Nervo;15/11/2023;21/11/2023;40.410.033;-3.677.045
+2023_703; Av. MENENDEZ PELAYO;Amado Nervo-Conde de Cartagena;Conde de Cartagena;15/11/2023;21/11/2023;40.410.060;-3.677.100
+2023_704;MENENDEZ PELAYO;ENTRE DOCE DE OCTUBRE Y PIO BAROJA;PIO BAROJA;21/10/2023;27/10/2023;40.414.760;-3.677.590
+2023_705;MENENDEZ PELAYO;ENTRE DOCE DE OCTUBRE Y PIO BAROJA;DOCE DE OCTUBRE;21/10/2023;27/10/2023;40.414.890;-3.677.510
+2023_708;C. MIGUEL YUSTE;Arcentales (Av) - Emilio Munoz;Emilio Munoz;22/06/2023;28/06/2023;40.433.985;-3.622.091
+2023_712;C. MODESTO LAFUENTE;Espronceda - Breton De Los Herreros;Breton De Los Herreros;24/05/2023;30/05/2023;40.440.033;-3.696.117
+2023_737;Pº MORET;Pza. de Moncloa-Martín de los Heros;Pza. de Moncloa;16/11/2023;22/11/2023;40.434.359;-3.720.883
+2023_738; Paseo. MORET;Plaza de la Moncloa-Ferraz;Ferraz;16/11/2023;22/11/2023;40.434.290;-3.720.090
+2023_741; C. NARVAEZ;O'Donnell-Doctor Castelo;Doctor Castelo;16/11/2023;22/11/2023;40.420.900;-3.676.000
+2023_742; C. NARVAEZ;O'Donnell-Doctor Castelo;O'Donnell;16/11/2023;22/11/2023;40.420.820;-3.676.060
+2023_743;Av. NICETO ALCALA ZAMORA;Avenida Francisco Pi y Margall-M40;M40;16/11/2023;22/11/2023;40.484.930;-3.647.520
+2023_744;Av. NICETO ALCALA ZAMORA;Avenida Francisco Pi y Margall-M40;Avenida Francisco Pi y Margall;16/11/2023;22/11/2023;40.484.900;-3.647.550
+2023_747; Av. NUESTRA SENORA DE FATIMA;Guabairo-Nuestra Senora de la Luz;Nuestra Senora de la Luz;16/11/2023;22/11/2023;40.384.730;-3.746.450
+2023_748; Av. NUESTRA SENORA DE FATIMA;Nuestra Senora de la Luz-Monsenor Oscar Romero;Monsenor Oscar Romero;16/11/2023;22/11/2023;40.383.740;-3.747.240
+2023_749; AV NUESTRA SE¥ORA DE FATIMA;CALLE DEL ESPINAR-PASEO MU¥OZ GRANDES;PASEO MU¥OZ GRANDES;16/11/2023;22/11/2023;40.386.520;-3.743.830
+2023_751;C. NUESTRA SENORA DE LA LUZ;Camino Ingenieros-Ocana;Ocana;16/11/2023;22/11/2023;40.386.082;-3.751.041
+2023_752; C. NUESTRA SENORA DE LA LUZ;Camino Ingenieros-Nuestra Senora de Fatima;Nuestra Senora de Fatima;16/11/2023;22/11/2023;40.384.730;-3.748.010
+2023_753; C. NUESTRA SENORA DE LA LUZ;Avenida Nuestra Senora de Fatima-Camino de los Ingenieros;Camino de los Ingenieros;16/11/2023;22/11/2023;40.384.710;-3.747.530
+2023_754; Av. NUESTRA SENORA DE VALVANERA;La Laguna-Los Carmenes (Gt¦.);La Laguna;16/11/2023;22/11/2023;40.394.780;-3.742.780
+2023_755; Av. NUESTRA SENORA DE VALVANERA;La Laguna-Los Carmenes (Gt¦.);Los Carmenes (Gt¦.);17/11/2023;23/11/2023;40.394.760;-3.742.800
+2023_756; C. NUESTRA SENORA DE VALVERDE;Alonso Quijano-Monasterio de Arlanza;Alonso Quijano;17/11/2023;23/11/2023;40.506.290;-3.685.340
+2023_757;Avenida de Santuario de Valverde;MONASTERIO DE ARLANZA-COLEGIATA DE CERVATOS;MONASTERIO DE ARLANZA;17/11/2023;23/11/2023;40.511.665;-3.693.409
+2023_762;C. OCA;General Ricardos-Avenida Nuestra Senora de Valvanera;Avenida Nuestra Senora de Valvanera;17/11/2023;23/11/2023;40.388.790;-3.732.250
+2023_763;C. OCA;General Ricardos-Avenida Nuestra Senora de Valvanera;General Ricardos;17/11/2023;23/11/2023;40.388.610;-3.732.300
+2023_764; C. OCANA;Camarena-Nuestra Senora de la Luz;Camarena;21/11/2023;27/11/2023;40.386.200;-3.752.840
+2023_765; C. OCANA;Nuestra Senora de la Luz-Illescas;Nuestra Senora de la Luz;17/11/2023;23/11/2023;40.389.030;-3.752.080
+2023_775; Av. DE LA OSA MAYOR;Paseo de la Ermita;Paseo de la Ermita;17/11/2023;23/11/2023;40.459.067;-3.782.617
+2023_776;AV. PABLO IGLESIAS;Marques De Lema - Paseo San Francisco De Sales;Paseo San Francisco De Sales;17/05/2023;23/05/2023;40.445.510;-3.707.060
+2023_777;AV. PABLO IGLESIAS;Marques De Lema - Paseo San Francisco De Sales;Marques De Lema;17/05/2023;23/05/2023;40.445.550;-3.707.100
+2023_789;avda palomeras;entre javier de miguel y rafael narciso;Javier de miguel;15/04/2023;21/04/2023;40.387.553;-3.655.873
+2023_790;avda palomeras;entre javier de miguel y rafael narciso;rafael narciso;08/04/2023;14/04/2023;40.387.675;-3.656.610
+2023_791;C. PALOS DE LA FRONTERA;Las Delicias(Pso) - Batalla Del Salado;Batalla Del Salado;27/10/2023;02/11/2023;40.403.120;-3.694.450
+2023_800;PEDRO LABORDE;ENTRE AVDA PALOMERAS Y ARROYO DEL OLIVAR;AVDA PALOMERAS;15/09/2023;21/09/2023;40.387.397;-3.649.117
+2023_807;AV PESETA;C MARAVEDI-C LUIS DE ORO;C MARAVEDI;17/11/2023;23/11/2023;40.363.115;-3.746.905
+2023_808; Av. PESETA;C MARAVEDI-C LUIS DE ORO;C LUIS DE ORO;22/11/2023;28/11/2023;40.362.920;-3.746.830
+2023_826; Av. POBLADOS M-401;Luis Chamizo-Rafael Finat;Luis Chamizo;16/11/2023;22/11/2023;40.386.360;-3.762.960
+2023_827; Av. POBLADOS M-401;Luis Chamizo-Rafael Finat;Rafael Finat;17/11/2023;23/11/2023;40.386.400;-3.762.920
+2023_828; Av. POBLADOS, LOS M-401;Camino Rio-Avenida Orcasur;Avenida Orcasur;23/11/2023;29/11/2023;40.370.990;-3.701.670
+2023_829;Av. POBLADOS, LOS M-401;Camino Rio-Avenida Orcasur;Camino Rio;23/11/2023;29/11/2023;40.371.128;-3.701.444
+2023_830;#¿NOMBRE?;Carranque-Polan;Carranque;23/11/2023;29/11/2023;40.373.371;-3.726.837
+2023_831;#¿NOMBRE?;Carranque-Polan;Polan;23/11/2023;29/11/2023;40.373.183;-3.726.833
+2023_842;PTE. PONTON DE SAN ISIDRO;Ermita Del Santo - Los Pontones;Ermita Del Santo;02/11/2023;08/11/2023;40.404.091;-3.720.629
+2023_843;PTE. PONTON DE SAN ISIDRO;Ermita Del Santo - Los Pontones;Paseo De Los Pontones;02/11/2023;08/11/2023;40.403.941;-3.720.699
+2023_847; C. PRADILLO;Pantoja-Saturnino Calleja;Saturnino Calleja;28/03/2023;03/04/2023;40.449.060;-3.671.590
+2023_849;AV. PRINCIPAL;Principal De Provincias - Autovia Del Suroeste;Autovia Del Suroeste;04/11/2023;10/11/2023;40.411.318;-3.739.079
+2023_850;AV. PRINCIPAL;Principal De Provincias - Autovia Del Suroeste;Principal De Provincias;04/11/2023;10/11/2023;40.411.328;-3.739.006
+2023_851; C. PRINCIPE DE VERGARA;Padilla-Juan Bravo;Juan Bravo;28/11/2023;04/12/2023;40.431.960;-3.679.600
+2023_852; C. PRINCIPE DE VERGARA;Padilla-Juan Bravo;Padilla;28/11/2023;04/12/2023;40.432.050;-3.679.680
+2023_853; C. PRINCIPE DE VERGARA;Padilla-Juan Bravo;Juan Bravo;28/11/2023;04/12/2023;40.431.960;-3.679.600
+2023_854; C. PRINCIPE DE VERGARA;Alcala-Jorge Juan;Alcala;28/11/2023;04/12/2023;40.423.060;-3.680.350
+2023_859;PSO. PUERTA DEL ANGEL, LA;Portugal (Av) - Principal De Provincias;Portugal (Av);04/11/2023;10/11/2023;40.414.732;-3.730.029
+2023_860;PSO. PUERTA DEL ANGEL, LA;Portugal (Av) - Principal De Provincias;Principal De Provincias;04/11/2023;10/11/2023;40.414.765;-3.729.977
+2023_867;#¿NOMBRE?;Foresta-Quintanadueñas;Quintanadueñas;29/11/2023;05/12/2023;40.495.630;-3.672.030
+2023_868;#¿NOMBRE?;Foresta-Quintanadueñas;Foresta;28/11/2023;04/12/2023;40.495.660;-3.672.060
+2023_869;Paseo QUINCE DE MAYO;Julian Gonzalez-Santa Saturnina;Santa Saturnina;29/11/2023;05/12/2023;40.398.010;-3.719.190
+2023_870;Paseo QUINCE DE MAYO;Julian Gonzalez-Santa Saturnina;Santa Saturnina;29/11/2023;05/12/2023;40.398.010;-3.719.190
+2023_871;Calle Quintanavides;QUINTADUEÑAS-FORESTA;FORESTA;29/11/2023;05/12/2023;40.500.459;-3.667.683
+2023_872;Calle Quintanavides;BURGOS-FORESTA;BURGOS;29/11/2023;05/12/2023;40.498.655;-3.668.980
+2023_885; C. REAL DE ARGANDA M-303;Poza de la Sal-Cirilo Martinez Novillo;Cirilo Martinez Novillo;29/11/2023;05/12/2023;40.377.170;-3.606.530
+2023_886;C. REAL DE ARGANDA M-303;Poza De La Sal - Cirilo Martinez Novillo;Poza De La Sal;11/03/2023;17/03/2023;40.377.070;-3.606.550
+2023_891; Paseo. RECOLETOS;Recoletos-Villanueva;Villanueva;30/11/2023;06/12/2023;40.422.990;-3.691.410
+2023_892;Paseo. RECOLETOS;Recoletos-Villanueva;Recoletos;30/11/2023;06/12/2023;40.422.910;-3.692.000
+2023_893;Lateral Pa RECOLETOS;Recoletos-Villanueva;Villanueva;30/11/2023;06/12/2023;40.422.818;-3.691.084
+2023_894;Lateral Pa RECOLETOS;Recoletos-Villanueva;Recoletos;30/11/2023;06/12/2023;40.423.043;-3.691.878
+2023_898;LATERAL AV. REYES CATOLICOS;Avda De La Memoria - Cristo Rey (Pza);Avda De La Memoria;19/05/2023;25/05/2023;40.438.058;-3.719.162
+2023_899;TUNEL AV. REYES CATOLICOS;Avda De La Memoria - Cristo Rey (Pza);Cristo Rey (Pza);30/05/2023;05/06/2023;40.438.192;-3.719.214
+2023_900;TUNEL AV. REYES CATOLICOS;Avda De La Memoria - Cristo Rey (Pza);Avda De La Memoria;30/05/2023;05/06/2023;40.438.100;-3.719.250
+2023_905; C. RIOS ROSAS;Modesto Lafuente-Alonso Cano;Alonso Cano;30/11/2023;06/12/2023;40.441.790;-3.696.890
+2023_910;c. RIVERA DE CURTIDORES;Mira El Sol - Casino;Casino;02/11/2023;08/11/2023;40.406.688;-3.707.218
+2023_911;LATERAL C. RONDA DE SEGOVIA;Glorieta Puerta De Toledo - Aguila;Aguila;28/10/2023;03/11/2023;40.407.820;-3.713.950
+2023_912;LATERAL C. RONDA DE SEGOVIA;Glorieta Puerta De Toledo - Aguila;Glorieta Puerta De Toledo;28/10/2023;03/11/2023;40.407.610;-3.714.100
+2023_801;PEDRO LABORDE;ENTRE AVDA PALOMERAS Y ARROYO DEL OLIVAR;ARROYO DEL OLIVAR;15/09/2023;21/09/2023;40.386.432;-3.649.802
+2023_913;TUNEL C. RONDA DE SEGOVIA;Glorieta Puerta Toledo - Aguila;Glorieta Puerta Toledo;28/10/2023;03/11/2023;40.407.550;-3.714.150
+2023_914;TUNEL C. RONDA DE SEGOVIA;Glorieta Puerta Toledo - Aguila;Aguila;28/10/2023;03/11/2023;40.407.560;-3.714.130
+2023_915;C. RONDA SEGOVIA;Moreno Nieto - Manzanares;Moreno Nieto;02/11/2023;08/11/2023;40.412.500;-3.717.617
+2023_916;C. RONDA SEGOVIA;Moreno Nieto - Manzanares;Manzanares;02/11/2023;08/11/2023;40.412.457;-3.717.500
+2023_921;C. SAGASTA;Manuel Silvela-Covarrubias;Manuel Silvela;30/11/2023;06/12/2023;40.428.117;-3.697.696
+2023_922; C. SAGASTA;Manuel Silvela-Covarrubias;Covarrubias;30/11/2023;06/12/2023;40.427.950;-3.697.740
+2023_929; C. SAN BERNARDO;Glorieta Ruiz Jimenez-Rodriguez San Pedro;Rodriguez San Pedro;30/11/2023;06/12/2023;40.430.330;-3.705.180
+2023_930; C. SAN BERNARDO;Glorieta Ruiz Jimenez-Rodriguez San Pedro;Glorieta Ruiz Jimenez;30/11/2023;06/12/2023;40.430.660;-3.705.240
+2023_931; C. SAN BERNARDO;San Vicente Ferrer-Palma;Palma;30/11/2023;06/12/2023;40.426.260;-3.707.060
+2023_932; C. SAN BERNARDO;San Vicente Ferrer-Palma;San Vicente Ferrer;30/11/2023;06/12/2023;40.426.260;-3.707.060
+2023_936;AV. SAN DIEGO;Carlos Martin Alvarez - Puerto De La Bonaigua;Puerto De La Bonaigua;13/04/2023;19/04/2023;40.385.280;-3.666.340
+2023_937;PSO. SAN FRANCISCO DE SALES;General Ibanez De Ibero - Avenida De Pablo Iglesias;Avenida De Pablo Iglesias;20/05/2023;26/05/2023;40.444.380;-3.709.750
+2023_938;PSO. SAN FRANCISCO DE SALES;General Ibanez De Ibero - Avenida De Pablo Iglesias;General Ibanez De Ibero;18/05/2023;24/05/2023;40.444.210;-3.709.640
+2023_941;AV. SAN LUIS;Condado De Trevino - Arturo Soria;Condado De Trevino;04/10/2023;10/10/2023;40.478.591;-3.671.440
+2023_942;AV. SAN LUIS;Condado De Trevino - Arturo Soria;Arturo Soria;04/10/2023;10/10/2023;40.478.520;-3.671.610
+2023_945;C. SAN MANUEL;Paseo de Extremadura-Camino de Campamento;Paseo de Extremadura;06/12/2023;12/12/2023;40.402.620;-3.760.660
+2023_946; C. SAN MANUEL;Paseo de Extremadura-Camino de Campamento;Camino de Campamento;06/12/2023;12/12/2023;40.402.630;-3.760.620
+2023_947;Lateral C. SAN MANUEL;Paseo de Extremadura-Camino de Campamento;Paseo de Extremadura;06/12/2023;12/12/2023;40.402.300;-3.760.610
+2023_948;Lateral C. SAN MANUEL;Paseo de Extremadura-Camino de Campamento;Camino de Campamento;06/12/2023;12/12/2023;40.402.390;-3.760.322
+2023_953;LATERAL CSTA. SAN VICENTE;Paseo Del Rey - Glorieta De San Vicente;Paseo Del Rey;31/10/2023;06/11/2023;40.419.980;-3.718.080
+2023_954;LATERAL CSTA. SAN VICENTE;Paseo Del Rey - Glorieta De San Vicente;Glorieta De San Vicente;31/10/2023;06/11/2023;40.420.452;-3.718.843
+2023_965;Avd.NICETO ALCALÁ ZAMORA;Sauceda-Ana de Austria;Sauceda;06/12/2023;12/12/2023;40.500.721;-3.659.014
+2023_970; C. SAUCEDA;ABETAL-SANTO DOMINGO DE LA CALZADA;ABETAL;06/12/2023;12/12/2023;40.502.576;-3.663.464
+2023_971; C. SAUCEDA;ABETAL-SANTO DOMINGO DE LA CALZADA;SANTO DOMINGO DE LA CALZADA;06/12/2023;12/12/2023;40.503.951;-3.666.658
+2023_972;C. SEGOVIA;Plaza De La Cruz Verde - Ronda Segovia;Ronda Segovia;02/11/2023;08/11/2023;40.413.910;-3.715.860
+2023_973;C. SEGOVIA;Plaza De La Cruz Verde - Ronda Segovia;PLAZA DE LA CRUZ VERDE;02/11/2023;08/11/2023;40.413.910;-3.715.860
+2023_974;PTE. SEGOVIA;Virgen Del Puerto - Puente Segovia (Gta);Virgen Del Puerto;28/10/2023;03/11/2023;40.413.920;-3.723.140
+2023_975;PTE. SEGOVIA;Virgen Del Puerto - Puente Segovia (Gta);Puente Segovia (Gta);31/10/2023;06/11/2023;40.414.030;-3.722.530
+2023_980; C. SEPULVEDA;Paseo de la Ermita del Santo-Neguilla;Paseo de la Ermita del Santo;07/12/2023;13/12/2023;40.408.800;-3.724.620
+2023_981;C. SERRANO;General Oraa - Diego De Leon;Diego De Leon;25/05/2023;31/05/2023;40.435.620;-3.686.380
+2023_987;#¿NOMBRE?;Acceso N-V-Illescas;Illescas;07/12/2023;13/12/2023;40.398.150;-3.763.733
+2023_988;#¿NOMBRE?;SESEÑA-Escalona;Acceso N-V;07/12/2023;13/12/2023;40.398.217;-3.762.983
+2023_989;#¿NOMBRE?;Escalona-Acceso N-V;Escalona;07/12/2023;13/12/2023;40.398.217;-3.762.983
+2023_990;#¿NOMBRE?;Acceso N-V-Illescas;Acceso N-V;07/12/2023;13/12/2023;40.398.150;-3.763.733
+2023_992; C SIERRA DE ATAPUERCA;C SAN JUAN ORTEGA-C VILORIA DE LA RIOJA;C VILORIA DE LA RIOJA;11/12/2023;17/12/2023;40.502.430;-3.670.770
+2023_1011; C. SIRIO;Acceso de M-30-Estrella Polar;Estrella Polar;11/12/2023;17/12/2023;40.410.360;-3.664.100
+2023_1012; C. SIRIO;Acceso de M-30-Estrella Polar;Acceso de M-30;11/12/2023;17/12/2023;40.410.270;-3.664.230
+2023_1029;C. TIMON;Alar Del Rey - Gran Poder;Alar Del Rey;15/09/2023;21/09/2023;40.473.142;-3.584.122
+2023_1030;TIMON;ENTRE ALAR DEL REY Y GRAN PODER;GRAN PODER;15/09/2023;21/09/2023;40.473.198;-3.584.048
+2023_1034;C. TOLEDO;Capitan Salazar Martinez - Glorieta Puerta Toledo;Puerta Toledo (Gta);28/10/2023;03/11/2023;40.407.360;-3.711.300
+2023_1035;C. TOLEDO;Capitan Salazar Martinez - Glorieta Puerta Toledo;Capitan Salazar Martinez;28/10/2023;03/11/2023;40.407.380;-3.711.290
+2023_1036;AV. TOREROS, DE LOS;Cartagena - Pilar De Zaragoza;Cartagena;31/05/2023;06/06/2023;40.432.050;-3.669.190
+2023_1055; C. VALLE DE ORO;Portalegre-Argeso;Argeso;14/11/2023;20/11/2023;40.387.210;-3.724.960
+2023_1063;#¿NOMBRE?;Amapolas-Brisa;Amapolas;12/12/2023;18/12/2023;40.443.433;-3.716.467
+2023_1064;#¿NOMBRE?;Amapolas-Brisa;Brisa;12/12/2023;18/12/2023;40.443.433;-3.716.470
+2023_1066; C. VALMOJADO;Illescas-Maqueda;Maqueda;15/11/2023;21/11/2023;40.391.580;-3.758.480
+2023_1067; C. VALMOJADO;Illescas-Maqueda;Illescas;15/11/2023;21/11/2023;40.391.580;-3.754.880
+2023_1080;C. VIA CARPETANA;Caramuel - Ermita Del Santo;Ermita Del Santo;31/10/2023;06/11/2023;40.405.421;-3.725.298
+2023_1083;CTRA. DE VICALVARO A LA ESTACION DE O DONNELL;FRANCISCO DE TORRES CATALAN-ABAD JUAN CATALAN;FRANCISCO DE TORRES CATALAN;12/12/2023;18/12/2023;40.404.212;-3.592.031
+2023_1087; Camino Camino Viejo de Burgos;CALLE QUINTA-CALLE MONTORO;CALLE MONTORO;12/12/2023;18/12/2023;40.480.730;-3.632.580
+2023_1088; Camino Camino Viejo de Burgos;CALLE QUINTA-CALLE MONTORO;CALLE QUINTA;12/12/2023;18/12/2023;40.480.730;-3.632.580
+2023_1089; C. VIEJO DE LEGANES;Pelicano-Avefria;Pelicano;14/11/2023;20/11/2023;40.384.050;-3.728.990
+2023_1090; C§ VIEJO DE LEGANES;Pelicano-Avefria;Avefria;14/11/2023;20/11/2023;40.384.050;-3.728.990
+2023_1105;C. VILLAMARIN;Villagarcia - Villasandino;Villagarcia;04/11/2023;10/11/2023;40.405.436;-3.753.303
+2023_1106;C. VILLAMARIN;Villagarcia - Villasandino;Villasandino;04/11/2023;10/11/2023;40.405.503;-3.753.164
+2023_1113;LATERAL PSO. VIRGEN DEL PUERTO;Fosforo - Moreno Nieto;Moreno Nieto;02/11/2023;08/11/2023;40.410.900;-3.721.310
+2023_1114; C. VITRUVIO;Jorge Manrique-San Juan de la Cruz (Pz.);Jorge Manrique;13/12/2023;19/12/2023;40.441.570;-3.690.520
+2023_1115;C. VITRUVIO;Jorge Manrique - San Juan De La Cruz (Pza);San Juan De La Cruz (Pza);24/05/2023;30/05/2023;40.441.490;-3.690.760
+2023_1120;Lateral Paseo. YESERIAS;Piramides (Gt¦)-Carmen Cobena;Piramides (Gt¦);13/12/2023;19/12/2023;40.400.530;-3.713.610
+2023_1121;Tunel Paseo. YESERIAS, LAS;Piramides (Gt¦.)-Carmen Cobena;Piramides (Gt¦.);12/12/2023;18/12/2023;40.400.370;-3.713.400
+2023_1122;Lateral Paseo. YESERIAS, LAS;Piramides (Gt¦.)-Carmen Cobena;Carmen Cobena;12/12/2023;18/12/2023;40.400.370;-3.713.400
+2023_1125;C. ZURBANO;Espronceda - Breton De Los Herreros;Breton De Los Herreros;25/05/2023;31/05/2023;40.440.170;-3.692.830
+2023_385;C. DUQUESA DE PARCENT;Cuart De Poblet - Glorieta De Los Carmenes;Cuart De Poblet;08/06/2023;14/06/2023;40.395.345;-3.746.581
+2023_1091;CMO. VIEJO DE VICALVARO;M-40 - Plaza De Alosno;Plaza Alosno;21/04/2023;27/04/2023;40.406.164;-3.621.030
+2023_15;Av. ALBERTO ALCOCER;Padre Damian-Condes del Val;Condes del Val;13/11/2023;19/11/2023;40.458.623;-3.682.944
+2023_16; C. Alberto ALCOCER;Padre Damian-Menendez Pidal;Padre Damian;13/11/2023;19/11/2023;40.350.204;-3.703.609
+2023_22; Av. ALBUFERA;Teniente Munoz Diaz-Avenida de Buenos Aires;Teniente Munoz Diaz;13/11/2023;19/11/2023;40.391.590;-3.654.880
+2023_25; C. ALCALA;Cedaceros-Gran Via;Cedaceros;13/11/2023;19/11/2023;40.418.339;-3.698.149
+2023_26; C. ALCALA;Cedaceros-Gran Via;Gran Via;13/11/2023;19/11/2023;40.418.245;-3.698.094
+2023_35; C. ALCALA;Cardenal Belluga-Julio Camba;Cardenal Belluga;30/05/2023;05/06/2023;40.430.040;-3.664.180
+2023_39;  ALCALDE MORENO TORRES;Camino Fuente de la Mora-Plaza del Alcalde Moreno Torres;Plaza del Alcalde Moreno Torres;13/11/2023;19/11/2023;40.487.395;-3.658.081
+2023_40;  ALCALDE MORENO TORRES;Camino Fuente de la Mora-Plaza del Alcalde Moreno Torres;Plaza del Alcalde Moreno Torres;13/11/2023;19/11/2023;40.487.395;-3.658.081
+2023_48;C. ALEJANDRO DUMAS;Piramides (GtÝ.)-Paseo de Los Melancolicos;Paseo de Los Melancolicos;13/11/2023;19/11/2023;40.401.141;-3.716.321
+2023_104; C. ARCOS DEL JALON;Ceramistas-Paramento;Ceramistas;13/11/2023;19/11/2023;40.428.530;-3.611.480
+2023_105; C. ARCOS DEL JALON;Ceramistas-Paramento;Paramento;13/11/2023;19/11/2023;40.426.419;-3.613.702
+2023_137;C. ARTURO SORIA;Dalia-Avenida Manuel Azana;Dalia;14/11/2023;20/11/2023;40.480.270;-3.666.920
+2023_194; Av. BUENOS AIRES;Avenida de La Albufera-Arroyo del Olivar;Arroyo del Olivar;14/11/2023;20/11/2023;40.390.150;-3.653.430
+2023_195; Av. BUENOS AIRES;Avenida de La Albufera-Arroyo del Olivar;Avenida de La Albufera;14/11/2023;20/11/2023;40.390.300;-3.653.220
+2023_281;Av. Cerro Milano;Jose Gutierrez Maroto-Cañada del Santisimo;Jose Gutierrez Maroto;14/11/2023;20/11/2023;40.361.998;-3.604.973
+2023_282;AV. Cerro Milano;Jose Gutierrez Maroto-Cañada del Santisimo;Cañada del Santisimo;14/11/2023;20/11/2023;40.362.039;-3.604.994
+2023_435; C. FERNANDO EL CATOLICO;Guzman el Bueno-Andres Mellado;Andres Mellado;16/11/2023;22/11/2023;40.434.300;-3.713.610
+2023_449;  FRANCISCO PI Y MARGALL;Maria de Portugal-Burgos A-1;Maria de Portugal;14/11/2023;20/11/2023;40.494.686;-3.665.970
+2023_519; C. GUABAIRO;Juan Alonso-Avenida Nuestra Senora de Fatima;Avenida Nuestra Senora de Fatima;14/11/2023;20/11/2023;40.386.310;-3.745.500
+2023_527; C. GUTIERREZ CANALES;Alcala-Rafael de la Hoz;Alcala;14/11/2023;20/11/2023;40.446.820;-3.612.840
+2023_528; C. GUTIERREZ CANALES;Alcala-Rafael de la Hoz;Rafael de la Hoz;14/11/2023;20/11/2023;40.446.940;-3.612.970
+2023_557;AV. Invierno;Agosto-Yecora;Agosto;14/11/2023;20/11/2023;40.442.257;-3.573.342
+2023_558;AV. Invierno;Agosto-Yecora;Agosto;14/11/2023;20/11/2023;40.442.264;-3.573.352
+2023_581; C. JORGE JUAN;Fuente del Berro-Doctor Esquerdo;Doctor Esquerdo;22/11/2023;28/11/2023;40.433.140;-3.670.100
+2023_596; C. JUAN BRAVO;Conde Penalver-Alcantara;Conde Penalver;22/11/2023;28/11/2023;40.432.300;-3.674.040
+2023_647;Calle Maestra Justa Freire;Rafael Finat-General Romero Basart;Rafael Finat;15/11/2023;21/11/2023;40.378.650;-3.769.050
+2023_648;C. Maestra Justa Freire;General Romero Basart-Rafael Finat;General Romero Basart;15/11/2023;21/11/2023;40.377.701;-3.766.485
+2023_700;#¿NOMBRE?;Andrés Mellado-Guzmán el Bueno;Guzmán el Bueno;15/11/2023;21/11/2023;40.433.067;-3.713.780
+2023_715;Calle Monasterio de Arlanza;m-607- NUESTRA SEÑORA DE VALVERDE;NUESTRA SEÑORA DE VALVERDE;15/11/2023;21/11/2023;40.508.095;-3.687.955
+2023_813;#¿NOMBRE?;Ferraz-Rey Francisco;Ferraz;22/11/2023;28/11/2023;40.425.483;-3.718.050
+2023_844;#¿NOMBRE?;María de Guzmán-Maudes;María de Guzmán;28/11/2023;04/12/2023;40.444.417;-3.698.900
+2023_865; C. PUERTO DE PORZUNA;Fuentidueña-Cabeza Mesada;Cabeza Mesada;28/11/2023;04/12/2023;40.374.970;-3.622.120
+2023_866; C. PUERTO DE PORZUNA;Fuentidueña-Cabeza Mesada;Fuentidueña;28/11/2023;04/12/2023;40.375.020;-3.622.160
+2023_873;C.Rafael Finat;Blas Cabrera-Jose de Cadalso;Jose de Cadalso;15/11/2023;21/11/2023;40.379.863;-3.769.265
+2023_874;  RAFAEL FINAT;Blas Cabrera-Jose Cadalso;Blas Cabrera;15/11/2023;21/11/2023;40.379.850;-3.769.270
+2023_956; C. SANTA ENGRACIA;Maria de Guzman-Maudes;Maudes;06/12/2023;12/12/2023;40.444.880;-3.703.060
+2023_991; C SIERRA DE ATAPUERCA;C SAN JUAN ORTEGA-C VILORIA DE LA RIOJA;C SAN JUAN ORTEGA;17/11/2023;23/11/2023;40.502.430;-3.670.770
+2023_1065;C. VALLEHERMOSO;Cea Bermúdez-Joaquín María López;Cea Bermúdez;12/12/2023;18/12/2023;40.437.881;-3.708.360
+2023_1070;C. VELAZQUEZ;Diego De Leon - General Oraa;General Oraa;04/04/2023;10/04/2023;40.435.560;-3.683.350
