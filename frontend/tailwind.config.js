@@ -2,9 +2,7 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}", // Corregido
-    './pages/**/*.{js,ts,jsx,tsx}', // Asegura que soporte todos los archivos relevantes
-    './components/**/*.{js,ts,jsx,tsx}', // Corregido
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
@@ -22,4 +20,4 @@ export default {
     },
   },
   plugins: [],
-};
+}
