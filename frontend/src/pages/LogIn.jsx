@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const LogIn = () => {
   const [email, setEmail] = useState('');
@@ -12,13 +13,19 @@ const LogIn = () => {
     console.log('Password:', password);
   };
 
+  const navigate = useNavigate();
+
+  const handleSignUpClick = () => {
+    navigate('/signup');
+  }
+
   return (
-    <div className="flex justify-center items-center min-h-screen">
+    <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="w-full max-w-xs md:max-w-md lg:max-w-lg bg-white p-6 md:p-8 rounded-lg shadow-lg">
-        {/* Título */}
+        
         <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 mb-6 text-center">¡Hola de nuevo!</h2>
         
-        {/* Formulario */}
+       
         <form onSubmit={handleSubmit}>
           {/* Campo de correo */}
           <div className="mb-4">
@@ -31,8 +38,7 @@ const LogIn = () => {
               required 
             />
           </div>
-          
-          {/* Campo de contraseña */}
+         
           <div className="mb-4 relative">
             <input 
               type={showPassword ? "text" : "password"} 
@@ -51,7 +57,7 @@ const LogIn = () => {
             </button>
           </div>
 
-          {/* Recordarme */}
+         
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center">
               <input 
@@ -73,26 +79,23 @@ const LogIn = () => {
           </button>
         </form>
 
-        {/* Crear cuenta */}
+        
         <div className="text-center mt-6">
           <p className="text-gray-600 text-sm md:text-base">
             ¿No tienes una cuenta? 
-            <a href="#" className="text-blue-600 ml-1">Crear una cuenta</a>
+            <a href="#" onClick={handleSignUpClick} className="text-blue-600 ml-1">Crear una cuenta</a>
           </p>
         </div>
 
-        {/* Footer con logo y enlaces */}
+       
         <div className="mt-8 flex justify-center items-center">
           <div className="text-center">
-          <img src="src/assets/ciudadSostenible.png" alt="UI Unicorn" className="mx-auto w-8 h-10px md:w-16 lg:w-24 mb-2" />
-            <p className="text-gray-600 text-sm md:text-base">Ciudad Sostenible</p>
+            <img src="src\assets\Ciudad106.jpg" alt="UI Unicorn" className="mx-auto w-20 md:w-20 mb-2"/>
+            <p className="text-gray-600 text-sm md:text-base">Ciudad 106</p>
           </div>
         </div>
 
-        <div className="mt-6 text-center">
-          <a href="https://twitter.com/uiunicorn" className="text-sm md:text-base text-blue-600">@uiunicorn</a>
-          <p className="text-sm md:text-base text-gray-500 mt-1">© Hackaton 2024</p>
-        </div>
+        
       </div>
     </div>
   );
