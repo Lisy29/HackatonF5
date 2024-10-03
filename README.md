@@ -1,11 +1,15 @@
 ```markdown
 # Hackathon F5
 
-Bienvenido al proyecto de Hackathon F5. Este documento proporciona una visión general del proyecto, incluyendo cómo configurarlo y ejecutarlo.
+Bienvenido al proyecto de Hackathon F5. Este documento proporciona una visión general del proyecto, incluyendo
+cómo configurarlo y ejecutarlo.
 
 ## Descripción
 
-Este proyecto fue desarrollado durante el bootcamp de IA en Factoria F5. El objetivo del proyecto es [describir el objetivo del proyecto].
+Este proyecto fue desarrollado durante el bootcamp de IA en Factoria F5. El objetivo del proyecto es crear una
+aplicación escalable y flexible que centralice y gestione datos urbanos en tiempo real para facilitar la toma
+de decisiones, promover la inclusión social, mejorar la gestión de recursos, y fomentar la resiliencia y
+sostenibilidad en las ciudades.
 
 ## Requisitos
 
