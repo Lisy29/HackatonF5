@@ -1,8 +1,11 @@
+import logging
 import os
 import joblib
 from sqlalchemy import create_engine, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+
+logger = logging.getLogger(__name__)
 
 # Configuración de la base de datos
 SQLALCHEMY_DATABASE_URL = "sqlite:///./data/sql_app.db"
@@ -22,13 +25,16 @@ class User(Base):
 
 # Crear la tabla si no existe
 Base.metadata.create_all(bind=engine)
+logger.info("Database tables created")
 
 # Cargar el modelo de machine learning entrenado
 MODEL_PATH = "data/ml_model.pkl"
 if os.path.exists(MODEL_PATH):
     ml_model = joblib.load(MODEL_PATH)
+    logger.info("Machine learning model loaded")
 else:
     ml_model = None  # Manejar el caso en que el modelo no exista
+    logger.warning("Machine learning model not found")
 
 # Función para estandarizar y preprocesar los datos
 def preprocess_data(start_location: str, destination: str) -> tuple:
@@ -50,3 +56,4 @@ def get_db():
         yield db
     finally:
         db.close()
+        logger.info("Database session closed")
