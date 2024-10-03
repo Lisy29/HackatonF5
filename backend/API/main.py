@@ -9,11 +9,12 @@ from dotenv import load_dotenv
 import crud
 import logging
 
-setup_logging()
 
 load_dotenv()
 
 models_db.Base.metadata.create_all(bind=engine)
+
+setup_logging()
 
 app = FastAPI()
 

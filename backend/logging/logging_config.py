@@ -1,5 +1,7 @@
 import logging
 import logging.config
+import csv
+import os
 
 LOGGING_CONFIG = {
     'version': 1,
@@ -18,8 +20,9 @@ LOGGING_CONFIG = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': 'backend/logs/app.log',
+            'filename': 'backend/logging/log.csv',
             'formatter': 'standard',
+            'mode': 'a',
         },
     },
     'loggers': {
@@ -32,4 +35,14 @@ LOGGING_CONFIG = {
 }
 
 def setup_logging():
+    # Create the logging directory if it doesn't exist
+    os.makedirs(os.path.dirname(LOGGING_CONFIG['handlers']['file']['filename']), exist_ok=True)
+    
+    # Create the CSV file with headers if it doesn't exist
+    log_file = LOGGING_CONFIG['handlers']['file']['filename']
+    if not os.path.exists(log_file):
+        with open(log_file, 'w', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(['asctime', 'levelname', 'name', 'message'])
+    
     logging.config.dictConfig(LOGGING_CONFIG)
