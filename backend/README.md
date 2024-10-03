@@ -2,6 +2,9 @@
 
 Este documento describe una arquitectura basada en AWS Cloud con un enfoque serverless para implementar una web dinámica, soluciones de Machine Learning y una infraestructura altamente escalable y segura.
 
+
+![AWS Cloud Architecture](EcoCityHub.jpg)
+
 ## 1. Solicitud de Usuario
 
 - El usuario accede a la aplicación vía **Route 53**.
