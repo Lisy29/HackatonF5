@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Depends, HTTPException
+from backend.logging.logging_config import setup_logging
 from sqlalchemy.orm import Session
 from . import models_db, schemas_db
 from database import engine, get_db
@@ -8,8 +9,7 @@ from dotenv import load_dotenv
 import crud
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger(__name__)
+setup_logging()
 
 load_dotenv()
 
@@ -26,6 +26,11 @@ try:
 except Exception as e:
     print(f"Error loading model: {str(e)}")
     model = None
+    
+@app.get("/")
+def read_root():
+    logging.getLogger(__name__).info("Root endpoint accessed")
+    return {"message": "Hello World"}
 
 @app.post("/submit_and_predict/", response_model=schemas_db.RoutePrediction)
 def submit_and_predict(route: schemas_db.RouteCreate, db: Session = Depends(get_db)):
