@@ -46,6 +46,7 @@ const LogIn = () => {
   };
 
   return (
+    
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="w-full max-w-xs md:max-w-md lg:max-w-lg bg-white p-6 md:p-8 rounded-lg shadow-lg">
         <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 mb-6 text-center">¡Hola de nuevo!</h2>
