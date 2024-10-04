@@ -51,22 +51,24 @@ def submit_and_predict(route: schemas_db.RouteCreate, db: Session = Depends(get_
         logger.debug(f"Prepared route data: {route_data}")
 
         prediction = model.predict(route_data)
-        predicted_transport = prediction[0]
-        logger.debug(f"Prediction: {predicted_transport}")
+        vehicle_type, alternate_route_available = prediction[0]
+        logger.debug(f"Prediction - Vehicle Type: {vehicle_type}, Alternate Route Available: {alternate_route_available}")
         
         # Crear el objeto de ruta con la predicción
         route_model_dump = route.model_dump()
-        route_model_dump['predicted_transport'] = predicted_transport
+        route_model_dump['vehicle_type'] = vehicle_type
+        route_model_dump['alternate_route_available'] = alternate_route_available
         
         # Guardar en la base de datos
-        db_route = crud.create_route_prediction(db=db, route=route, predicted_transport=predicted_transport)
+        db_route = crud.create_route_prediction(db=db, route=route, vehicle_type=vehicle_type, alternate_route_available=alternate_route_available)
 
         logger.debug("Route data saved to database")
         
         # Ensure that the returned object matches the response model
         return schemas_db.RoutePrediction(
             id=db_route.id,
-            predicted_transport=predicted_transport,
+            vehicle_type=vehicle_type,
+            alternate_route_available=alternate_route_available,
             **route.model_dump()
         )
     except Exception as e:
