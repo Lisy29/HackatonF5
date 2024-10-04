@@ -21,10 +21,6 @@ def get_user(db: Session, user_id: int):
     return db.query(models.User).filter(models.User.id == user_id).first()
 
 
-def get_users(db: Session, skip: int = 0, limit: int = 10):
-    return db.query(models.User).offset(skip).limit(limit).all()
-
-
 def update_user(db: Session, user_id: int, user: schemas.UserUpdate):
     db_user = db.query(models.User).filter(models.User.id == user_id).first()
     if db_user is None:
@@ -36,12 +32,12 @@ def update_user(db: Session, user_id: int, user: schemas.UserUpdate):
     return db_user
 
 
-def delete_user(db: Session, user_id: int):
-    db_user = db.query(models.User).filter(models.User.id == user_id).first()
-    if db_user is None:
-        raise HTTPException(status_code=404, detail="User not found")
-    db.delete(db_user)
-    db.commit()
+# def delete_user(db: Session, user_id: int):
+#    db_user = db.query(models.User).filter(models.User.id == user_id).first()
+#    if db_user is None:
+#        raise HTTPException(status_code=404, detail="User not found")
+#    db.delete(db_user)
+#    db.commit()
 
 
 def create_route(db: Session, route: schemas.RouteCreate, user_id: int):
@@ -72,12 +68,12 @@ def update_route(db: Session, route_id: int, route: schemas.RouteUpdate):
     return db_route
 
 
-def delete_route(db: Session, route_id: int):
-    db_route = db.query(models.Route).filter(models.Route.id == route_id).first()
-    if db_route is None:
-        raise HTTPException(status_code=404, detail="Route not found")
-    db.delete(db_route)
-    db.commit()
+#def delete_route(db: Session, route_id: int):
+#    db_route = db.query(models.Route).filter(models.Route.id == route_id).first()
+#    if db_route is None:
+#        raise HTTPException(status_code=404, detail="Route not found")
+#    db.delete(db_route)
+#    db.commit()
 
 
 def create_route_prediction(db: Session, route: schemas_db.RouteCreate, predicted_transport: str):
