@@ -20,6 +20,7 @@ const LogIn = () => {
   }
 
   return (
+    
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="w-full max-w-xs md:max-w-md lg:max-w-lg bg-white p-6 md:p-8 rounded-lg shadow-lg">
         
@@ -90,8 +91,8 @@ const LogIn = () => {
        
         <div className="mt-8 flex justify-center items-center">
           <div className="text-center">
-            <img src="src\assets\Ciudad106.jpg" alt="UI Unicorn" className="mx-auto w-20 md:w-20 mb-2"/>
-            <p className="text-gray-600 text-sm md:text-base">Ciudad 106</p>
+            <img src="src\assets\logo.png" alt="UI Unicorn" className="mx-auto w-20 md:w-20 mb-2"/>
+            <p className="text-gray-600 text-sm md:text-base">Eco City Hub</p>
           </div>
         </div>
 
