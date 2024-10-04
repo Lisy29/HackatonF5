@@ -1,0 +1,31 @@
+{
+  "trafficData": [
+    {
+      "traffic_streets": "Atasco en la M-30 sector Ventas",
+      "alternate_route_available": "M-30,M-33,A-2,C. De Alcala",
+      "id": "4574"
+    },
+    {
+      "traffic_streets": "Atasco en la A-6 sector Moncloa",
+      "alternate_route_available": "M-40,M-50,A-1",
+      "id": "c0ff"
+    }
+  ],
+  "logIn": [
+    {
+      "id": "1",
+      "email": "camilo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a040",
+      "email": "mario@gmail.com",
+      "password": "hola"
+    },
+    {
+      "id": "d4fe",
+      "email": "omar@gmail.com",
+      "password": "asd1234F$"
+    }
+  ]
+}

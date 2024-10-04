@@ -18,17 +18,17 @@ function Navbar({ openModal }) {
                   id="Vector"
                   d="M9.32 2.84001L3.93 7.04001C3.03 7.74001 2.3 9.23001 2.3 10.36V17.77C2.3 20.09 4.19 21.99 6.51 21.99H18.09C20.41 21.99 22.3 20.09 22.3 17.78V10.5C22.3 9.29001 21.49 7.74001 20.5 7.05001L14.32 2.72001C12.92 1.74001 10.67 1.79001 9.32 2.84001Z"
                   stroke="#484C52"
-                  stroke-width="1.5"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
                 <path
                   id="Vector_2"
                   d="M12.3 17.99V14.99"
                   stroke="#484C52"
-                  stroke-width="1.5"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </g>
             </g>
@@ -93,7 +93,7 @@ function Navbar({ openModal }) {
         </Link>
       </div>
       <div className="relative z-10 bg-white text-fuchsia-50 grid grid-cols-2 place-items-center rounded-l-[2rem] rounded-r-lg">
-        <Link to="/notification" className="btn w-12">
+        <Link to="/history" className="btn w-12">
           <svg
             width="35"
             height="34"
@@ -114,7 +114,7 @@ function Navbar({ openModal }) {
           <p className="text-black mt-2 ">Historial</p>
         </Link>
 
-        <Link to="/record" className="btn w-12">
+        <Link to="/login" className="btn w-12">
           <svg
             width="35"
             height="34"
@@ -129,17 +129,17 @@ function Navbar({ openModal }) {
                     id="Vector"
                     d="M12.7 12C15.4614 12 17.7 9.76142 17.7 7C17.7 4.23858 15.4614 2 12.7 2C9.93856 2 7.69998 4.23858 7.69998 7C7.69998 9.76142 9.93856 12 12.7 12Z"
                     stroke="#484C52"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="1.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                   <path
                     id="Vector_2"
                     d="M21.29 22C21.29 18.13 17.44 15 12.7 15C7.95998 15 4.10999 18.13 4.10999 22"
                     stroke="#484C52"
-                    stroke-width="1.5"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="1.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </g>
               </g>

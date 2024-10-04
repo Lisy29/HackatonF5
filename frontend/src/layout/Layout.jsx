@@ -7,7 +7,7 @@ const Layout = () => {
     <>
       <Nav/> {/* Agregar Navbar */}
         <Outlet />
-      <Footer/> {/* Agregar Footer */}
+       {/* <Footer/>Agregar Footer */}
       </>
   );
 };
