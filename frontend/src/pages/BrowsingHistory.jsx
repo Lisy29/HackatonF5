@@ -19,9 +19,42 @@ const BrowsingHistory = () => {
         </g>
         </svg>
       </div>
-      <div>
-        // en este div va el otro código
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-14">
+    <div class="col-span-1 md:col-span-2">
+    <img src="../src/assets/img-home/img.png" alt="" class="w-full h-auto"/>
+  </div>
+      <h1 class="text-2xl font-bold ml-4">Reportes historicos</h1>
+      <div class="bg-white shadow-md rounded-lg p-4 ml-4 mr-4">
+        <h2 class="text-xl font-bold mb-2">Línea de Metro 1</h2>
+        <p class="text-gray-700">Estado actual: <span class="font-semibold">Retrasos</span></p>
+        <p class="text-gray-700">Incidentes: <span class="font-semibold">Obras en curso</span></p>
+        <p class="text-gray-700">Última actualización: <span class="font-semibold">04/10/2024 00:30</span></p>
       </div>
+      <div class="bg-white shadow-md rounded-lg p-4 ml-4 mr-4">
+        <h2 class="text-xl font-bold mb-2">Línea de Metro 4</h2>
+        <p class="text-gray-700">Estado actual: <span class="font-semibold">Normal</span></p>
+        <p class="text-gray-700">Incidentes: <span class="font-semibold">Ninguno</span></p>
+        <p class="text-gray-700">Última actualización: <span class="font-semibold">04/10/2024 00:30</span></p>
+      </div>
+      <div class="bg-white shadow-md rounded-lg p-4 ml-4 mr-4">
+        <h2 class="text-xl font-bold mb-2">Línea de Metro 6</h2>
+        <p class="text-gray-700">Estado actual: <span class="font-semibold">Normal</span></p>
+        <p class="text-gray-700">Incidentes: <span class="font-semibold">Ninguno</span></p>
+        <p class="text-gray-700">Última actualización: <span class="font-semibold">04/10/2024 00:30</span></p>
+      </div>
+      <div class="bg-white shadow-md rounded-lg p-4 ml-4 mr-4">
+        <h2 class="text-xl font-bold mb-2">Línea de Bus 27</h2>
+        <p class="text-gray-700">Estado actual: <span class="font-semibold">Normal</span></p>
+        <p class="text-gray-700">Incidentes: <span class="font-semibold">Ninguno</span></p>
+        <p class="text-gray-700">Última actualización: <span class="font-semibold">04/10/2024 00:30</span></p>
+      </div>
+      <div class="bg-white shadow-md rounded-lg p-4 ml-4 mr-4 mb-16">
+        <h2 class="text-xl font-bold mb-2">Línea de Bus 148</h2>
+        <p class="text-gray-700">Estado actual: <span class="font-semibold">Normal</span></p>
+        <p class="text-gray-700">Incidentes: <span class="font-semibold">Ninguno</span></p>
+        <p class="text-gray-700">Última actualización: <span class="font-semibold">04/10/2024 00:30</span></p>
+      </div>
+    </div>
     </div>
   )
 }
