@@ -1,31 +1,40 @@
-import React, { useEffect, useState } from "react";
-import Card from "../components/Card";
-import { getTrafficData } from '../services/services'; // Importamos el servicio para obtener los datos
+import React, { useEffect, useState } from 'react';
+import { getTrafficData } from '../services/services'; 
+import Card from '../components/Card'; 
+import banner from '../assets/ecoCityHub.png';
 
 const Home = () => {
-  const [trafficData, setTrafficData] = useState([]); // Estado para almacenar los datos
+  const [trafficData, setTrafficData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
-      const data = await getTrafficData();
-      setTrafficData(data || []); // Guardamos los datos en el estado
+      try {
+        const data = await getTrafficData();
+        console.log("Datos de tráfico recibidos:", data);
+        setTrafficData(data);
+      } catch (error) {
+        console.error('Error fetching traffic data:', error);
+      }
     };
-
-    fetchData(); // Llamamos a la función de carga de datos
+    fetchData();
   }, []);
 
   return (
-    <div>
-      <h1 className="text-2xl bg-red-500">Home</h1>
-      <p>buenas tardes</p>
-      
-      {/* Renderizamos el componente Card solo si los datos están disponibles */}
-      {trafficData ? (
-        trafficData.map((traffic, index) => (
+    <div className="flex flex-col items-center">
+      <div className="w-full">
+        <img 
+          src={banner} 
+          alt="Banner de Múevete Fácil" 
+          className="w-full h-auto object-cover sm:h-60 md:h-72 lg:h-80" 
+        />
+      </div>
+      <h1 className="text-2xl font-bold mb-4">Datos de Tráfico</h1>
+      {trafficData.length > 0 ? (
+        trafficData.map((item, index) => (
           <Card
-            key={index}
-            traffic_streets={traffic.traffic_streets}
-            alternate_route_available={traffic.alternate_route_available.split(',')}
+            key={item.id || index}  // Usar item.id si está disponible, o el índice como respaldo
+            traffic_streets={item.traffic_streets}
+            alternate_route_available={item.alternate_route_available}
           />
         ))
       ) : (

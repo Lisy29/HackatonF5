@@ -23,7 +23,7 @@ export const router = createBrowserRouter([{
         element: <AboutUs/>
     },
     {
-        path: 'History',
+        path: 'history',
         element: <BrowsingHistory/>
     },
     {
