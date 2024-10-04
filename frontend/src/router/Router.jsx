@@ -10,7 +10,7 @@ import Report from "../pages/Report";
 import SignUp from "../pages/SignUp";
 
 export const router = createBrowserRouter([{
-    
+
     path : '/',
     element: <Layout/>,
     children: [
@@ -23,7 +23,7 @@ export const router = createBrowserRouter([{
         element: <AboutUs/>
     },
     {
-        path: 'History',
+        path: 'history',
         element: <BrowsingHistory/>
     },
     {
