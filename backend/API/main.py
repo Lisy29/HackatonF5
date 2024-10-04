@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import crud
 import logging
 
-
+# Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
 models_db.Base.metadata.create_all(bind=engine)
