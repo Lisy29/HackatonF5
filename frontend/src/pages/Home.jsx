@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { getTrafficData } from '../services/services'; 
 import Card from '../components/Card'; 
-import banner from '../assets/ecoCityHub.png';
+import banner from '../assets/img-home/img.png';
 
 const Home = () => {
   const [trafficData, setTrafficData] = useState([]);
@@ -20,7 +20,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center mt-12">
       <div className="w-full">
         <img 
           src={banner} 
